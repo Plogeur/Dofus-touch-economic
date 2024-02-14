@@ -1,0 +1,1264 @@
+name,type,level,recipe
+Poitrine de Glourson fumée,Viande comestible,Niv. 200,"['Dose de jus goûtu', 'Cerise', 'Huile à frire', 'Oignon', 'Épices', 'Mesure de Poivre', 'Sang infecté', 'Poitrine de Glourson conservée']"
+Poitrine de Glourséleste fumée,Viande comestible,Niv. 200,"['Dose de jus goûtu', 'Cerise', 'Huile à frire', 'Oignon', 'Épices', 'Mesure de Poivre', 'Sang infecté', 'Poitrine de Glourséleste conservée']"
+Serviette égarée,Objet utilisable,Niv. 200,[]
+Bouteille de Cocalane,Boisson,Niv. 200,[]
+Parchemin Diamant,Parchemin d'expérience,Niv. 200,[]
+Bavette de Bléro au Frostiz,Viande comestible,Niv. 190,"['Dose de jus goûtu', 'Cerise', 'Huile à frire', 'Oignon', 'Épices', 'Mesure de Poivre', 'Sang infecté', 'Bavette de Bléro conservée']"
+Bavette de Xa au Frostiz,Viande comestible,Niv. 190,"['Dose de jus goûtu', 'Cerise', 'Huile à frire', 'Oignon', 'Épices', 'Mesure de Poivre', 'Sang infecté', 'Bavette de Xa conservée']"
+Bifstèque de Tengu Givrefoux,Viande comestible,Niv. 180,"['Dose de jus goûtu', 'Cerise', 'Huile à frire', 'Oignon', 'Épices', 'Mesure de Poivre', 'Sang infecté', 'Viande de Tengu Givrefoux conservée']"
+Bifstèque de Givrefoux,Viande comestible,Niv. 180,"['Dose de jus goûtu', 'Cerise', 'Huile à frire', 'Oignon', 'Épices', 'Mesure de Poivre', 'Sang infecté', 'Viande de Givrefoux conservée']"
+Entrecôte de Crocodaille **,Viande comestible,Niv. 170,"['Mesure de sel', 'Dose de jus goûtu', 'Huile à frire', 'Feuille de Salace', 'Épices', 'Mesure de Poivre', 'Sang infecté', 'Viande de Crocodaille Conservée **']"
+Chair de Mansot Royal grillée,Viande comestible,Niv. 170,"['Dose de jus goûtu', 'Citron', 'Huile à frire', 'Oignon', 'Épices', 'Mesure de Poivre', 'Sang infecté', 'Chair de Mansot Royal conservée']"
+Entrecôte de Crocodaille ****,Viande comestible,Niv. 170,"['Mesure de sel', 'Dose de jus goûtu', 'Huile à frire', 'Feuille de Salace', 'Épices', 'Mesure de Poivre', 'Sang infecté', 'Viande de Crocodaille Conservée ****']"
+Cuisse de Royalmouth rôtie,Viande comestible,Niv. 150,"['Mesure de sel', 'Dose de jus goûtu', 'Huile à frire', 'Oignon', 'Épices', 'Mesure de Poivre', 'Sang infecté', 'Cuisse de Royalmouth conservée']"
+Entrecôte de Kanigrou ****,Viande comestible,Niv. 140,"['Mesure de sel', 'Huile à frire', 'Feuille de Salace', 'Mesure de Poivre', 'Sang infecté', 'Viande de Kanigrou Conservée ****']"
+Salade de Museau ***,Viande comestible,Niv. 120,"['Noisette', 'Mesure de sel', 'Dose de jus goûtu', 'Citron', 'Feuille de Salace', 'Oignon', 'Mesure de Poivre', 'Museau Conservé ***']"
+Filet de Koalak,Viande comestible,Niv. 120,"['Mesure de sel', 'Dose de jus goûtu', 'Huile à frire', 'Feuille de Salace', 'Épices', 'Mesure de Poivre', 'Sang infecté', 'Viande de Koalak Conservée']"
+Carré de viande cuit,Viande comestible,Niv. 120,"['Dose de jus goûtu', 'Huile à frire', 'Feuille de Salace', 'Oignon', 'Épices', 'Mesure de Poivre', 'Sang infecté', 'Carré de viande conservé']"
+Chair de Mansot grillée,Viande comestible,Niv. 120,"['Dose de jus goûtu', 'Citron', 'Huile à frire', 'Oignon', 'Épices', 'Mesure de Poivre', 'Sang infecté', 'Chair de Mansot conservée']"
+Potion Bulbique,Potion,Niv. 110,"['Farine de Riz', 'Feuille de Kaliptus', 'Fleur de Kaliptus', 'Bulbe Kouraçao', 'Bulbe Malibout', 'Bulbe Passaoh', 'Bulbe Morito']"
+Pain Trépide,Pain,Niv. 100,"['Levure de Boulanger', 'Huile de Sésame', 'Farine de Malt', 'Farine de Houblon', 'Farine de Xavier le Boulanger', 'Une fiole de Pandapiler', 'Viande de Crocodaille']"
+Potion Torboyo,Potion,Niv. 100,"['Feuille de Menthe Sauvage', 'Fleur de Chanvre', 'Grande fiole', 'Cerise', 'Perce-Neige', 'Oreille de Bouftonmouth', 'Oreille percée du Fricochère', 'Oreille de Kaniglou']"
+Essence de bosquet,Potion,Niv. 100,"['Potion de Vieillesse', 'Potion de Souvenir', 'Planche en Charme', 'Planche en Merisier', 'Planche en Oliviolet', 'Planche en Bambou Sombre', 'Planche en Bois de Kaliptus']"
+Eau de la Fontaine de Noffoub,Potion,Niv. 100,"['Feuille de Menthe Sauvage', 'Trèfle à 5 feuilles', 'Fleur de Lin', 'Fleur de Chanvre', 'Orchidée Freyesque', 'Edelweiss', 'Potion de Vieillesse', 'Poils de Kerubim']"
+Pain de Frostiz soufflé,Pain,Niv. 100,"['Levure de Boulanger', 'Eau', ""Farine d'Orge"", 'Farine de Malt', 'Farine de Houblon', 'Farine Paysanne', 'Farine de Xavier le Boulanger', 'Farine de Frostiz soufflé']"
+Poisskaille en fricassée,Poisson comestible,Niv. 100,"['Mesure de sel', 'Dose de jus goûtu', 'Citron', 'Huile à frire', 'Feuille de Salace', 'Épices', 'Mesure de Poivre', 'Poisskaille vidé']"
+Coffre Vorace endormi,Objet utilisable,Niv. 100,[]
+Fiole de Chichala,Potion,Niv. 100,"[""Patte d'Arakne"", 'Oeuf de Tofu', 'Fleur de Chanvre', 'Edelweiss', 'Grande fiole', 'Fleur de Kaliptus', 'Poils de Kerubim', 'Plume de Dolivar']"
+Plat de Filtounga,Viande comestible,Niv. 100,[]
+Plume Vibrante de mansot,Objet utilisable,Niv. 100,[]
+Cuisse de Boufmouth rôtie,Viande comestible,Niv. 100,"['Mesure de sel', 'Dose de jus goûtu', 'Huile à frire', 'Oignon', 'Épices', 'Mesure de Poivre', 'Sang infecté', 'Cuisse de Boufmouth conservée']"
+Potion Raide Rêve,Potion,Niv. 100,"['Feuille de Menthe Sauvage', 'Trèfle à 5 feuilles', 'Fleur de Lin', 'Fleur de Chanvre', 'Orchidée Freyesque', 'Edelweiss', 'Potion de Vieillesse', 'Perce-Neige']"
+Essence de forêt,Potion,Niv. 100,"['Potion de Vieillesse', 'Planche en Ebène', 'Planche en Erable', 'Planche en Merisier', 'Planche en Oliviolet', 'Planche en Bambou Sombre', 'Planche en Bois de Kaliptus', 'Planche en Tremble']"
+Pain Tahde,Pain,Niv. 100,"['Farine de Blé', 'Levure de Boulanger', 'Eau', ""Farine d'Avoine"", 'Farine Blanche', 'Farine Bise', 'Farine Complète', ""Viande d'Oiseau""]"
+Potion Étoilée,Potion,Niv. 100,"['Orchidée Freyesque', 'Edelweiss', 'Potion de Vieillesse', 'Perce-Neige', 'Oreille de Bouftonmouth', 'Oreille percée du Fricochère', 'Oreille de Kaniglou', 'Etoile des neiges']"
+Poisskaille Givré en ragoût,Poisson comestible,Niv. 100,"['Mesure de sel', 'Dose de jus goûtu', 'Citron', 'Huile à frire', 'Feuille de Salace', 'Oignon', 'Mesure de Poivre', 'Poisskaille Givré vidé']"
+Pain de Frostiz,Pain,Niv. 100,"['Levure de Boulanger', 'Eau', ""Farine d'Orge"", 'Farine de Malt', 'Farine de Houblon', 'Farine Paysanne', 'Farine de Xavier le Boulanger', 'Farine de Frostiz']"
+Poisskaille Givré en fricassée,Poisson comestible,Niv. 100,"['Mesure de sel', 'Dose de jus goûtu', 'Citron', 'Huile à frire', 'Feuille de Salace', 'Épices', 'Mesure de Poivre', 'Poisskaille Givré vidé']"
+Pâté impérial,Viande comestible,Niv. 100,"['Huile à frire', 'Feuille de Salace', 'Oignon', 'Viande de Rat Bougri conservée', 'Viande de Chachachovage conservée', 'Viande de Gélikan conservée', 'Chair de Crabe Hijacob conservée']"
+Potion d'altération,Potion,Niv. 100,"['Os de Chafer', 'Noix de Cajou', 'Fleur de Lin', 'Farine Paysanne', 'Orchidée Freyesque', 'Goujon', 'Patte de Wabbit', 'Potion de Copeaux de Bois Solides']"
+Essence de bocage,Potion,Niv. 100,"['Planche en Frêne', 'Planche en bois de Kokoko', 'Planche en Châtaignier', 'Potion de Souvenir', 'Planche en Chêne', 'Planche en Noyer']"
+Pain Gre,Pain,Niv. 80,"['Levure de Boulanger', 'Eau', ""Farine d'Orge"", ""Farine d'Avoine"", 'Farine Blanche', 'Farine Bise', 'Farine Paysanne']"
+Entrecôte de Kanigrou **,Viande comestible,Niv. 80,"['Mesure de sel', 'Huile à frire', 'Feuille de Salace', 'Mesure de Poivre', 'Sang infecté', 'Viande de Kanigrou Conservée **']"
+Entrecôte de Kanigrou,Viande comestible,Niv. 80,"['Mesure de sel', 'Huile à frire', 'Feuille de Salace', 'Mesure de Poivre', 'Sang infecté', 'Viande de Kanigrou Conservée']"
+Entrecôte de Crocodaille,Viande comestible,Niv. 70,"['Mesure de sel', 'Dose de jus goûtu', 'Huile à frire', 'Feuille de Salace', 'Mesure de Poivre', 'Sang infecté', 'Viande de Crocodaille Conservée']"
+Brioche Dorée,Pain,Niv. 60,[]
+Cocawotte,Potion de téléportation,Niv. 60,[]
+Sang de Likrone,Potion,Niv. 60,"['Feuille de Menthe Sauvage', 'Trèfle à 5 feuilles', 'Orchidée Freyesque', 'Edelweiss', 'Grande fiole', 'Cerise']"
+Potion Eau de fée,Potion,Niv. 60,"['Fleur de Lin', 'Fleur de Chanvre', 'Orchidée Freyesque', 'Edelweiss', 'Grande fiole', 'Cerise']"
+Pain aux Céréales,Pain,Niv. 60,"['Farine de Blé', 'Levure de Boulanger', 'Eau', ""Farine d'Orge"", 'Farine de Seigle', ""Farine d'Avoine""]"
+Le Saut Sifflard,Objet utilisable,Niv. 60,[]
+Rougely,Friandise,Niv. 58,['Gelée à la Fraise']
+Vertgely,Friandise,Niv. 56,['Gelée à la Menthe']
+Blugely,Friandise,Niv. 54,['Gelée Bleutée']
+Potion d'oubli : Invocation de Chaferfu,Potion d'oubli de sort,Niv. 50,[]
+Potion d'oubli : Invocation d'Arakne,Potion d'oubli de sort,Niv. 50,[]
+Potion de Croque-mort,Potion de conquête,Niv. 50,"['Champignon', 'Dent de Wabbit', 'Gland', 'Fleur de Lin', 'Potion de Copeaux de Bois Solides']"
+Potion d'invocation de Percepteur,Potion de conquête,Niv. 50,"['Coquille de Dragoeuf Blanc', 'Pétale de Rose Démoniaque', 'Fibre de Lin', 'Tissu Invisible', 'Crocs de Rats', 'Peau de Larve Dorée', 'Graine de la Discorde', 'Chope vide']"
+Apéwicube,Objet utilisable,Niv. 50,[]
+Potion de Vigile,Potion de conquête,Niv. 50,[]
+Potion de Guérisseur,Potion de conquête,Niv. 50,"['Aile du Tofu Maléfique', 'Côtes du Rib', 'Poils du Milimilou', 'Oreille de Kanigrou', 'Pétale de Blop']"
+Parchemin Doré,Parchemin d'expérience,Niv. 50,[]
+Pain aux Noix,Pain,Niv. 40,"['Farine de Blé', 'Levure de Boulanger', 'Eau', 'Noix de Cajou', 'Noix de Pécan']"
+Pain des Champs,Pain,Niv. 40,"['Farine de Blé', 'Levure de Boulanger', 'Eau', 'Farine de Malt', 'Farine de Lin']"
+Potion Raide Boule,Potion,Niv. 40,"['Feuille de Menthe Sauvage', 'Trèfle à 5 feuilles', 'Orchidée Freyesque', 'Edelweiss', 'Potion de Vieillesse']"
+Cawotte pouwwite,Objet utilisable,Niv. 40,[]
+Abragland,Objet utilisable,Niv. 33,[]
+Blopisier empoisonné,Pain,Niv. 30,[]
+Moumoules frites,Viande comestible,Niv. 30,[]
+Parchemin d'Ivoire,Parchemin d'expérience,Niv. 25,[]
+Nisitik Miditik,Objet utilisable,Niv. 21,[]
+Cawotte Maudite,Objet utilisable,Niv. 21,[]
+Pain aux Grains de Poivre,Pain,Niv. 20,"['Farine de Blé', 'Levure de Boulanger', 'Eau', 'Mesure de Poivre']"
+Pain aux Graines de Lin,Pain,Niv. 20,"['Farine de Blé', 'Levure de Boulanger', 'Eau', 'Graine de Lin']"
+Pain aux Noisettes,Pain,Niv. 20,"['Farine de Blé', 'Levure de Boulanger', 'Eau', 'Noisette']"
+Pain au Blé Complet,Pain,Niv. 20,"['Farine de Blé', 'Levure de Boulanger', 'Blé', 'Eau']"
+Briochette,Pain,Niv. 20,"['Levure de Boulanger', 'Eau', 'Oeuf de Tofu', 'Farine de Houblon']"
+Briochette magique,Pain,Niv. 20,"['Levure de Boulanger', 'Eau', 'Oeuf de Tofu', 'Farine de Houblon Magique']"
+Fiole de Soin supérieure,Potion,Niv. 20,"['Trèfle à 5 feuilles', 'Edelweiss', 'Tube longiforme', 'Cerise']"
+Pain aux Graines de Sésame,Pain,Niv. 20,"['Levure de Boulanger', 'Graine de Sésame', 'Eau', 'Farine Blanche']"
+Potion Pahoa Raide,Potion,Niv. 20,"['Feuille de Menthe Sauvage', 'Trèfle à 5 feuilles', 'Orchidée Freyesque', 'Potion de Vieillesse']"
+Cervelle de vampire,Objet utilisable,Niv. 20,[]
+Pain de Seigle,Pain,Niv. 20,"['Levure de Boulanger', 'Eau', 'Farine de Seigle', 'Seigle']"
+Brioche à la viande de bouftou,Pain,Niv. 20,"['Mesure de sel', 'Cuisse de Bouftou **', 'Mesure de Poivre', 'Briochette']"
+Grande Fée d'Artifice Multicolore Virevoltante,Fée d'artifice,Niv. 15,[]
+Grande Fée d'Artifice Rouge Virevoltante,Fée d'artifice,Niv. 15,[]
+Grande Fée d'Artifice Verte Virevoltante,Fée d'artifice,Niv. 15,[]
+Grande Fée d'Artifice Bleue Virevoltante,Fée d'artifice,Niv. 15,[]
+Grande Fée d'Artifice Jaune Virevoltante,Fée d'artifice,Niv. 15,[]
+Fée d'Artifice Verte Virevoltante,Fée d'artifice,Niv. 14,[]
+Fée d'Artifice Bleue Virevoltante,Fée d'artifice,Niv. 14,[]
+Fée d'Artifice Rouge Virevoltante,Fée d'artifice,Niv. 14,[]
+Fée d'Artifice Jaune Virevoltante,Fée d'artifice,Niv. 14,[]
+Fée d'Artifice Multicolore Virevoltante,Fée d'artifice,Niv. 14,[]
+Petite Fée d'Artifice Bleue  Virevoltante,Fée d'artifice,Niv. 13,[]
+Petite Fée d'Artifice Verte Virevoltante,Fée d'artifice,Niv. 13,[]
+Petite Fée d'Artifice Jaune Virevoltante,Fée d'artifice,Niv. 13,[]
+Petite Fée d'Artifice Rouge Virevoltante,Fée d'artifice,Niv. 13,[]
+Petite Fée d'Artifice Multicolore Virevoltante,Fée d'artifice,Niv. 13,[]
+Grande Fée d'Artifice Bleue Crépitante,Fée d'artifice,Niv. 12,[]
+Grande Fée d'Artifice Rouge Crépitante,Fée d'artifice,Niv. 12,[]
+Grande Fée d'Artifice Verte Crépitante,Fée d'artifice,Niv. 12,[]
+Grande Fée d'Artifice Multicolore Crépitante,Fée d'artifice,Niv. 12,[]
+Grande Fée d'Artifice Jaune Crépitante,Fée d'artifice,Niv. 12,[]
+Fée d'Artifice Rouge Crépitante,Fée d'artifice,Niv. 11,[]
+Fée d'Artifice Bleue Crépitante,Fée d'artifice,Niv. 11,[]
+Fée d'Artifice Verte Crépitante,Fée d'artifice,Niv. 11,[]
+Fée d'Artifice Jaune Crépitante,Fée d'artifice,Niv. 11,[]
+Fée d'Artifice Multicolore Crépitante,Fée d'artifice,Niv. 11,[]
+Pain Doré,Pain,Niv. 10,"['Levure de Boulanger', 'Eau', 'Farine de Blé Magique']"
+Parchemin lié,Parchemin de recherche,Niv. 10,[]
+Lot de cinquante parchemins vierges,Parchemin de recherche,Niv. 10,[]
+Essence martiale,Potion Cosmétique,Niv. 10,[]
+Pain aux Flocons d'Avoine,Pain,Niv. 10,"['Levure de Boulanger', 'Eau', ""Farine d'Avoine""]"
+Pain de Seigle Résistant,Pain,Niv. 10,"['Levure de Boulanger', 'Eau', 'Farine de Seigle Magique']"
+Petite Fée d'Artifice Bleue Crépitante,Fée d'artifice,Niv. 10,[]
+Petite Fée d'Artifice Jaune Crépitante,Fée d'artifice,Niv. 10,[]
+Fiole de Soin,Potion,Niv. 10,"['Feuille de Menthe Sauvage', 'Orchidée Freyesque', 'Tube longiforme', 'Cerise']"
+Petite Fée d'Artifice Multicolore Crépitante,Fée d'artifice,Niv. 10,[]
+Parchemin vierge,Parchemin de recherche,Niv. 10,[]
+Potion de Relai de diligence,Potion de téléportation,Niv. 10,"['Ailes de Moskito', 'Orge']"
+Essence de Pwak,Potion Cosmétique,Niv. 10,[]
+Potion Ghetto Raide,Potion,Niv. 10,"['Feuille de Menthe Sauvage', 'Trèfle à 5 feuilles', 'Potion de Vieillesse']"
+Pain des Villes,Pain,Niv. 10,"['Eau', 'Malt', 'Farine de Malt']"
+Lot de dix parchemins vierges,Parchemin de recherche,Niv. 10,[]
+Ordre d'exécution.,Parchemin de recherche,Niv. 10,[]
+Gaufrette Dorée,Pain,Niv. 10,"['Levure de Boulanger', 'Eau', 'Farine de Xavier le Boulanger', 'Pastèque']"
+Pain aux Flocons d'Avoine Aurifère,Pain,Niv. 10,"['Levure de Boulanger', 'Eau', ""Farine d'Avoine Aurifère""]"
+Petite Fée d'Artifice Rouge Crépitante,Fée d'artifice,Niv. 10,[]
+Petite Fée d'Artifice Verte Crépitante,Fée d'artifice,Niv. 10,[]
+Grande Fée d'Artifice Bleue Fontaine,Fée d'artifice,Niv. 9,[]
+Grande Fée d'Artifice Rouge Fontaine,Fée d'artifice,Niv. 9,[]
+Grande Fée d'Artifice Verte Fontaine,Fée d'artifice,Niv. 9,[]
+Grande Fée d'Artifice Jaune Fontaine,Fée d'artifice,Niv. 9,[]
+Grande Fée d'Artifice Multicolore Fontaine,Fée d'artifice,Niv. 9,[]
+Fée d'Artifice Multicolore Fontaine,Fée d'artifice,Niv. 8,[]
+Fée d'Artifice Verte Fontaine,Fée d'artifice,Niv. 8,[]
+Fée d'Artifice Bleue Fontaine,Fée d'artifice,Niv. 8,[]
+Fée d'Artifice Rouge Fontaine,Fée d'artifice,Niv. 8,[]
+Fée d'Artifice Jaune Fontaine,Fée d'artifice,Niv. 8,[]
+Petite Fée d'Artifice Verte Fontaine,Fée d'artifice,Niv. 7,[]
+Petite Fée d'Artifice Multicolore Fontaine,Fée d'artifice,Niv. 7,[]
+Petite Fée d'Artifice Jaune Fontaine,Fée d'artifice,Niv. 7,[]
+Petite Fée d'Artifice Rouge Fontaine,Fée d'artifice,Niv. 7,[]
+Petite Fée d'Artifice Bleue Fontaine,Fée d'artifice,Niv. 7,[]
+Grande Fée d'Artifice Bleue Tournoyante,Fée d'artifice,Niv. 6,[]
+Potion d'oubli Percepteur : Flamme,Potion d'oubli Percepteur,Niv. 6,"['Ailes de Moskito', 'Guildalogemme', 'Graine collante']"
+Potion d'oubli Percepteur : Pods,Potion d'oubli Percepteur,Niv. 6,"['Argent', 'Lin', 'Bois de Charme', 'Edelweiss', 'Potion de Vieillesse', 'Guildalogemme']"
+Grande Fée d'Artifice Rouge Tournoyante,Fée d'artifice,Niv. 6,[]
+Potion d'oubli Percepteur : Cyclone,Potion d'oubli Percepteur,Niv. 6,"['Tronc de Kokoko', 'Guildalogemme', 'Conque Marine']"
+Grande Fée d'Artifice Jaune Tournoyante,Fée d'artifice,Niv. 6,[]
+Potion d'oubli Percepteur : Rocher,Potion d'oubli Percepteur,Niv. 6,"['Pic du Prespic', 'Griffe du Milimulou', 'Guildalogemme']"
+Potion d'oubli Percepteur : Mot Soignant,Potion d'oubli Percepteur,Niv. 6,"['Guildalogemme', 'Bandelettes', 'Oreille de Kanigrou']"
+Potion d'oubli Percepteur : Désenvoutement,Potion d'oubli Percepteur,Niv. 6,"['Pétale de Rose Démoniaque', 'Guildalogemme', 'Tranche de Tikokoko']"
+Potion d'oubli Percepteur : Nombre de percepteur,Potion d'oubli Percepteur,Niv. 6,"['Pierre de Rubis', 'Potion de Vieillesse', 'Guildalogemme']"
+Potion d'oubli Percepteur : Prospection,Potion d'oubli Percepteur,Niv. 6,"['Potion de Vieillesse', 'Petit Parchemin de Chance', 'Guildalogemme']"
+Potion d'oubli Percepteur : Bouclier Protecteur,Potion d'oubli Percepteur,Niv. 6,"['Oeuf de Dragoeuf de Saphir', 'Guildalogemme', 'Duvet de Bourdard']"
+Grande Fée d'Artifice Multicolore Tournoyante,Fée d'artifice,Niv. 6,[]
+Potion d'oubli Percepteur : Compulsion de masse,Potion d'oubli Percepteur,Niv. 6,"['Os de Chafer', 'Guildalogemme', 'Crocs de Rats']"
+Potion d'oubli Percepteur : Puissance,Potion d'oubli Percepteur,Niv. 6,"[""Parchemin d'Ivoire"", 'Potion de Vieillesse', 'Guildalogemme']"
+Grande Fée d'Artifice Verte Tournoyante,Fée d'artifice,Niv. 6,[]
+Potion d'oubli Percepteur : Vague,Potion d'oubli Percepteur,Niv. 6,"['Aile du Tofu Maléfique', 'Poils de Barbe du Bwork Mage', 'Guildalogemme']"
+Potion d'oubli Percepteur : Déstabilisation,Potion d'oubli Percepteur,Niv. 6,"['Pétale de Rose Démoniaque', 'Guildalogemme', 'Crâne de Chafer']"
+Fée d'Artifice Bleue Tournoyante,Fée d'artifice,Niv. 5,[]
+Fée d'Artifice Jaune Tournoyante,Fée d'artifice,Niv. 5,[]
+Fée d'Artifice Multicolore Tournoyante,Fée d'artifice,Niv. 5,[]
+Fée d'Artifice Verte Tournoyante,Fée d'artifice,Niv. 5,[]
+Gâtrool,Viande comestible,Niv. 5,[]
+Fée d'Artifice Rouge Tournoyante,Fée d'artifice,Niv. 5,[]
+Petite Fée d'Artifice Bleue Tournoyante,Fée d'artifice,Niv. 4,[]
+Petite Fée d'Artifice Jaune Tournoyante,Fée d'artifice,Niv. 4,[]
+Petite Fée d'Artifice Rouge Tournoyante,Fée d'artifice,Niv. 4,[]
+Petite Fée d'Artifice Verte Tournoyante,Fée d'artifice,Niv. 4,[]
+Petite Fée d'Artifice Multicolore Tournoyante,Fée d'artifice,Niv. 4,[]
+Grande Fée d'Artifice Jaune,Fée d'artifice,Niv. 3,[]
+Grande Fée d'Artifice Rouge,Fée d'artifice,Niv. 3,[]
+Grande Fée d'Artifice Verte,Fée d'artifice,Niv. 3,[]
+Grande Fée d'Artifice Bleue,Fée d'artifice,Niv. 3,[]
+Grande Fée d'Artifice Multicolore,Fée d'artifice,Niv. 3,[]
+Fée d'Artifice Multicolore,Fée d'artifice,Niv. 2,[]
+Fée d'Artifice Bleue,Fée d'artifice,Niv. 2,[]
+Fée d'Artifice Rouge,Fée d'artifice,Niv. 2,[]
+Fée d'Artifice Verte,Fée d'artifice,Niv. 2,[]
+Fée d'Artifice Jaune,Fée d'artifice,Niv. 2,[]
+Pain d'Amakna,Pain,Niv. 1,"['Farine de Blé', 'Eau']"
+Petit Parchemin de Force,Parchemin de caractéristique,Niv. 1,[]
+Petit Parchemin d'Intelligence,Parchemin de caractéristique,Niv. 1,[]
+Parchemin de Sculpteur d'arcs,Parchemin d'expérience,Niv. 1,[]
+Potion de Vieillesse,Potion,Niv. 1,"['Feuille de Menthe Sauvage', 'Chanvre']"
+Parchemin de Force,Parchemin de caractéristique,Niv. 1,[]
+Puissant Parchemin de Force,Parchemin de caractéristique,Niv. 1,[]
+Puissant Parchemin de Sagesse,Parchemin de caractéristique,Niv. 1,[]
+Parchemin de Vitalité,Parchemin de caractéristique,Niv. 1,[]
+Grand Parchemin de Chance,Parchemin de caractéristique,Niv. 1,[]
+Puissant Parchemin d'Intelligence,Parchemin de caractéristique,Niv. 1,[]
+Clé en Roche de Ded Aléïcar,Potion,Niv. 1,[]
+Parchemin de Cordonnier,Parchemin d'expérience,Niv. 1,[]
+Potion d'oubli : Pile ou Face,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Perception,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Réflexes,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Destin d'Ecaflip,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Aveuglement,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Renvoi de Sort,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Armure Venteuse,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Retour du Bâton,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Glyphe Enflammé,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Epée Divine,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Friction,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Précipitation,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Remblai,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Roulage de Pelle,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Maladresse,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Accélération,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Crocs du Mulou,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Concentration de Chakra,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : La Folle,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Ronce Apaisante,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : La Gonflable,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Ronces Agressives,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Ronce Insolente,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Flèche d'Expiation,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Flèche Punitive,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Flèche Persécutrice,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Mot Drainant,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Mot Soignant,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Mot Stimulant,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Rayon Obscur,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Flétrissement,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Poussière Temporelle,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Momification,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Châtiment Vitalesque,Potion d'oubli de sort,Niv. 1,[]
+Oeuf de Bwak de terre,Oeuf de familier,Niv. 1,[]
+Potion d'oubli de métier : Bûcheron,Potion d'oubli de métier,Niv. 1,"['Bois de Châtaignier', 'Potion de Vieillesse']"
+potion d'oubli de métier : Sculpteur de Bâton,Potion d'oubli de métier,Niv. 1,"['Bâton de Boisaille', 'Potion de Vieillesse']"
+Potion d'oubli de métier : Paysan,Potion d'oubli de métier,Niv. 1,"['Farine de Blé', 'Potion de Vieillesse']"
+Parchemin d'attitude Lâcher les gaz,Parchemin d'attitude,Niv. 1,[]
+Potion d'oubli de métier : Forgemage de Dagues,Potion d'oubli de métier,Niv. 1,"['Leurnettes', 'Potion de Vieillesse']"
+Potion d'oubli de métier : Forgemage de Haches,Potion d'oubli de métier,Niv. 1,"['Potion de Vieillesse', 'Hachette Hévlalav']"
+Perche sautée ***,Poisson comestible,Niv. 1,"['Trèfle à 5 feuilles', 'Mesure de sel', 'Dose de jus goûtu', 'Citron', 'Perche vidée', 'Huile à frire']"
+Perche sautée  ****,Poisson comestible,Niv. 1,"['Trèfle à 5 feuilles', 'Mesure de sel', 'Dose de jus goûtu', 'Citron', 'Chaton-perche vidé', 'Huile à frire']"
+Sardine à l'huile ****,Poisson comestible,Niv. 1,"['Citron', 'Sardine Sombre vidée', 'Huile à frire']"
+Beignet de Greu-vette ****,Poisson comestible,Niv. 1,"['Greu-vette Horreur vidé', 'Huile à frire']"
+Brochet farci **,Poisson comestible,Niv. 1,"['Greu-Vette', 'Mesure de sel', 'Dose de jus goûtu', 'Citron', 'Brochet vidé']"
+Brochet farci ****,Poisson comestible,Niv. 1,"['Greu-Vette', 'Mesure de sel', 'Dose de jus goûtu', 'Citron', 'Brochet Tupe-Halett vidé']"
+Bière du Feubuk,Bière,Niv. 1,[]
+Cuisse de bouftou rôti ***,Viande comestible,Niv. 1,"['Dose de jus goûtu', 'Huile à frire', 'Cuisse de Bouftou Conservée ***']"
+Bifstèque de Dragoviande ***,Viande comestible,Niv. 1,"['Mesure de sel', 'Dose de jus goûtu', 'Oignon', 'Dragoviande Conservée ***']"
+Wabbit gwillé,Viande comestible,Niv. 1,[]
+Wabbit gwillé **,Viande comestible,Niv. 1,"['Huile à frire', 'Épices', 'Mesure de Poivre', 'Cuisse de Wabbit Conservée **']"
+Salade de Museau **,Viande comestible,Niv. 1,"['Noisette', 'Mesure de sel', 'Feuille de Salace', 'Mesure de Poivre', 'Museau Conservé **']"
+Potion d'oubli : Flamiche,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Libération,Potion d'oubli de sort,Niv. 1,[]
+Bière de la Bagrutte,Bière,Niv. 1,[]
+Potion d'oubli de métier : Poissonnier,Potion d'oubli de métier,Niv. 1,"['Potion de Vieillesse', 'Poisson pané frit **']"
+Petite Fée d'Artifice Multicolore,Fée d'artifice,Niv. 1,[]
+Booden glace,Friandise,Niv. 1,[]
+Bière d'Astrub,Bière,Niv. 1,[]
+Une fiole de Pandaburg,Boisson,Niv. 1,[]
+Une fiole de Pandapiler,Boisson,Niv. 1,[]
+Carré de Chocolat Blanc,Friandise,Niv. 1,[]
+Potion d'oubli : Furie,Potion d'oubli de sort,Niv. 1,[]
+Rune du Chasseur,Pierre magique,Niv. 1,"['Fleur de Chanvre', 'Feuille de Salace', 'Cuisse de Bouftou Conservée **']"
+Rune du Forgeur d'Epées,Pierre magique,Niv. 1,"['Bauxite', 'Bois de Noyer', 'Oignon']"
+Rune du Poissonnier,Pierre magique,Niv. 1,"['Bois de Noyer', ""Carpe d'Iem"", 'Feuille de Salace']"
+Rune du Tailleur,Pierre magique,Niv. 1,"['Chanvre', 'Poisson-Chaton', 'Feuille de Salace']"
+Rune du Forgemage d'Epées,Pierre magique,Niv. 1,"['Or', 'Bois de Noyer', 'Mesure de sel']"
+Rune du Sculptemage de Bâtons,Pierre magique,Niv. 1,"['Citron', 'Bois de Bombu', 'Graine de Pandouille']"
+Rune de Joaillomage,Pierre magique,Niv. 1,"['Kobalte', 'Citron', 'Cuisse de Bouftou Conservée **']"
+Potion d'oubli de métier : Costumage,Potion d'oubli de métier,Niv. 1,"['Potion de Vieillesse', 'Le Floude']"
+Potion d'oubli de métier : Joaillomage,Potion d'oubli de métier,Niv. 1,"['Potion de Vieillesse', 'Anneau Vitalesque']"
+Potion d'oubli de métier : Cordomage,Potion d'oubli de métier,Niv. 1,"['Potion de Vieillesse', 'La Spamette']"
+Abreuvoir en Charme,Objet d'élevage,Niv. 1,"['Fiole de Soin', 'Eau', 'Potion de Vieillesse', 'Potion de Mini Soin', 'Potion de Mini Soin Supérieure', 'Planche en Charme']"
+Abreuvoir en Ebène,Objet d'élevage,Niv. 1,"['Fiole de Soin', 'Eau', 'Potion de Vieillesse', 'Potion de Mini Soin', 'Potion de Mini Soin Supérieure', 'Planche en Ebène']"
+Abreuvoir en Bombu,Objet d'élevage,Niv. 1,"['Eau', 'Potion de Mini Soin', 'Planche en Bombu']"
+Abreuvoir en Bambou Sacré,Objet d'élevage,Niv. 1,"['Fiole de Soin', 'Eau', 'Potion de Vieillesse', 'Potion de Mini Soin', 'Potion de Mini Soin Supérieure', 'Potion Eau de fée', 'Sang de Likrone', 'Planche en Bambou Sacré']"
+Mangeoire en Frêne,Objet d'élevage,Niv. 1,"['Planche en Frêne', 'Potion Ghetto Raide']"
+Mangeoire en Chêne,Objet d'élevage,Niv. 1,"['Blé', 'Potion Ghetto Raide', 'Planche en Chêne']"
+Mangeoire en If,Objet d'élevage,Niv. 1,"['Blé', 'Houblon', 'Avoine', 'Potion Ghetto Raide', 'Planche en If']"
+Mangeoire en Ebène,Objet d'élevage,Niv. 1,"['Blé', 'Orge', 'Houblon', 'Avoine', 'Potion Ghetto Raide', 'Planche en Ebène']"
+Mangeoire en Erable,Objet d'élevage,Niv. 1,"['Blé', 'Orge', 'Potion Ghetto Raide', 'Planche en Erable']"
+Mangeoire en Bambou Sacré,Objet d'élevage,Niv. 1,"['Blé', 'Orge', 'Houblon', 'Lin', 'Seigle', 'Avoine', 'Potion Ghetto Raide', 'Planche en Bambou Sacré']"
+Dragofesse Classique,Objet d'élevage,Niv. 1,[]
+Dragofesse en Cuir violet de Mégabwork,Objet d'élevage,Niv. 1,"['Potion de Secousse', 'Cuir violet de Mégabwork']"
+Corne de Brume,Objet utilisable,Niv. 1,[]
+Mangeoire en Bois Envoûté,Objet d'élevage,Niv. 1,"['Blé', 'Orge', 'Houblon', 'Lin', 'Avoine', 'Potion Ghetto Raide', 'Planche en Bois Envoûté']"
+Mangeoire en Bois de Tronknyde,Objet d'élevage,Niv. 1,"['Blé', 'Potion Ghetto Raide', 'Planche en Bois de Tronknyde']"
+Dragofesse en Cuir Violet de Bwork,Objet d'élevage,Niv. 1,"['Planche en Frêne', 'Potion de Secousse', 'Cuir Violet de Bwork', 'Planche en Châtaignier', 'Planche en Chêne', 'Planche en Noyer']"
+Dragofesse en Cuir de Porkass,Objet d'élevage,Niv. 1,"['Planche en Frêne', 'Potion de Secousse', 'Cuir de Porkass', 'Planche en Châtaignier']"
+Caresseur en Plume de Piou Vert,Objet d'élevage,Niv. 1,"['Planche en Frêne', 'Plume de Piou Vert']"
+Caresseur en Ailes de Tofu Maléfique,Objet d'élevage,Niv. 1,"['Aile du Tofu Maléfique', 'Planche en Frêne', 'Ebonite']"
+Caresseur en Plume de Corbac,Objet d'élevage,Niv. 1,"['Planche en Frêne', 'Magnésite', 'Plume de Corbac', 'Planche en Châtaignier']"
+Caresseur en Plume de Kwak de Terre,Objet d'élevage,Niv. 1,"['Planche en Frêne', 'Magnésite', 'Bakélélite', 'Plume du Kwak de Terre', 'Planche en Châtaignier']"
+Baffeur en Frêne,Objet d'élevage,Niv. 1,"['Planche en Frêne', 'Kole']"
+Baffeur en Merisier,Objet d'élevage,Niv. 1,"[""Racine d'Abraknyde"", 'Tronc de Kokoko', 'Kole', 'Planche en Merisier', 'Bâton Solide']"
+Foudroyeur en Charme,Objet d'élevage,Niv. 1,"['Charbon', 'Ebonite', 'Magnésite', 'Bakélélite', 'Kouartz', 'Planche en Charme']"
+Foudroyeur en Châtaignier,Objet d'élevage,Niv. 1,"['Charbon', 'Planche en Châtaignier']"
+Foudroyeur en Noyer,Objet d'élevage,Niv. 1,"['Charbon', 'Planche en Noyer']"
+Foudroyeur en Oliviolet,Objet d'élevage,Niv. 1,"['Charbon', 'Ebonite', 'Planche en Oliviolet']"
+Foudroyeur Classique,Objet d'élevage,Niv. 1,[]
+Piment confit,Friandise,Niv. 1,[]
+Shigekax Orange,Friandise,Niv. 1,[]
+Potion de rappel prismatique,Potion de téléportation,Niv. 1,[]
+Sort: Invocation de Chaferfu,Parchemin de sortilège,Niv. 1,[]
+Ballotin de chocolat,Friandise,Niv. 1,[]
+Shigekax Passion,Friandise,Niv. 1,[]
+Shigekax Reinette,Friandise,Niv. 1,[]
+Shigekax Mirabelle,Friandise,Niv. 1,[]
+Salade Houbée,Viande comestible,Niv. 1,"[""Racine d'Abraknyde"", 'Salade de Museau **', 'Pétale de Blop']"
+Parchemin de Joaillomage,Parchemin d'expérience,Niv. 1,[]
+Parchemin de Forgemage de Dagues,Parchemin d'expérience,Niv. 1,[]
+Parchemin de Sculptemage d'Arcs,Parchemin d'expérience,Niv. 1,[]
+Parchemin de Mineur,Parchemin d'expérience,Niv. 1,[]
+Sort Spécial Retraite anticipée,Parchemin de sortilège,Niv. 1,[]
+Sort: Capture d'âmes,Parchemin de sortilège,Niv. 1,[]
+Sort: Marteau de Moon,Parchemin de sortilège,Niv. 1,[]
+Potion de soin larvesque,Potion,Niv. 1,"['Peau de Larve Orange', 'Huile de Sésame']"
+Craqueloroche,Objet utilisable,Niv. 1,[]
+Potion de changement des couleurs,Potion Cosmétique,Niv. 1,[]
+Bonbon à la Menthe du Prospecteur,Friandise,Niv. 1,[]
+Sac de Fantaisies Eliatropes,Objet utilisable,Niv. 1,[]
+Potion d'oubli : Invocation de Dopeul Ecaflip,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Invocation de Dopeul Sadida,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Explobombe,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Roublardise,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Resquille,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Bombe à Eau,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Pulsar,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Poudre,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Rémission,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Surcharge,Potion d'oubli de sort,Niv. 1,[]
+Agent infectieux de la rosissure,Objet utilisable,Niv. 1,[]
+Parchemin d'attitude Super Héros,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Refuser,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Offrir un cadeau,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Montrer son arme,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Croiser les bras,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Baisser le pouce,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Manolias,Parchemin d'attitude,Niv. 1,[]
+Coquetel Emaque,Boisson,Niv. 1,[]
+Fricassée de Thongue Salée,Friandise,Niv. 1,[]
+Sort Spécial Sram : Poisse,Parchemin de sortilège,Niv. 1,[]
+Kipik en Chocolat,Friandise,Niv. 1,[]
+Boole de neige,Fée d'artifice,Niv. 1,"['Capsule Explosive', 'Flocon de Neige']"
+Fée d'artifice bleue de Pwâk,Fée d'artifice,Niv. 1,[]
+Ballon Baladeur Magique,Objet utilisable,Niv. 1,[]
+Parchemin d'attitude Avoir froid,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Avoir chaud,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Attirer l'attention,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Se frotter les mains,Parchemin d'attitude,Niv. 1,[]
+Sukette à la Fraise,Friandise,Niv. 1,[]
+Sukette au Citron,Friandise,Niv. 1,[]
+Bonbon Zaï Hallucinogène,Friandise,Niv. 1,[]
+Bonbon du Prospecteur,Friandise,Niv. 1,[]
+Bonbon du Formateur,Friandise,Niv. 1,[]
+Barre Rabmarac à la Fraise,Friandise,Niv. 1,[]
+Barre Rabmarac au Nougat,Friandise,Niv. 1,[]
+Craqueleur des Glaces en Sucre Glace,Friandise,Niv. 1,[]
+Brioche de Nowel,Pain,Niv. 1,[]
+Potion de Kerubim,Potion de téléportation,Niv. 1,[]
+Bouf'gomme à la Pêche,Friandise,Niv. 1,[]
+Fée d'artifice Culottée,Fée d'artifice,Niv. 1,[]
+Fée d'artifice Musicale,Fée d'artifice,Niv. 1,[]
+Fée d'artifice Cawotte,Fée d'artifice,Niv. 1,[]
+Fée d'artifice Nuageuse,Fée d'artifice,Niv. 1,[]
+Mimibiote,Mimibiote,Niv. 1,[]
+Parchemin d'Appellation: Dieu de l'arène,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Agitateur du peuple,Parchemin d'Appellation,Niv. 1,[]
+Bienfaisant,Parchemin d'attitude,Niv. 1,[]
+Sanguinolent,Parchemin d'attitude,Niv. 1,[]
+Jurassique,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'attitude Dragosaure,Parchemin d'attitude,Niv. 1,[]
+Estival,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Parangon Eniripsa,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Parangon Sacrieur,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Parangon Sram,Parchemin d'Appellation,Niv. 1,[]
+Sylvestre,Parchemin d'attitude,Niv. 1,[]
+Criminel,Parchemin d'attitude,Niv. 1,[]
+Elixir d'Ascension,Potion de téléportation,Niv. 1,"['Fibre de Chanvre', 'Potion de Vieillesse', 'Chope vide', 'Fleur de Dodus', 'Pastèque']"
+Parchemin d'Appellation: Grimpeur de Cristal,Parchemin d'Appellation,Niv. 1,[]
+Potion de la Mage Upichu,Potion de téléportation,Niv. 1,"['Cerise', 'Fleur de Dodus']"
+Parchemin d'Appellation : Vétéran de l'ancienne Pandala,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Gladiateur,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Az'hassin,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'attitude Explosif,Parchemin d'attitude,Niv. 1,[]
+Sauvage,Parchemin d'attitude,Niv. 1,[]
+Dernier Espoir,Parchemin d'attitude,Niv. 1,[]
+Balai magique,Parchemin d'attitude,Niv. 1,[]
+Carnaval,Parchemin d'attitude,Niv. 1,[]
+Étendard de Shariva,Parchemin d'attitude,Niv. 1,[]
+Petit Parchemin de Chance,Parchemin de caractéristique,Niv. 1,[]
+Petit Parchemin d'Agilité,Parchemin de caractéristique,Niv. 1,[]
+Parchemin d'Appellation : Missionné,Parchemin d'Appellation,Niv. 1,[]
+Souffle de Virizeon,Parchemin d'attitude,Niv. 1,[]
+Sushiwi,Friandise,Niv. 1,[]
+Parchemin d'Appellation: L'ami des Yokai,Parchemin d'Appellation,Niv. 1,[]
+Découpage,Parchemin d'attitude,Niv. 1,[]
+Animorphose,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'Appellation: Agitateur Astral,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation : Terreur des Terres du Nord,Parchemin d'Appellation,Niv. 1,[]
+Ornement Horticultueur,Parchemin d'Appellation,Niv. 1,[]
+Bière d'Amakna,Bière,Niv. 1,[]
+Parchemin de Bûcheron,Parchemin d'expérience,Niv. 1,[]
+Parchemin de Forgeur de dagues,Parchemin d'expérience,Niv. 1,[]
+Parchemin de Sculpteur de baguettes,Parchemin d'expérience,Niv. 1,[]
+Sort: Libération,Parchemin de sortilège,Niv. 1,[]
+Sort: Invocation d'Arakne,Parchemin de sortilège,Niv. 1,[]
+Grand Parchemin de Force,Parchemin de caractéristique,Niv. 1,[]
+Puissant Parchemin de Chance,Parchemin de caractéristique,Niv. 1,[]
+Shigekax Menthe,Friandise,Niv. 1,[]
+Potion d'oubli : Griffe de Ceangal,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Glyphe Aggressif,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Bulle,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Fraction,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Bouclier Féca,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Glyphe de Répulsion,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Bond,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Intimidation,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Puissance,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Tempête de Puissance,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Epée de Iop,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Clé réductrice,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Pelle Animée,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Maladresse de Masse,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Pelle Massacrante,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Crapaud,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Fouet,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Invocation de Sanglier,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Frappe du Craqueleur,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Sournoiserie,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Fourvoiement,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Coup Sournois,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Invisibilité,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Piège Répulsif,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Pulsion de Chakra,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Attaque Mortelle,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : La Bloqueuse,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Sacrifice Poupesque,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Connaissance des poupées,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Flèche Enflammée,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Tir Eloigné,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Oeil de Taupe,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Tir Puissant,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Flèche Harcelante,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Flèche Absorbante,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Flèche Ralentissante,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Mot Blessant,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Mot de Prévention,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Mot Revitalisant,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Mot Vampirique,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Mot de Sacrifice,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Mot d'Amitié,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Mot d'Envol,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Ralentissement,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Rembobinage,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Gelure,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Aiguille chercheuse,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Dévouement,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Démotivation,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Contre,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Châtiment Forcé,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Pied du Sacrieur,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Transposition,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Châtiment Spirituel,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Détonateur,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli de métier : Sculpteur d'Arcs,Potion d'oubli de métier,Niv. 1,"['Arc de Boisaille', 'Potion de Vieillesse']"
+Potion d'oubli de métier : Forgeur de Haches,Potion d'oubli de métier,Niv. 1,"['Potion de Vieillesse', 'Hachette de Bûcheron']"
+Potion d'oubli de métier : Sculptemage d'Arcs,Potion d'oubli de métier,Niv. 1,"['Potion de Vieillesse', 'Arc Hade']"
+Poisson pané frit **,Poisson comestible,Niv. 1,"['Dose de jus goûtu', 'Poisson pané vidé', 'Huile à frire']"
+Poisson pané frit ***,Poisson comestible,Niv. 1,"['Dose de jus goûtu', 'Poisson pané vidé', 'Huile à frire']"
+Poisson pané frit ****,Poisson comestible,Niv. 1,[]
+Bâton de crabe ****,Poisson comestible,Niv. 1,"['Dose de jus goûtu', 'Crabe Sourimi exotique vidé']"
+Poisson-Chaton fumé **,Poisson comestible,Niv. 1,"['Mesure de sel', 'Citron', 'Poisson-Chaton vidé']"
+Poisson-Tigre fumé ****,Poisson comestible,Niv. 1,"['Citron', 'Poisson Tigre vidé']"
+Carpe vapeur ****,Poisson comestible,Niv. 1,"['Mesure de sel', 'Dose de jus goûtu', 'Citron', 'Carpette des sables vidée']"
+Carpe vapeur **,Poisson comestible,Niv. 1,"['Mesure de sel', 'Dose de jus goûtu', 'Citron', ""Carpe d'Iem vidée""]"
+Carpe vapeur ***,Poisson comestible,Niv. 1,"['Mesure de sel', 'Dose de jus goûtu', 'Citron', ""Carpe d'Iem vidée""]"
+Perche sautée,Poisson comestible,Niv. 1,"['Trèfle à 5 feuilles', 'Mesure de sel', 'Dose de jus goûtu', 'Citron', 'Perche vidée', 'Huile à frire']"
+Sardine à l'huile  ***,Poisson comestible,Niv. 1,"['Citron', 'Sardine Brillante vidée', 'Huile à frire']"
+Truite flambée **,Poisson comestible,Niv. 1,"['Citron', 'Truite vidée']"
+Kralamoure grillé ****,Poisson comestible,Niv. 1,"['Dose de jus goûtu', 'Citron', 'Kralamoure Unique vidé', 'Huile à frire']"
+Nuggets,Viande comestible,Niv. 1,"['Huile à frire', ""Viande d'Oiseau Conservée""]"
+Boulettes d'Insecte **,Viande comestible,Niv. 1,"['Mesure de sel', 'Citron', ""Chair d'Insecte Conservée **""]"
+Bifstèque de Dragoviande ****,Viande comestible,Niv. 1,"['Mesure de sel', 'Dose de jus goûtu', 'Oignon', 'Dragoviande Conservée ****']"
+Wabbit gwillé ***,Viande comestible,Niv. 1,"['Huile à frire', 'Épices', 'Mesure de Poivre', 'Cuisse de Wabbit Conservée ***']"
+Jambon cuit ***,Viande comestible,Niv. 1,"['Feuille de Salace', 'Mesure de Poivre', 'Carré de Porc Conservé ***']"
+Nuggets ****,Viande comestible,Niv. 1,"['Huile à frire', ""Viande d'Oiseau Conservée ****""]"
+Sucre d'Orge,Friandise,Niv. 1,"['Eau', ""Farine d'Orge en Sucre""]"
+Bière du Chabrulé,Bière,Niv. 1,[]
+Potion d'oubli : Marteau de Moon,Potion d'oubli de sort,Niv. 1,[]
+Bière de la Chopenbois,Bière,Niv. 1,[]
+Pain du Pinchaut,Pain,Niv. 1,[]
+Sort Spécial Poisse,Parchemin de sortilège,Niv. 1,[]
+Carré de Chocolat Noir,Friandise,Niv. 1,[]
+Potion d'oubli : Epée Volante,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Détour,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli de métier : Façonneur,Potion d'oubli de métier,Niv. 1,"['Cuivre', 'Potion de Vieillesse']"
+Rune du Paysan,Pierre magique,Niv. 1,"['Chanvre', 'Bois de Noyer', 'Oignon']"
+Rune du Boucher,Pierre magique,Niv. 1,"['Fleur de Chanvre', 'Mesure de sel', 'Cuisse de Bouftou Conservée **']"
+Rune du Forgeur de Dagues,Pierre magique,Niv. 1,"['Bauxite', 'Bois de Noyer', 'Feuille de Salace']"
+Rune du Forgeur de Pelles,Pierre magique,Niv. 1,"['Bauxite', 'Feuille de Salace', 'Bois de Bombu']"
+Rune du Sculpteur d'Arcs,Pierre magique,Niv. 1,"['Bois de Noyer', ""Carpe d'Iem"", 'Oignon']"
+Rune du Sculpteur de Bâtons,Pierre magique,Niv. 1,"['Bauxite', 'Bois de Noyer', 'Feuille de Salace']"
+Rune de Costumage,Pierre magique,Niv. 1,"['Kobalte', 'Mesure de sel', 'Feuille de Salace']"
+Abreuvoir en Frêne,Objet d'élevage,Niv. 1,"['Eau', 'Planche en Frêne']"
+Abreuvoir en Erable,Objet d'élevage,Niv. 1,"['Eau', 'Potion de Mini Soin', 'Potion de Mini Soin Supérieure', 'Planche en Erable']"
+Abreuvoir en Oliviolet,Objet d'élevage,Niv. 1,"['Eau', 'Potion de Mini Soin', 'Planche en Oliviolet']"
+Abreuvoir en Bambou,Objet d'élevage,Niv. 1,"['Eau', 'Potion de Mini Soin', 'Potion de Mini Soin Supérieure', 'Planche en Bambou']"
+Mangeoire en Noyer,Objet d'élevage,Niv. 1,"['Potion Ghetto Raide', 'Planche en Noyer']"
+Mangeoire en Oliviolet,Objet d'élevage,Niv. 1,"['Blé', 'Potion Ghetto Raide', 'Planche en Oliviolet']"
+Mangeoire en Bambou Sombre,Objet d'élevage,Niv. 1,"['Blé', 'Orge', 'Houblon', 'Lin', 'Avoine', 'Potion Ghetto Raide', 'Planche en Bambou Sombre']"
+Dragofesse en Résine,Objet d'élevage,Niv. 1,"['Planche en Frêne', 'Potion de Secousse', 'Résine végétale']"
+Abreuvoir en Bois Envoûté,Objet d'élevage,Niv. 1,"['Fiole de Soin', 'Eau', 'Potion de Vieillesse', 'Potion de Mini Soin', 'Potion de Mini Soin Supérieure', 'Potion Eau de fée', 'Sang de Likrone', 'Planche en Bois Envoûté']"
+Abreuvoir en Bois de Tronknyde,Objet d'élevage,Niv. 1,"['Eau', 'Potion de Mini Soin', 'Planche en Bois de Tronknyde']"
+Mangeoire en Bambou Doré,Objet d'élevage,Niv. 1,"['Blé', 'Orge', 'Houblon', 'Lin', 'Seigle', 'Avoine', 'Potion Ghetto Raide', 'Planche en Bambou Doré']"
+Dragofesse en Cuir de Bouftou Royal,Objet d'élevage,Niv. 1,"['Planche en Frêne', 'Cuir de Bouftou Royal', 'Potion de Secousse', 'Planche en Châtaignier', 'Planche en Chêne', 'Planche en Noyer', 'Planche en Bombu', 'Planche en Oliviolet']"
+Caresseur en Plume de Piou Jaune,Objet d'élevage,Niv. 1,"['Planche en Frêne', 'Plume de Piou Jaune']"
+Caresseur en Plume de Kwak de Vent,Objet d'élevage,Niv. 1,"['Plume du Kwak de Vent', 'Planche en Frêne', 'Magnésite', 'Bakélélite', 'Planche en Châtaignier']"
+Caresseur en Plume du Maître Corbac,Objet d'élevage,Niv. 1,"['Planche en Frêne', 'Plume du Maître Corbac', 'Kobalite', 'Planche en Châtaignier', 'Pyrute', 'Rutile', 'Planche en Noyer', 'Planche en Bombu']"
+Baffeur en Erable,Objet d'élevage,Niv. 1,"[""Racine d'Abraknyde"", 'Tronc de Kokoko', 'Kole', 'Planche en Erable']"
+Baffeur en Charme,Objet d'élevage,Niv. 1,"[""Racine d'Abraknyde"", ""Bourgeon d'Abraknyde Vénérable"", 'Bois Envoûté', 'Kole', 'Planche en Charme', 'Bâton Solide']"
+Baffeur en Bambou,Objet d'élevage,Niv. 1,"[""Racine d'Abraknyde"", 'Tronc de Kokoko', 'Kole', 'Planche en Bambou']"
+Baffeur en Bombu,Objet d'élevage,Niv. 1,"[""Racine d'Abraknyde"", 'Kole', 'Planche en Bombu']"
+Baffeur en Bambou Sacré,Objet d'élevage,Niv. 1,"[""Racine d'Abraknyde"", ""Bourgeon d'Abraknyde Vénérable"", 'Bois Envoûté', 'Kole', ""Racine d'Abraknyde Sombre"", 'Bourgeon de Fourbasse', 'Planche en Bambou Sacré', 'Bâton Solide']"
+Baffeur en Bambou Doré,Objet d'élevage,Niv. 1,"[""Racine d'Abraknyde"", ""Bourgeon d'Abraknyde Vénérable"", 'Bois Envoûté', 'Kole', ""Racine d'Abraknyde Sombre"", 'Bourgeon de Fourbasse', 'Planche en Bambou Doré', 'Bâton Solide']"
+Foudroyeur en Ebène,Objet d'élevage,Niv. 1,"['Charbon', 'Ebonite', 'Magnésite', 'Bakélélite', 'Kouartz', 'Planche en Ebène']"
+Foudroyeur en Bombu,Objet d'élevage,Niv. 1,"['Charbon', 'Ebonite', 'Planche en Bombu']"
+Foudroyeur en Bambou,Objet d'élevage,Niv. 1,"['Charbon', 'Ebonite', 'Magnésite', 'Planche en Bambou']"
+Foudroyeur en Bois de Tronknyde,Objet d'élevage,Niv. 1,"['Charbon', 'Ebonite', 'Planche en Bois de Tronknyde']"
+Foudroyeur en Bambou Doré,Objet d'élevage,Niv. 1,"['Charbon', 'Bakélélite', 'Kouartz', 'Kriptonite', 'Kobalite', 'Pyrute', 'Rutile', 'Planche en Bambou Doré']"
+Foudroyeur en Bois de Kokoko,Objet d'élevage,Niv. 1,"['Charbon', 'Planche en bois de Kokoko']"
+Fragment Magique,Pierre magique,Niv. 1,[]
+Limonade d'Incarnam,Boisson,Niv. 1,[]
+Potion d'oubli : Boomerang perfide,Potion d'oubli de sort,Niv. 1,[]
+Potion de Foyer de Guilde,Potion de téléportation,Niv. 1,"['Bout de Blop Coco', 'Bout de Blop Reinette', 'Bout de Blop Griotte', 'Bout de Blop Indigo', 'Potion de Foyer']"
+Shigekax Caramel,Friandise,Niv. 1,[]
+Shigekax Chocolat,Friandise,Niv. 1,[]
+Shigekax Melon,Friandise,Niv. 1,[]
+Potion d'enclos de Guilde,Potion de téléportation,Niv. 1,"['Fleur de Blop Coco', 'Fleur de Blop Reinette', 'Fleur de Blop Griotte', 'Fleur de Blop Indigo', 'Potion de Foyer']"
+Shigekax Griotte,Friandise,Niv. 1,[]
+Shigekax Acidulé,Friandise,Niv. 1,[]
+Elixir Ecaflip,Potion de téléportation,Niv. 1,"['Fruit de Palme', 'Fleur de Chanvre', 'Cerise', 'Citron', 'Truite vidée']"
+Elixir Osamodas,Potion de téléportation,Niv. 1,"['Fruit de Palme', 'Fleur de Chanvre', 'Cerise', 'Truite vidée', 'Crâne de Chafer']"
+Parchemin de Bijoutier,Parchemin d'expérience,Niv. 1,[]
+Parchemin de Boucher,Parchemin d'expérience,Niv. 1,[]
+Parchemin de Bricoleur,Parchemin d'expérience,Niv. 1,[]
+Parchemin de Forgeur de Haches,Parchemin d'expérience,Niv. 1,[]
+Parchemin de Forgemage de Haches,Parchemin d'expérience,Niv. 1,[]
+Parchemin d'Alchimiste,Parchemin d'expérience,Niv. 1,[]
+Parchemin de Cordomage,Parchemin d'expérience,Niv. 1,[]
+Sort Spécial Flèche de dispersion,Parchemin de sortilège,Niv. 1,[]
+Sort Spécial Ivresse,Parchemin de sortilège,Niv. 1,[]
+Sort Spécial Raulebaque,Parchemin de sortilège,Niv. 1,[]
+Coffre de Jorbak,Objet utilisable,Niv. 1,[]
+Potion de crapaud-mufle,Potion,Niv. 1,"['Peau de Larve Bleue', 'Oeuf de Tofu', 'Bave de Bouftou']"
+Potion de HmmMmm,Potion,Niv. 1,"['Peau de Larve Orange', ""Patte d'Arakne"", 'Bave de Bouftou', 'Boue du Boo']"
+Úridnac,Objet utilisable,Niv. 1,[]
+Fée d'artifice Térik,Fée d'artifice,Niv. 1,"['Bave de Bouftou', 'Capsule Explosive', 'Plume de Piou Vert']"
+Pizza au boudin de boufmouth,Objet utilisable,Niv. 1,[]
+Fantaisie Eliatrope,Fée d'artifice,Niv. 1,[]
+Potion d'oubli : Invocation de Dopeul Pandawa,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Invocation de Dopeul Sacrieur,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Botte,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Entourloupe,Potion d'oubli de sort,Niv. 1,[]
+Parchemin d'attitude S'agenouiller,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Pierre Feuille Ciseaux,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Manolias,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Mains sur les hanches,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Applaudir,Parchemin d'attitude,Niv. 1,[]
+Sort Spécial Eniripsa : Mot de Régénération,Parchemin de sortilège,Niv. 1,[]
+Sort Spécial Sacrieur: Purge,Parchemin de sortilège,Niv. 1,[]
+Bonhomme de Neige en Sucre Glace,Friandise,Niv. 1,[]
+Kanigrou Hivernal en Sucre Glace,Friandise,Niv. 1,[]
+Traîneau en Pain d'Épices,Friandise,Niv. 1,[]
+Bûche de Nowel,Friandise,Niv. 1,[]
+Potion de changement de blason de guilde,Potion Cosmétique,Niv. 1,[]
+Parchemin d'attitude Se prosterner,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Gonfler ses muscles,Parchemin d'attitude,Niv. 1,[]
+Potion de Bibliotemple,Potion de téléportation,Niv. 1,"['Os de Chafer', 'Fleur de Blop Indigo']"
+Sukette à la Pomme,Friandise,Niv. 1,[]
+Bonbon Zaï Planant,Friandise,Niv. 1,[]
+Beignet de Karnaval,Friandise,Niv. 1,[]
+Barre Rabmarac au Caramel,Friandise,Niv. 1,[]
+Barre Rabmarac au Kola,Friandise,Niv. 1,[]
+Sakai Firefoux en Sucre Glace,Friandise,Niv. 1,[]
+Boufballe Surprise,Objet utilisable,Niv. 1,[]
+Fée d'artifice Feignante,Fée d'artifice,Niv. 1,[]
+Fée d'artifice Invocatrice d'Arakne,Fée d'artifice,Niv. 1,[]
+Parchemin d'attitude Garde-à-vous,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'Appellation: Bête à test,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Casse l'écaille,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Parangon Crâ,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Parangon Pandawa,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Parangon Roublard,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Parangon Zobal,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Forgemage talentueux,Parchemin d'Appellation,Niv. 1,[]
+Ailes d'oiseau panées,Viande comestible,Niv. 1,"['Dose de jus goûtu', 'Huile à frire', 'Oignon', 'Pastèque', ""Viande d'Oiseau Conservée ***""]"
+Psychotique,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'Appellation: Étoile montante,Parchemin d'Appellation,Niv. 1,[]
+Piraniak vapeur,Poisson comestible,Niv. 1,"['Mesure de sel', 'Dose de jus goûtu', 'Citron', 'Huile à frire', 'Piraniak vidé']"
+Parchemin d'attitude Ballistique,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Vaporeux,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Rythme,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Ola,Parchemin d'attitude,Niv. 1,[]
+Trop mangé,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'Appellation: Voyageur des Abîmes,Parchemin d'Appellation,Niv. 1,[]
+Aura Musicale,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'Appellation: Explorateur émérite,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Cœur dans la terre,Parchemin d'Appellation,Niv. 1,[]
+Ornement Plumeau,Parchemin d'Appellation,Niv. 1,[]
+Ornement Saiya,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation : Pionnier,Parchemin d'Appellation,Niv. 1,[]
+Samouraï,Parchemin d'attitude,Niv. 1,[]
+Curry,Friandise,Niv. 1,[]
+Origami,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'Appellation: Ostéomancien,Parchemin d'Appellation,Niv. 1,[]
+Snap,Parchemin d'attitude,Niv. 1,[]
+Charmeur de Cooleuvre,Parchemin d'attitude,Niv. 1,[]
+Guerrier,Parchemin d'attitude,Niv. 1,[]
+Bonbon du Prospecteur,Friandise,Niv. 1,[]
+Manifestation de Raval,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'Appellation : Krosplayeur Intemporel,Parchemin d'Appellation,Niv. 1,[]
+Pomme,Friandise,Niv. 1,[]
+Parchemin d'amélioration de Sorts,Parchemin de caractéristique,Niv. 1,[]
+Sort Spécial: Brokle,Parchemin de sortilège,Niv. 1,[]
+Pain au curry sans curry,Pain,Niv. 1,[]
+Parchemin d'Agilité,Parchemin de caractéristique,Niv. 1,[]
+Puissant Parchemin d'Agilité,Parchemin de caractéristique,Niv. 1,[]
+Grand Parchemin de Sagesse,Parchemin de caractéristique,Niv. 1,[]
+Grand Parchemin de Vitalité,Parchemin de caractéristique,Niv. 1,[]
+Parchemin de Chance,Parchemin de caractéristique,Niv. 1,[]
+Shigekax Citron,Friandise,Niv. 1,[]
+Shigekax Cerise,Friandise,Niv. 1,[]
+Potion d'oubli : Chance d'Ecaflip,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Bluff,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Tout ou Rien,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Roue de la Fortune,Potion d'oubli de sort,Niv. 1,[]
+Potion de Mini Soin,Potion,Niv. 1,"['Fleur de Lin', 'Cerise']"
+Potion d'oubli : Armure Incandescente,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Attaque Nuageuse,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Poutch,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Couper,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Vitalité,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Epée du Jugement,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Epée Céleste,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Concentration,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Sac Animé,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Cupidité,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Cri de l'Ours,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Invocation de Prespic,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Piqûre Motivante,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Soin Animal,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Piège Sournois,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Piège de Masse,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Piège Empoisonné,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Piège d'Immobilisation,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Peur,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Piège Mortel,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Ronce,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Larme,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Puissance Sylvestre,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Arbre,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Vent Empoisonné,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Herbe Folle,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Flèche Cinglante,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Maîtrise de l'Arc,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Mot Curatif,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Mot de Frayeur,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Mot de Regénération,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Mot d'Altruisme,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Mot de Reconstitution,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Flou,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Téléportation,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Sablier de Xélor,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Vol du Temps,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Horloge,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Châtiment Osé,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Dissolution,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Sacrifice,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Dérobade,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Coopération,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Punition,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Contrecoup,Potion d'oubli de sort,Niv. 1,[]
+Oeuf de Bwak de feu,Oeuf de familier,Niv. 1,[]
+potion d'oubli de métier : Bijoutier,Potion d'oubli de métier,Niv. 1,"['Potion de Vieillesse', 'Le Plussain']"
+Potion d'oubli de métier : Mineur,Potion d'oubli de métier,Niv. 1,"['Fer', 'Potion de Vieillesse']"
+Potion d'oubli de métier : Boulanger,Potion d'oubli de métier,Niv. 1,"[""Pain d'Amakna"", 'Potion de Vieillesse']"
+Potion d'oubli de métier : Alchimiste,Potion d'oubli de métier,Niv. 1,"['Trèfle à 5 feuilles', 'Potion de Vieillesse']"
+Potion d'oubli de métier : Forgemage d'Epées,Potion d'oubli de métier,Niv. 1,"['Epée de Fouraille', 'Potion de Vieillesse']"
+Potion d'oubli de métier : Forgemage de Pelles,Potion d'oubli de métier,Niv. 1,"['Pelle de Crapouille', 'Potion de Vieillesse']"
+Potion d'oubli de métier : Sculptemage de Bâtons,Potion d'oubli de métier,Niv. 1,"['Bâton Feuillu', 'Potion de Vieillesse']"
+Goujon en tranche **,Poisson comestible,Niv. 1,"['Citron', 'Goujon vidé']"
+Goujon en tranche ***,Poisson comestible,Niv. 1,"['Citron', 'Goujon vidé']"
+Aile de Raie **,Poisson comestible,Niv. 1,"['Feuille de Menthe Sauvage', 'Dose de jus goûtu', 'Citron', 'Raie bleue vidée', 'Huile à frire', 'Oignon']"
+Truite flambée ***,Poisson comestible,Niv. 1,"['Citron', 'Truite vidée']"
+Brochet farci ***,Poisson comestible,Niv. 1,"['Greu-Vette', 'Mesure de sel', 'Dose de jus goûtu', 'Citron', 'Brochet vidé']"
+Requin aux épices ***,Poisson comestible,Niv. 1,"['Mesure de sel', 'Dose de jus goûtu', 'Citron', 'Requin marteau-faucille vidé', 'Huile à frire', 'Oignon', 'Épices']"
+Larve croque-sel **,Viande comestible,Niv. 1,"['Mesure de sel', 'Chair de Larve Conservée **']"
+Larve croque-sel ***,Viande comestible,Niv. 1,"['Mesure de sel', 'Chair de Larve Conservée ***']"
+Boulettes d'Insecte,Viande comestible,Niv. 1,"['Mesure de sel', 'Graisse de Gelée', ""Chair d'Insecte Conservée""]"
+Bifstèque de Dragoviande,Viande comestible,Niv. 1,"['Mesure de sel', 'Dose de jus goûtu', 'Oignon', 'Dragoviande Conservée']"
+Bifstèque de Dragoviande **,Viande comestible,Niv. 1,"['Mesure de sel', 'Dose de jus goûtu', 'Oignon', 'Dragoviande Conservée **']"
+Bière du Alakarte,Bière,Niv. 1,[]
+Bonbon Rouge Surpuissant,Friandise,Niv. 1,[]
+Potion de Foyer,Potion de téléportation,Niv. 1,"['Fleur de Chanvre', ""Bois d'Oliviolet"", 'Piraniak']"
+Petite Fée d'Artifice Verte,Fée d'artifice,Niv. 1,[]
+Petite Fée d'Artifice Bleue,Fée d'artifice,Niv. 1,[]
+Petite Fée d'Artifice Jaune,Fée d'artifice,Niv. 1,[]
+Grande Fée d'Artifice Invocatrice de Tofu,Fée d'artifice,Niv. 1,"['Plumes de Tofu', 'Poudre de Perlinpainpain', ""Poudre d'Artifice""]"
+Magma Brâkmarien,Friandise,Niv. 1,[]
+Frites de Tournesol Sauvage,Friandise,Niv. 1,[]
+Une fiole de Pandneken,Boisson,Niv. 1,[]
+Panda au chocolat,Friandise,Niv. 1,[]
+Carré de Chocolat au Lait,Friandise,Niv. 1,[]
+Potion d'oubli : Folie Sanguinaire,Potion d'oubli de sort,Niv. 1,[]
+Parchemin d'attitude Pointer du doigt,Parchemin d'attitude,Niv. 1,[]
+Rune du Façonneur,Pierre magique,Niv. 1,"['Fleur de Chanvre', 'Bois de Noyer', 'Citron']"
+Rune du Forgeur de Haches,Pierre magique,Niv. 1,"['Bauxite', 'Mesure de sel', 'Bois de Bombu']"
+Rune du Pêcheur,Pierre magique,Niv. 1,"['Bois de Noyer', 'Mesure de sel', ""Carpe d'Iem""]"
+Rune du Sculptemage d'Arcs,Pierre magique,Niv. 1,"['Mesure de sel', 'Bois de Bombu', 'Graine de Pandouille']"
+Abreuvoir en Chêne,Objet d'élevage,Niv. 1,"['Eau', 'Potion de Mini Soin', 'Planche en Chêne']"
+Abreuvoir en If,Objet d'élevage,Niv. 1,"['Fiole de Soin', 'Eau', 'Potion de Mini Soin', 'Potion de Mini Soin Supérieure', 'Planche en If']"
+Abreuvoir Classique,Objet d'élevage,Niv. 1,[]
+Mangeoire en Merisier,Objet d'élevage,Niv. 1,"['Blé', 'Orge', 'Avoine', 'Potion Ghetto Raide', 'Planche en Merisier']"
+Mangeoire en Bombu,Objet d'élevage,Niv. 1,"['Blé', 'Potion Ghetto Raide', 'Planche en Bombu']"
+Mangeoire en Bambou,Objet d'élevage,Niv. 1,"['Blé', 'Orge', 'Potion Ghetto Raide', 'Planche en Bambou']"
+Caresseur en Plume de Piou Bleu,Objet d'élevage,Niv. 1,"['Planche en Frêne', 'Plume de Piou Bleu']"
+Caresseur en Plume de Piou Violet,Objet d'élevage,Niv. 1,"['Planche en Frêne', 'Plume de Piou Violet']"
+Baffeur en Châtaignier,Objet d'élevage,Niv. 1,"['Kole', 'Planche en Châtaignier']"
+Baffeur en If,Objet d'élevage,Niv. 1,"[""Racine d'Abraknyde"", 'Tronc de Kokoko', 'Kole', 'Planche en If', 'Bâton Solide']"
+Abreuvoir en Bambou Doré,Objet d'élevage,Niv. 1,"['Fiole de Soin', 'Eau', 'Potion de Vieillesse', 'Potion de Mini Soin', 'Potion de Mini Soin Supérieure', 'Potion Eau de fée', 'Sang de Likrone', 'Planche en Bambou Doré']"
+Dragofesse en Cuir de Chef de Guerre Bouftou,Objet d'élevage,Niv. 1,"['Planche en Frêne', 'Cuir du Chef de Guerre Bouftou', 'Potion de Secousse', 'Planche en Châtaignier']"
+Dragofesse en Résine durcie,Objet d'élevage,Niv. 1,"['Planche en Frêne', 'Potion de Secousse', 'Résine végétale', 'Planche en Châtaignier', 'Planche en Chêne', 'Planche en Noyer']"
+Caresseur en Plume de Piou Rouge,Objet d'élevage,Niv. 1,"['Planche en Frêne', 'Plume de Piou Rouge']"
+Caresseur en Plume de Kwak de Glace,Objet d'élevage,Niv. 1,"['Plume du Kwak de Glace', 'Planche en Frêne', 'Magnésite', 'Bakélélite', 'Planche en Châtaignier']"
+Caresseur en Plume du Dernier Poolay,Objet d'élevage,Niv. 1,"['Planche en Frêne', 'Bakélélite', 'Kouartz', 'Plume du Dernier Poolay', 'Planche en Châtaignier', 'Planche en Noyer']"
+Caresseur en Plume de Tofu Royal,Objet d'élevage,Niv. 1,"['Planche en Frêne', 'Plume de Tofu Royal', 'Kobalite', 'Planche en Châtaignier', 'Pyrute', 'Rutile', 'Planche en Noyer', 'Planche en Bombu']"
+Baffeur en Oliviolet,Objet d'élevage,Niv. 1,"[""Racine d'Abraknyde"", 'Kole', 'Planche en Oliviolet']"
+Foudroyeur en Merisier,Objet d'élevage,Niv. 1,"['Charbon', 'Ebonite', 'Magnésite', 'Bakélélite', 'Planche en Merisier']"
+Foudroyeur en Bois Envoûté,Objet d'élevage,Niv. 1,"['Charbon', 'Bakélélite', 'Kouartz', 'Kriptonite', 'Kobalite', 'Pyrute', 'Rutile', 'Planche en Bois Envoûté']"
+Ballon Rouge Magique,Objet utilisable,Niv. 1,[]
+Ballon Vert Magique,Objet utilisable,Niv. 1,[]
+Shigekax Banane,Friandise,Niv. 1,[]
+Shigekax Pomme,Friandise,Niv. 1,[]
+Pawchemin Sowt: Cawotte,Parchemin de sortilège,Niv. 1,[]
+Shigekax Amande,Friandise,Niv. 1,[]
+Shigekax Coco,Friandise,Niv. 1,[]
+Shigekax Prune,Friandise,Niv. 1,[]
+Salace de poissons,Poisson comestible,Niv. 1,[]
+Elixir Crâ,Potion de téléportation,Niv. 1,"['Fruit de Palme', 'Fleur de Chanvre', 'Cerise', 'Truite vidée', 'Écaille poisseuse']"
+Elixir Iop,Potion de téléportation,Niv. 1,"['Corne de Bouftou', 'Fruit de Palme', 'Fleur de Chanvre', 'Cerise', 'Truite vidée']"
+Elixir Féca,Potion de téléportation,Niv. 1,"['Pétale de Rose Démoniaque', 'Fruit de Palme', 'Fleur de Chanvre', 'Cerise', 'Truite vidée']"
+Elixir Enutrof,Potion de téléportation,Niv. 1,"['Fruit de Palme', 'Boue du Boo', 'Fleur de Chanvre', 'Cerise', 'Truite vidée']"
+Elixir Sram,Potion de téléportation,Niv. 1,"['Fruit de Palme', 'Fleur de Chanvre', 'Cerise', 'Truite vidée', 'Crocs de Rats']"
+Parchemin de Forgeur de Pelles,Parchemin d'expérience,Niv. 1,[]
+Parchemin de Sculptemage de Bâtons,Parchemin d'expérience,Niv. 1,[]
+Parchemin de Façonneur,Parchemin d'expérience,Niv. 1,[]
+Parchemin de Costumage,Parchemin d'expérience,Niv. 1,[]
+Parchemin de Chasseur,Parchemin d'expérience,Niv. 1,[]
+Sort Spécial Mot Lotof,Parchemin de sortilège,Niv. 1,[]
+Sort Spécial: Douleur partagée,Parchemin de sortilège,Niv. 1,[]
+Shigekax Kill Coos,Friandise,Niv. 1,[]
+Potion de soin du débutant,Potion,Niv. 1,[]
+Pain du débutant,Pain,Niv. 1,[]
+Poisson Deukloche du débutant,Poisson comestible,Niv. 1,[]
+Mexicanos du débutant,Viande comestible,Niv. 1,[]
+Chapain,Pain,Niv. 1,"['Chacha', 'Mesure de sel', 'Mesure de Poivre', 'Briochette']"
+Viande d'aventurier,Objet utilisable,Niv. 1,[]
+Bonbon à la Menthe du Petit Prospecteur,Friandise,Niv. 1,[]
+Bonbon à la Menthe de l'Apprenti,Friandise,Niv. 1,[]
+Potion d'oubli : Invocation de Dopeul Enutrof,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Invocation de Dopeul Xélor,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Extraction,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Dagues Boomerang,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Espingole,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Dernier Souffle,Potion d'oubli de sort,Niv. 1,[]
+Parchemin d'attitude Se mettre en colère,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude S'allonger,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Rire,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Montrer sa peur,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Fleurs,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Lire un livre,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Trace,Parchemin d'attitude,Niv. 1,[]
+Sort Spécial Roublard: Roublabot,Parchemin de sortilège,Niv. 1,[]
+Sort Spécial Enutrof : Retraite anticipée,Parchemin de sortilège,Niv. 1,[]
+Sort Spécial Osamodas : Laisse spirituelle,Parchemin de sortilège,Niv. 1,[]
+Sort Spécial Pandawa : Ivresse,Parchemin de sortilège,Niv. 1,[]
+Sort Spécial Crâ: Balise de Rappel,Parchemin de sortilège,Niv. 1,[]
+Paquet Cadeau en Chocolat,Friandise,Niv. 1,[]
+Peluche en Chocolat,Friandise,Niv. 1,[]
+Racines de Jean Gimbre,Friandise,Niv. 1,[]
+Étiquette à remplir,Objet utilisable,Niv. 1,[]
+Krokillage Jaune,Friandise,Niv. 1,[]
+Elixir Steamer,Potion de téléportation,Niv. 1,"['Pince de Crabe', 'Fruit de Palme', 'Fleur de Chanvre', 'Cerise', 'Truite vidée']"
+Sort Spécial Steamer: Brise l'âme,Parchemin de sortilège,Niv. 1,[]
+Sort Spécial: Brise l'âme,Parchemin de sortilège,Niv. 1,[]
+Parchemin d'attitude Lire une carte,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Pied de nez,Parchemin d'attitude,Niv. 1,[]
+Sukette à la Prune,Friandise,Niv. 1,[]
+Parchemin d'attitude Encourager,Parchemin d'attitude,Niv. 1,[]
+Barre Rabmarac au Citron,Friandise,Niv. 1,[]
+Bouboule de Neige en Sucre Glace,Friandise,Niv. 1,[]
+Parchemin d'attitude Écrire,Parchemin d'attitude,Niv. 1,[]
+Potion de changement de blason d'alliance,Potion Cosmétique,Niv. 1,[]
+Fée d'artifice Champouf,Fée d'artifice,Niv. 1,[]
+Fée d'artifice Fleurie,Fée d'artifice,Niv. 1,[]
+Offrir un Gâteau,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'Appellation: Protecteur de la Cité,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'attitude Zombique,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'Appellation: Nouveau Sang,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Désinsectiseur,Parchemin d'Appellation,Niv. 1,[]
+Richissime,Parchemin d'attitude,Niv. 1,[]
+Sécheresse,Bière,Niv. 1,[]
+Potion de changement de classe,Potion Cosmétique,Niv. 1,[]
+Parchemin d'Appellation: Parangon Iop,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Parangon Osamodas,Parchemin d'Appellation,Niv. 1,[]
+Bonbon tout rose,Friandise,Niv. 1,[]
+Bonbon vert fluo,Friandise,Niv. 1,[]
+Parchemin d'Appellation: Pèlerin du savoir,Parchemin d'Appellation,Niv. 1,[]
+"Parchemin d'Appellation: Pas de rats, pas de chocolat",Parchemin d'Appellation,Niv. 1,[]
+Dragombre,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'Appellation : Doyen de l'ancienne Pandala,Parchemin d'Appellation,Niv. 1,[]
+Démoniaque,Parchemin d'attitude,Niv. 1,[]
+J'ai faim,Parchemin d'attitude,Niv. 1,[]
+Danse du Trool,Parchemin d'attitude,Niv. 1,[]
+Guitare électromagique,Parchemin d'attitude,Niv. 1,[]
+Animal,Parchemin d'attitude,Niv. 1,[]
+Insectoïde,Parchemin d'attitude,Niv. 1,[]
+Petit Parchemin de Sagesse,Parchemin de caractéristique,Niv. 1,[]
+Parchemin d'Appellation : Chanceux,Parchemin d'Appellation,Niv. 1,[]
+Danse Krosmique,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'Appellation: Plieur de serviettes,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Ambassadeur d'Ecaflipus,Parchemin d'Appellation,Niv. 1,[]
+Lancer un dé.,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'Appellation : Mister Monde des Douze,Parchemin d'Appellation,Niv. 1,[]
+Ornement Xélor,Parchemin d'Appellation,Niv. 1,[]
+Danse de Barbi Cajob,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'Appellation : Gardien des chants sacrés,Parchemin d'Appellation,Niv. 1,[]
+Ornement Domination de Raval,Parchemin d'Appellation,Niv. 1,[]
+Potion de Rappel,Potion de téléportation,Niv. 1,"['Trèfle à 5 feuilles', 'Cerise']"
+Parchemin Blanc,Parchemin d'expérience,Niv. 1,[]
+Parchemin de Forgeur d'épée,Parchemin d'expérience,Niv. 1,[]
+Sort: Flamiche,Parchemin de sortilège,Niv. 1,[]
+Grand Parchemin d'Agilité,Parchemin de caractéristique,Niv. 1,[]
+Parchemin de Sagesse,Parchemin de caractéristique,Niv. 1,[]
+Petit Parchemin de Vitalité,Parchemin de caractéristique,Niv. 1,[]
+Puissant Parchemin de Vitalité,Parchemin de caractéristique,Niv. 1,[]
+Parchemin d'Intelligence,Parchemin de caractéristique,Niv. 1,[]
+Grand Parchemin d'Intelligence,Parchemin de caractéristique,Niv. 1,[]
+Parchemin de Boulanger,Parchemin d'expérience,Niv. 1,[]
+Potion d'oubli : Roulette,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Trèfle,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Bond du Félin,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Topkaj,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Langue Râpeuse,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Esprit Félin,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Armure Terrestre,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Armure Aqueuse,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Trêve,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Glyphe d'Aveuglement,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Epée Destructrice,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Souffle,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Lancer de Pelle,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Désinvocation,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Force de l'âge,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Coffre animé,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Griffe Spectrale,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Invocation de Tofu,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Invocation de Bouftou,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Griffe Cinglante,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Résistance Naturelle,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Invocation de Bwork Mage,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Invocation de Dragonnet Rouge,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Piège de Silence,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Poison Paralysant,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Feu de Brousse,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Flèche Magique,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Tir Critique,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Flèche Glacée,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Flèche Empoisonnée,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Flèche d'Immobilisation,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Flèche Destructrice,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Mot de Jouvence,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Mot d'Immobilisation,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Mot de Silence,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Fuite,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Frappe de Xélor,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Transfert de Vie,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Assaut,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Châtiment Agile,Potion d'oubli de sort,Niv. 1,[]
+Oeuf de Bwak d'air,Oeuf de familier,Niv. 1,[]
+Rune de Transport,Potion de téléportation,Niv. 1,[]
+Potion d'oubli de métier : Forgeur d'Epées,Potion d'oubli de métier,Niv. 1,"['Epée de Boisaille', 'Potion de Vieillesse']"
+Potion d'oubli de métier : Cordonnier,Potion d'oubli de métier,Niv. 1,"['Potion de Vieillesse', 'Les Incrustes']"
+potion d'oubli de métier : Sculpteur de Baguettes,Potion d'oubli de métier,Niv. 1,"['Baguette de Boisaille', 'Potion de Vieillesse']"
+Potion d'oubli de métier : Forgeur de Pelles,Potion d'oubli de métier,Niv. 1,"['Pelle de Boisaille', 'Potion de Vieillesse']"
+Potion d'oubli de métier : Tailleur,Potion d'oubli de métier,Niv. 1,"['Potion de Vieillesse', 'Aiguilles et Fil']"
+Potion d'oubli de métier : Sculptemage de Baguettes,Potion d'oubli de métier,Niv. 1,"['Potion de Vieillesse', 'Demi-Baguette']"
+Bâton de crabe **,Poisson comestible,Niv. 1,"['Dose de jus goûtu', 'Crabe Sourimi vidé']"
+Bar grillé ***,Poisson comestible,Niv. 1,"['Mesure de sel', 'Dose de jus goûtu', 'Citron', 'Crabe Sourimi vidé', 'Bar Rikain vidé', 'Feuille de Salace']"
+Beignet de Greu-vette **,Poisson comestible,Niv. 1,"['Greu-vette vidée', 'Huile à frire']"
+Aile de Raie ***,Poisson comestible,Niv. 1,"['Feuille de Menthe Sauvage', 'Dose de jus goûtu', 'Citron', 'Raie bleue vidée', 'Huile à frire', 'Oignon']"
+Kralamoure grillé **,Poisson comestible,Niv. 1,"['Dose de jus goûtu', 'Citron', 'Kralamoure vidé', 'Huile à frire']"
+Truite flambée ****,Poisson comestible,Niv. 1,"['Citron', 'Truite Ancestrale vidée']"
+Requin aux épices **,Poisson comestible,Niv. 1,"['Mesure de sel', 'Dose de jus goûtu', 'Citron', 'Requin marteau-faucille vidé', 'Huile à frire', 'Oignon', 'Épices']"
+Requin aux épices ****,Poisson comestible,Niv. 1,"['Mesure de sel', 'Dose de jus goûtu', 'Citron', 'Requin marché-libre vidé', 'Feuille de Salace', 'Oignon']"
+Nuggets **,Viande comestible,Niv. 1,"['Huile à frire', ""Viande d'Oiseau Conservée **""]"
+Larve croque-sel,Viande comestible,Niv. 1,"['Mesure de sel', 'Chair de Larve Conservée']"
+Cuisse de bouftou rôti **,Viande comestible,Niv. 1,"['Dose de jus goûtu', 'Huile à frire', 'Cuisse de Bouftou Conservée **']"
+Jambon cuit **,Viande comestible,Niv. 1,"['Feuille de Salace', 'Mesure de Poivre', 'Carré de Porc Conservé **']"
+Salade de Museau,Viande comestible,Niv. 1,"['Noisette', 'Mesure de sel', 'Feuille de Salace', 'Mesure de Poivre', 'Museau Conservé']"
+Bière de la Tabasse,Bière,Niv. 1,[]
+Bière du Ferayeur,Bière,Niv. 1,[]
+Potion d'oubli de métier : Pêcheur,Potion d'oubli de métier,Niv. 1,"['Potion de Vieillesse', 'Goujon']"
+Potion d'oubli de métier : Chasseur,Potion d'oubli de métier,Niv. 1,"['Potion de Vieillesse', ""Viande d'Oiseau""]"
+Bonbon de Consolation,Friandise,Niv. 1,[]
+Cône Wayal,Friandise,Niv. 1,[]
+Glace Bontarienne,Friandise,Niv. 1,[]
+Sort Spécial Contrecoup,Parchemin de sortilège,Niv. 1,[]
+Sucette Trool,Friandise,Niv. 1,[]
+Boules du Minotoboule,Friandise,Niv. 1,[]
+Rune du Cordonnier,Pierre magique,Niv. 1,"['Chanvre', 'Poisson-Chaton', 'Mesure de sel']"
+Rune du Forgemage de Haches,Pierre magique,Niv. 1,"['Or', 'Poisson-Chaton', 'Citron']"
+Bière du Ripate,Bière,Niv. 1,[]
+Abreuvoir en Châtaignier,Objet d'élevage,Niv. 1,"['Eau', 'Planche en Châtaignier']"
+Abreuvoir en Noyer,Objet d'élevage,Niv. 1,"['Eau', 'Planche en Noyer']"
+Abreuvoir en Merisier,Objet d'élevage,Niv. 1,"['Fiole de Soin', 'Eau', 'Potion de Mini Soin', 'Potion de Mini Soin Supérieure', 'Planche en Merisier']"
+Abreuvoir en Orme,Objet d'élevage,Niv. 1,"['Fiole de Soin', 'Eau', 'Potion de Vieillesse', 'Potion de Mini Soin', 'Potion de Mini Soin Supérieure', 'Potion Eau de fée', 'Planche en Orme']"
+Abreuvoir en Bambou Sombre,Objet d'élevage,Niv. 1,"['Fiole de Soin', 'Eau', 'Potion de Vieillesse', 'Potion de Mini Soin', 'Potion de Mini Soin Supérieure', 'Potion Eau de fée', 'Planche en Bambou Sombre']"
+Mangeoire en Châtaignier,Objet d'élevage,Niv. 1,"['Potion Ghetto Raide', 'Planche en Châtaignier']"
+Caresseur en Plume de Tofu,Objet d'élevage,Niv. 1,"['Plumes de Tofu', 'Planche en Frêne', 'Ebonite']"
+Baffeur Classique,Objet d'élevage,Niv. 1,[]
+Baffeur en Chêne,Objet d'élevage,Niv. 1,"[""Racine d'Abraknyde"", 'Kole', 'Planche en Chêne']"
+Dragofesse en Cuir de Gliglitch,Objet d'élevage,Niv. 1,"['Potion de Secousse', 'Cuir de Gliglitch']"
+Potion de Souvenir,Potion,Niv. 1,"['Bave de Bouftou', 'Graine de Pandouille']"
+Abreuvoir en Bois Ancestral,Objet d'élevage,Niv. 1,"['Fiole de Soin', 'Eau', 'Potion de Vieillesse', 'Potion de Mini Soin', 'Potion de Mini Soin Supérieure', 'Potion Eau de fée', 'Sang de Likrone', 'Planche en Bois Ancestral']"
+Abreuvoir en Bois de Kokoko,Objet d'élevage,Niv. 1,"['Eau', 'Planche en bois de Kokoko']"
+Mangeoire en Bois Ancestral,Objet d'élevage,Niv. 1,"['Blé', 'Orge', 'Houblon', 'Lin', 'Seigle', 'Avoine', 'Potion Ghetto Raide', 'Planche en Bois Ancestral']"
+Mangeoire en Bois de Kokoko,Objet d'élevage,Niv. 1,"['Potion Ghetto Raide', 'Planche en bois de Kokoko']"
+Dragofesse en Cuir de Dragon Cochon,Objet d'élevage,Niv. 1,"['Planche en Frêne', 'Cuir du Dragon Cochon', 'Potion de Secousse', 'Planche en Châtaignier', 'Planche en Chêne', 'Planche en Noyer', 'Planche en Bombu', 'Planche en Oliviolet']"
+Dragofesse en Cuir de Sanglier,Objet d'élevage,Niv. 1,"['Planche en Frêne', 'Cuir de Sanglier', 'Potion de Secousse', 'Planche en Châtaignier', 'Planche en Chêne', 'Planche en Noyer', 'Planche en Bombu']"
+Dragofesse en Cuir de Minotoror,Objet d'élevage,Niv. 1,"['Planche en Frêne', 'Potion de Secousse', 'Cuir de Minotoror', 'Planche en Châtaignier', 'Planche en Chêne', 'Planche en Noyer', 'Planche en Bombu', 'Planche en Oliviolet']"
+Caresseur en Plume de Piou Rose,Objet d'élevage,Niv. 1,"['Planche en Frêne', 'Plume de Piou Rose']"
+Caresseur en Plume de Kwak de Flamme,Objet d'élevage,Niv. 1,"['Plume du Kwak de Flamme', 'Planche en Frêne', 'Magnésite', 'Bakélélite', 'Planche en Châtaignier']"
+Caresseur en Plume de Dostrogo,Objet d'élevage,Niv. 1,"['Planche en Frêne', 'Bakélélite', 'Kouartz', 'Kriptonite', 'Planche en Châtaignier', 'Planche en Noyer', 'Plume de Dostrogo']"
+Baffeur en Bois Ancestral,Objet d'élevage,Niv. 1,"[""Racine d'Abraknyde"", ""Bourgeon d'Abraknyde Vénérable"", 'Bois Envoûté', 'Kole', ""Racine d'Abraknyde Sombre"", 'Bourgeon de Fourbasse', 'Planche en Bois Ancestral', 'Bâton Solide']"
+Foudroyeur en If,Objet d'élevage,Niv. 1,"['Charbon', 'Ebonite', 'Magnésite', 'Bakélélite', 'Planche en If']"
+Foudroyeur en Erable,Objet d'élevage,Niv. 1,"['Charbon', 'Ebonite', 'Magnésite', 'Planche en Erable']"
+Foudroyeur en Bambou Sombre,Objet d'élevage,Niv. 1,"['Charbon', 'Ebonite', 'Magnésite', 'Bakélélite', 'Kouartz', 'Kriptonite', 'Planche en Bambou Sombre']"
+Foudroyeur en Bois Ancestral,Objet d'élevage,Niv. 1,"['Charbon', 'Bakélélite', 'Kouartz', 'Kriptonite', 'Kobalite', 'Pyrute', 'Rutile', 'Planche en Bois Ancestral']"
+Bonbon Energétique,Friandise,Niv. 1,[]
+Ballon Jaune Magique,Objet utilisable,Niv. 1,[]
+Potion d'oubli : Apprivoisement de monture,Potion d'oubli de sort,Niv. 1,[]
+Ballon Bleu Magique,Objet utilisable,Niv. 1,[]
+Fée d'artifice invocatrice de coeurs,Fée d'artifice,Niv. 1,[]
+Shigekax Indigo,Friandise,Niv. 1,[]
+Plat de Gra-vette,Poisson comestible,Niv. 1,[]
+Elixir Pandawa,Potion de téléportation,Niv. 1,"['Fruit de Palme', 'Fleur de Chanvre', 'Cerise', 'Truite vidée', 'Poil de Sanglier des Plaines']"
+Elixir Sacrieur,Potion de téléportation,Niv. 1,"['Fruit de Palme', 'Fleur de Chanvre', 'Poils de souris', 'Cerise', 'Truite vidée']"
+Elixir Sadida,Potion de téléportation,Niv. 1,"['Dent de Wabbit', 'Fruit de Palme', 'Fleur de Chanvre', 'Cerise', 'Truite vidée']"
+Elixir Xélor,Potion de téléportation,Niv. 1,"['Fruit de Palme', 'Fleur de Chanvre', 'Cerise', 'Truite vidée', 'Oignon']"
+Parchemin de Forgeur de Marteaux,Parchemin d'expérience,Niv. 1,[]
+Parchemin de Forgemage de Marteaux,Parchemin d'expérience,Niv. 1,[]
+Parchemin de Sculptemage de Baguettes,Parchemin d'expérience,Niv. 1,[]
+Parchemin de Poissonnier,Parchemin d'expérience,Niv. 1,[]
+Monstre Pain,Pain,Niv. 1,"['Farine de Blé', 'Eau', 'Bave de Bouftou', 'Farine de Lin']"
+Potion de changement de nom,Potion Cosmétique,Niv. 1,[]
+Potion de changement de sexe,Potion Cosmétique,Niv. 1,[]
+Fée d'artifice festive,Fée d'artifice,Niv. 1,"['Plumes de Tofu', 'Gland', 'Cuir de Sanglier', 'Capsule Explosive']"
+Trésor maudit d'Az le Tech,Objet utilisable,Niv. 1,[]
+Bonbon à la Menthe du Petit Apprenti,Friandise,Niv. 1,[]
+Paire de skis de tremble jetable,Objet utilisable,Niv. 1,[]
+Paire de skis d'orme jetable,Objet utilisable,Niv. 1,[]
+Paire de skis de bambou jetable,Objet utilisable,Niv. 1,[]
+Potion d'oubli : Invocation de Dopeul Crâ,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Invocation de Dopeul Eniripsa,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Invocation de Dopeul Féca,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Invocation de Dopeul Iop,Potion d'oubli de sort,Niv. 1,[]
+Bûche de Nowel rassie,Friandise,Niv. 1,[]
+Bonbon de Nowel,Friandise,Niv. 1,[]
+Potion d'oubli : Aimantation,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Tromblon,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Roublabot,Potion d'oubli de sort,Niv. 1,[]
+Sort Spécial Roublabot,Parchemin de sortilège,Niv. 1,[]
+Parchemin d'attitude Saluer,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Pleurer,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Jouer de la flûte,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Faire un signe de la main,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Faire un bisou,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Trace de pneu,Parchemin d'attitude,Niv. 1,[]
+Coquetel Enséfal,Boisson,Niv. 1,[]
+Coquetel Lurique,Boisson,Niv. 1,[]
+Potion de Nevark,Potion,Niv. 1,[]
+Rations de Survie en Milieu Touristique,Friandise,Niv. 1,[]
+Potion minérale,Potion,Niv. 1,"[""Patte d'Arakne"", 'Etain', 'Silex']"
+Sort Spécial Féca : Mise en Garde,Parchemin de sortilège,Niv. 1,[]
+Yiti des Neiges en Sucre Glace,Friandise,Niv. 1,[]
+Fée Érie de Nowel,Fée d'artifice,Niv. 1,"['Capsule Explosive', 'Flocon de Neige']"
+Fée d'artifice verte de Pwâk,Fée d'artifice,Niv. 1,[]
+Fée d'artifice rouge de Pwâk,Fée d'artifice,Niv. 1,[]
+Krokillage Rouge,Friandise,Niv. 1,[]
+Potion de renommage de guilde,Potion,Niv. 1,[]
+Parchemin d'attitude Piou,Parchemin d'attitude,Niv. 1,[]
+Pochette-Surprise,Objet utilisable,Niv. 1,[]
+Potion de changement de visage,Potion Cosmétique,Niv. 1,[]
+Pyrofuego,Fée d'artifice,Niv. 1,"['Capsule Explosive', 'Poils de Kerubim']"
+Potion de renommage d'alliance,Potion,Niv. 1,[]
+Fée d'artifice Invocatrice de Moucherons,Fée d'artifice,Niv. 1,[]
+Fée d'artifice de Kamas,Fée d'artifice,Niv. 1,[]
+Potion de Temple des alliances,Potion de téléportation,Niv. 1,"['Oreille du Grand Pa Wabbit', 'Plume de Corbac']"
+Parchemin d'attitude S'abriter sous un parasol,Parchemin d'attitude,Niv. 1,[]
+Pêcheur,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'Appellation: Dieu de rechange,Parchemin d'Appellation,Niv. 1,[]
+Brandir son bouclier,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'Appellation: Toujours sur la brèche,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Champion des Bêtas,Parchemin d'Appellation,Niv. 1,[]
+Boxer,Parchemin d'attitude,Niv. 1,[]
+Éthylique,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'Appellation: Rescapé des Abîmes,Parchemin d'Appellation,Niv. 1,[]
+Élémentaire,Parchemin d'attitude,Niv. 1,[]
+Grinness,Bière,Niv. 1,[]
+Parchemin d'Appellation: Parangon Enutrof,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Parangon Sadida,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Parangon Steamer,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Parangon Xélor,Parchemin d'Appellation,Niv. 1,[]
+Bonbon de Sérénité,Friandise,Niv. 1,[]
+Nowel,Parchemin d'Appellation,Niv. 1,[]
+Colère de Bolgrot,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'Appellation: Grimpeur de Diamant,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: L'As des Astres,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Grimpeur de Légende,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Grimpeur de Diamant,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'attitude Chanceux,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Selfie,Parchemin d'attitude,Niv. 1,[]
+Agiter ses cheveux,Parchemin d'attitude,Niv. 1,[]
+Intemporel,Parchemin d'attitude,Niv. 1,[]
+Sorti du chapeau,Parchemin d'attitude,Niv. 1,[]
+Wanchiao au sésame,Friandise,Niv. 1,[]
+Petit Parchemin de Vitalité,Parchemin de caractéristique,Niv. 1,[]
+Petit Parchemin de Force,Parchemin de caractéristique,Niv. 1,[]
+Météore,Parchemin d'attitude,Niv. 1,[]
+Makwi,Friandise,Niv. 1,[]
+Parchemin d'Appellation: Élémentaliste,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Toujours au poil,Parchemin d'Appellation,Niv. 1,[]
+Ornement du Flambeur,Parchemin d'Appellation,Niv. 1,[]
+Ornement du Bluffeur,Parchemin d'Appellation,Niv. 1,[]
+Ornement Sherajah éveillé,Parchemin d'Appellation,Niv. 1,[]
+Stellarge,Bière,Niv. 1,[]
+Parchemin d'Appellation: Nabala bormana tachuba,Parchemin d'Appellation,Niv. 1,[]
+Appel de la pluie,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'Appellation: Community Helper,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Archéologue Insatiable,Parchemin d'Appellation,Niv. 1,[]
+Jus de bananagrumes,Boisson,Niv. 1,[]
+Parchemin d'Initié,Parchemin d'expérience,Niv. 1,[]
+Parchemin d'Appellation : Classe Incarnée 653,Parchemin d'Appellation,Niv. 1,[]
+Ornement Tokageko,Parchemin d'Appellation,Niv. 1,[]
+Parade martiale,Parchemin d'attitude,Niv. 1,[]
+Ancien de la Toundra,Parchemin d'Appellation,Niv. 1,[]
+Pain Consistant,Pain,Niv. 1,"['Eau', 'Farine de Lin']"
+Parchemin de Sculpteur de bâtons,Parchemin d'expérience,Niv. 1,[]
+Sort: Foudroiement,Parchemin de sortilège,Niv. 1,[]
+Petit Parchemin d'Agilité,Parchemin de caractéristique,Niv. 1,[]
+Petit Parchemin de Sagesse,Parchemin de caractéristique,Niv. 1,[]
+Petit Parchemin de Chance,Parchemin de caractéristique,Niv. 1,[]
+Shigekax Fraise,Friandise,Niv. 1,[]
+Potion d'oubli : Griffe Invocatrice,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Odorat,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Griffe Joueuse,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Rekop,Potion d'oubli de sort,Niv. 1,[]
+Potion de Mini Soin Supérieure,Potion,Niv. 1,"['Fleur de Lin', 'Fleur de Chanvre', 'Cerise']"
+Potion d'oubli : Attaque Naturelle,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Immunité,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Téléportation,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Glyphe d'immobilisation,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Pression,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Duel,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Epée du Destin,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Colère de Iop,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Chance,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Boîte de Pandore,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Pelle Fantomatique,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Lancer de Pièces,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Pelle du Jugement,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Corruption,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Corbeau,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Déplacement Félin,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Bénédiction Animale,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Invocation de Craqueleur,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Repérage,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Poison Insidieux,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Double,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Invisibilité d'autrui,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Arnaque,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Tremblement,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : La Sacrifiée,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Ronces multiples,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : La Surpuissante,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Flèche de Recul,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Flèche Explosive,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Mot Interdit,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Mot d'Epine,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Aiguille,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Cadran de Xélor,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Attirance,Potion d'oubli de sort,Niv. 1,[]
+Oeuf de Bwak d'eau,Oeuf de familier,Niv. 1,[]
+Potion d'oubli de métier : Forgeur de Dagues,Potion d'oubli de métier,Niv. 1,"['Dagues de Boisaille', 'Potion de Vieillesse']"
+Potion d'oubli de métier : Forgeur de Marteaux,Potion d'oubli de métier,Niv. 1,"['Marteau de Boisaille', 'Potion de Vieillesse']"
+Potion d'oubli de métier : Forgemage de Marteaux,Potion d'oubli de métier,Niv. 1,"['Potion de Vieillesse', 'Marteau Martel']"
+Bâton de crabe ***,Poisson comestible,Niv. 1,"['Dose de jus goûtu', 'Crabe Sourimi vidé']"
+Poisson-Chaton fumé ***,Poisson comestible,Niv. 1,"['Mesure de sel', 'Citron', 'Poisson-Chaton vidé']"
+Bar grillé **,Poisson comestible,Niv. 1,"['Mesure de sel', 'Dose de jus goûtu', 'Citron', 'Crabe Sourimi vidé', 'Bar Rikain vidé', 'Feuille de Salace']"
+Beignet de Greu-vette ***,Poisson comestible,Niv. 1,"['Greu-vette vidée', 'Huile à frire']"
+Kralamoure grillé ***,Poisson comestible,Niv. 1,"['Dose de jus goûtu', 'Citron', 'Kralamoure vidé', 'Huile à frire']"
+Sardine à l'huile **,Poisson comestible,Niv. 1,"['Citron', 'Sardine Brillante vidée', 'Huile à frire']"
+Bar grillé ****,Poisson comestible,Niv. 1,"['Mesure de sel', 'Dose de jus goûtu', 'Citron', 'Crabe Sourimi', 'Bar Iton vidé', 'Feuille de Salace']"
+Goujon en tranche ****,Poisson comestible,Niv. 1,"['Citron', 'Goujon Kiye vidé']"
+Aile de Raie ****,Poisson comestible,Niv. 1,"['Feuille de Menthe Sauvage', 'Dose de jus goûtu', 'Citron', 'Raie de Farle vidée', 'Huile à frire', 'Oignon']"
+Cuisse de bouftou rôti,Viande comestible,Niv. 1,"['Dose de jus goûtu', 'Huile à frire', 'Cuisse de Bouftou Conservée']"
+Cuisse de bouftou rôti ****,Viande comestible,Niv. 1,"['Dose de jus goûtu', 'Huile à frire', 'Cuisse de Bouftou Conservée ****']"
+Wabbit gwillé ****,Viande comestible,Niv. 1,"['Huile à frire', 'Épices', 'Mesure de Poivre', 'Cuisse de Wabbit Conservée ****']"
+Jambon cuit,Viande comestible,Niv. 1,"['Feuille de Salace', 'Mesure de Poivre', 'Carré de Porc Conservé']"
+Jambon cuit ****,Viande comestible,Niv. 1,"['Feuille de Salace', 'Mesure de Poivre', 'Carré de Porc Conservé ****']"
+Pain consistant magique,Pain,Niv. 1,"['Eau', 'Farine de Lin magique']"
+Potion d'oubli : Cawotte,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Foudroiement,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Brokle,Potion d'oubli de sort,Niv. 1,[]
+Bière du Pinchaut,Bière,Niv. 1,[]
+Potion d'oubli de métier : Boucher,Potion d'oubli de métier,Niv. 1,"['Potion de Vieillesse', 'Nuggets']"
+Petite Fée d'Artifice Rouge,Fée d'artifice,Niv. 1,[]
+Sucette Tofu,Friandise,Niv. 1,[]
+Hot Dog de Tofu,Friandise,Niv. 1,[]
+Burger de Trool,Friandise,Niv. 1,[]
+Lailait,Boisson,Niv. 1,[]
+Potion de cité :  Brâkmar,Potion de téléportation,Niv. 1,"['Riz', 'Une fiole de Pandapils']"
+Potion de cité :  Bonta,Potion de téléportation,Niv. 1,"['Riz', 'Une fiole de Pandaburg']"
+Une fiole de Pandapils,Boisson,Niv. 1,[]
+Potion d'oubli : Félintion,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Capture d'âmes,Potion d'oubli de sort,Niv. 1,[]
+Rune du Mineur,Pierre magique,Niv. 1,"['Etain', 'Poisson-Chaton', 'Mesure de sel']"
+Rune de l'Alchimiste,Pierre magique,Niv. 1,"['Fleur de Chanvre', 'Poisson-Chaton', 'Citron']"
+Rune du Bijoutier,Pierre magique,Niv. 1,"['Etain', 'Bois de Noyer', 'Oignon']"
+Rune du Boulanger,Pierre magique,Niv. 1,[]
+Rune du Bûcheron,Pierre magique,Niv. 1,"['Etain', 'Bois de Noyer', 'Citron']"
+Rune du Forgeur de Marteaux,Pierre magique,Niv. 1,"['Bauxite', 'Oignon', 'Bois de Bombu']"
+Rune du Sculpteur de Baguettes,Pierre magique,Niv. 1,"['Bauxite', 'Bois de Noyer', 'Citron']"
+Rune du Forgemage de Dagues,Pierre magique,Niv. 1,"['Or', 'Bois de Noyer', 'Oignon']"
+Rune du Forgemage de Marteaux,Pierre magique,Niv. 1,"['Or', 'Bois de Noyer', 'Citron']"
+Rune du Forgemage de Pelles,Pierre magique,Niv. 1,"['Or', 'Feuille de Salace', 'Graine de Pandouille']"
+Rune du Sculptemage de Baguettes,Pierre magique,Niv. 1,"['Oignon', 'Cuisse de Bouftou Conservée **', 'Bois de Bombu']"
+Rune du Cordomage,Pierre magique,Niv. 1,"['Kobalte', 'Mesure de sel', 'Cuisse de Bouftou Conservée **']"
+Mangeoire Classique,Objet d'élevage,Niv. 1,[]
+Mangeoire en Orme,Objet d'élevage,Niv. 1,"['Blé', 'Orge', 'Houblon', 'Lin', 'Seigle', 'Avoine', 'Potion Ghetto Raide', 'Planche en Orme']"
+Mangeoire en Charme,Objet d'élevage,Niv. 1,"['Blé', 'Orge', 'Houblon', 'Avoine', 'Potion Ghetto Raide', 'Planche en Charme']"
+Caresseur Classique,Objet d'élevage,Niv. 1,[]
+Dragofesse en Cuir de Sanglier,Objet d'élevage,Niv. 1,"['Planche en Frêne', 'Cuir de Sanglier', 'Potion de Secousse', 'Planche en Châtaignier']"
+Dragofesse en Cuir de Cochon de Lait,Objet d'élevage,Niv. 1,"['Planche en Frêne', 'Cuir du Cochon de Lait', 'Potion de Secousse', 'Planche en Châtaignier', 'Planche en Noyer']"
+Baffeur en Ebène,Objet d'élevage,Niv. 1,"[""Racine d'Abraknyde"", ""Bourgeon d'Abraknyde Vénérable"", 'Bois Envoûté', 'Kole', 'Planche en Ebène', 'Bâton Solide']"
+Baffeur en Orme,Objet d'élevage,Niv. 1,"[""Racine d'Abraknyde"", ""Bourgeon d'Abraknyde Vénérable"", 'Bois Envoûté', 'Kole', ""Racine d'Abraknyde Sombre"", 'Planche en Orme', 'Bâton Solide']"
+Baffeur en Noyer,Objet d'élevage,Niv. 1,"['Kole', 'Planche en Noyer']"
+Baffeur en Bambou Sombre,Objet d'élevage,Niv. 1,"[""Racine d'Abraknyde"", ""Bourgeon d'Abraknyde Vénérable"", 'Bois Envoûté', 'Kole', ""Racine d'Abraknyde Sombre"", 'Planche en Bambou Sombre', 'Bâton Solide']"
+Baffeur en Bois Envoûté,Objet d'élevage,Niv. 1,"[""Racine d'Abraknyde"", ""Bourgeon d'Abraknyde Vénérable"", 'Bois Envoûté', 'Kole', ""Racine d'Abraknyde Sombre"", 'Bourgeon de Fourbasse', 'Planche en Bois Envoûté', 'Bâton Solide']"
+Baffeur en Bois de Tronknyde,Objet d'élevage,Niv. 1,"[""Racine d'Abraknyde"", 'Kole', 'Planche en Bois de Tronknyde']"
+Baffeur en Bois de Kokoko,Objet d'élevage,Niv. 1,"['Planche en bois de Kokoko', 'Kole']"
+Foudroyeur en Frêne,Objet d'élevage,Niv. 1,"['Charbon', 'Planche en Frêne']"
+Foudroyeur en Chêne,Objet d'élevage,Niv. 1,"['Charbon', 'Ebonite', 'Planche en Chêne']"
+Foudroyeur en Orme,Objet d'élevage,Niv. 1,"['Charbon', 'Ebonite', 'Magnésite', 'Bakélélite', 'Kouartz', 'Kriptonite', 'Planche en Orme']"
+Foudroyeur en Bambou Sacré,Objet d'élevage,Niv. 1,"['Charbon', 'Bakélélite', 'Kouartz', 'Kriptonite', 'Kobalite', 'Pyrute', 'Rutile', 'Planche en Bambou Sacré']"
+Potion d'oubli de métier : Bricoleur,Potion d'oubli de métier,Niv. 1,"['Potion de Vieillesse', 'Abreuvoir en Frêne']"
+Bière de Bwork,Bière,Niv. 1,[]
+Rune de Bricoleur,Pierre magique,Niv. 1,"['Kobalte', 'Bois de Noyer', 'Oignon']"
+Oeuf de piou,Viande comestible,Niv. 1,[]
+Shigekax Poire,Friandise,Niv. 1,[]
+Shigekax Vanille,Friandise,Niv. 1,[]
+Shigekax Praline,Friandise,Niv. 1,[]
+Sort Spécial Laisse spirituelle,Parchemin de sortilège,Niv. 1,[]
+Potion d'oubli : Laisse Spirituelle,Potion d'oubli de sort,Niv. 1,[]
+Elixir Eniripsa,Potion de téléportation,Niv. 1,"['Fruit de Palme', 'Fleur de Chanvre', 'Cerise', 'Truite vidée', 'Tranche de Tikokoko']"
+Parchemin de Forgemage d'Epées,Parchemin d'expérience,Niv. 1,[]
+Parchemin de Forgemage de Pelles,Parchemin d'expérience,Niv. 1,[]
+Parchemin de Tailleur,Parchemin d'expérience,Niv. 1,[]
+Parchemin de Paysan,Parchemin d'expérience,Niv. 1,[]
+Parchemin de Pêcheur,Parchemin d'expérience,Niv. 1,[]
+Sort Spécial Mise en Garde,Parchemin de sortilège,Niv. 1,[]
+Sort: Apprivoisement de monture,Parchemin de sortilège,Niv. 1,[]
+Sort: Boomerang perfide,Parchemin de sortilège,Niv. 1,[]
+Parchemin des Flaqueux,Objet utilisable,Niv. 1,[]
+Monstre Pain consommable,Pain,Niv. 1,[]
+Friswein,Boisson,Niv. 1,[]
+Frigrowka,Boisson,Niv. 1,[]
+Paire de skis de chêne jetable,Objet utilisable,Niv. 1,[]
+Elixir Roublard,Potion de téléportation,Niv. 1,"['Fruit de Palme', 'Fleur de Chanvre', 'Cerise', 'Truite vidée', 'Oeil de Kwoan']"
+Potion d'oubli : Invocation de Dopeul Osamodas,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Invocation de Dopeul Sram,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Tornabombe,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Rebours,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Kaboom,Potion d'oubli de sort,Niv. 1,[]
+Potion d'oubli : Invocation de Dopeul Roublard,Potion d'oubli de sort,Niv. 1,[]
+Elixir Zobal,Potion de téléportation,Niv. 1,"['Fruit de Palme', 'Fleur de Chanvre', ""Racine d'Abraknyde"", 'Cerise', 'Truite vidée']"
+Parchemin d'attitude Téméraire,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Être Frigorifié,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Lever le pouce,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Bâiller,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Faire coucou,Parchemin d'attitude,Niv. 1,[]
+Pique-nique Vulkain,Friandise,Niv. 1,[]
+Soupe au Plimok,Friandise,Niv. 1,[]
+Sort Spécial Ecaflip : Contrecoup,Parchemin de sortilège,Niv. 1,[]
+Sort Spécial Iop : Brokle,Parchemin de sortilège,Niv. 1,[]
+Sort Spécial Sadida: Arbre de vie,Parchemin de sortilège,Niv. 1,[]
+Sort Spécial Xélor : Raulebaque,Parchemin de sortilège,Niv. 1,[]
+Mini Nuit' en Sucre Glace,Friandise,Niv. 1,[]
+Fée d'artifice blanche de Pwâk,Fée d'artifice,Niv. 1,[]
+Fée d'artifice jaune de Pwâk,Fée d'artifice,Niv. 1,[]
+Coquetel Éportation,Boisson,Niv. 1,[]
+Parchemin d'attitude Poing levé,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'attitude Motus,Parchemin d'attitude,Niv. 1,[]
+Bonbon d'Halouine,Friandise,Niv. 1,[]
+Gumizes,Friandise,Niv. 1,[]
+Parchemin d'attitude Halouine,Parchemin d'attitude,Niv. 1,[]
+Barre Rabmarac à l'Orange,Friandise,Niv. 1,[]
+Monstre Brioche de Nowel,Pain,Niv. 1,[]
+Perle d'Âme,Objet utilisable,Niv. 1,[]
+Bouf'gomme au Goût Sauvage,Friandise,Niv. 1,[]
+Bouf'gomme Fraîcheur Lavande,Friandise,Niv. 1,[]
+Parchemin d'attitude Longue-Vue,Parchemin d'attitude,Niv. 1,[]
+Fée d'artifice Invocatrice de Boufton Noir,Fée d'artifice,Niv. 1,[]
+Fée d'artifice Invocatrice de Boufton Blanc,Fée d'artifice,Niv. 1,[]
+Fée d'artifice Etoilée,Fée d'artifice,Niv. 1,[]
+Fée d'artifice Glandiose,Fée d'artifice,Niv. 1,[]
+Parchemin d'Appellation: Historien,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Parangon Ecaflip,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Parangon Féca,Parchemin d'Appellation,Niv. 1,[]
+Touriste de Moon,Parchemin d'Appellation,Niv. 1,[]
+Bonbon ardent,Friandise,Niv. 1,[]
+Bonbon bleuté,Friandise,Niv. 1,[]
+Potion très odorante,Potion Cosmétique,Niv. 1,"['Fleur de Dodus', 'Pastèque']"
+Parchemin d'Appellation: Grimpeur de Légende,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Grimpeur de Cristal,Parchemin d'Appellation,Niv. 1,[]
+Anomalies,Parchemin d'attitude,Niv. 1,[]
+Potion de renommage d'alliance,Potion,Niv. 1,[]
+Chanter,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'Appellation: Producer WAKFU S4,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'attitude Indestructible,Parchemin d'attitude,Niv. 1,[]
+Parchemin d'Appellation: Témoin du Shushu Ross,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Requiem des Quatre Saisons,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Oraison des Quatre Saisons,Parchemin d'Appellation,Niv. 1,[]
+Cœur brisé,Parchemin d'attitude,Niv. 1,[]
+Saut de wapin,Parchemin d'attitude,Niv. 1,[]
+Crocabulia,Parchemin d'attitude,Niv. 1,[]
+Rêve,Parchemin d'attitude,Niv. 1,[]
+Signe du Shushu,Parchemin d'attitude,Niv. 1,[]
+Ornement Az'hassin,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Tête dans les étoiles,Parchemin d'Appellation,Niv. 1,[]
+Petit Parchemin d'Intelligence,Parchemin de caractéristique,Niv. 1,[]
+Fête du Slip,Parchemin d'attitude,Niv. 1,[]
+Ramen fantomatique,Friandise,Niv. 1,[]
+Parchemin d'Appellation: Distilleur de Rêves,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation: Disciple de Yakasi,Parchemin d'Appellation,Niv. 1,[]
+Ornement Sherajah Chaton,Parchemin d'Appellation,Niv. 1,[]
+Ornement Sherajah transcendée,Parchemin d'Appellation,Niv. 1,[]
+Parchemin d'Appellation : Gardien de l'Histoire Pandalousienne,Parchemin d'Appellation,Niv. 1,[]
+Faire du ski,Parchemin d'attitude,Niv. 1,[]
+Corne de ralliement,Parchemin d'attitude,Niv. 1,[]
+Aura Nordique,Parchemin d'attitude,Niv. 1,[]
+Sort: Maîtrise d'Arme,Parchemin de sortilège,Niv. 1,[]
+Cervelle de larve,Viande comestible,Niv. 0,[]
