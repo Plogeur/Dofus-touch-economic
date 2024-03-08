@@ -1,0 +1,6 @@
+TODO :
+- Récupération des données de dofus pc
+- Comparer les données pc/touch [freq/nb total par données(touch) - freq/nb total par données(pc)]
+- Comparer les armes et équipement en fonction des des éléments (terre/air/eau/...)
+- Montrer les nombreux de valeurs maquantes
+- Refaire le count des stats par personnages et par classes 
