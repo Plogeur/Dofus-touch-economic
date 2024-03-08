@@ -18,7 +18,7 @@ Cloner ce dépôt GitHub localement sur votre machine.
 
 bash
 Copy code
-git clone https://github.com/votre-utilisateur/nom-du-projet.git
+git clone https://github.com/Plogeur/Dofus-touch-economic.git
 Installer les dépendances Python en exécutant la commande suivante dans votre terminal :
 
 Copy code
