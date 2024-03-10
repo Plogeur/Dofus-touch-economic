@@ -110,9 +110,12 @@ for name_search in string_generator:
         success = parse_object_page(page_url, object_list)
         if not success:
             print("--wait--")
-            print(base_url)
+            print(page_url)
             time.sleep(20)
-            break
+            if page == 1 :
+                parse_object_page(page_url, object_list)
+            else :
+                break
         page += 1
 
 import csv
