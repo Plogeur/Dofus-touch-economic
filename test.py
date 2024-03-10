@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import string
+import time
 
 def generate_combinations(x):
     letters = string.ascii_lowercase
@@ -37,48 +38,48 @@ def parse_object_page(url, object_list):
                 if cells:  # Ensure the row is not empty
                     time.sleep(1)
                     name = cells[1].text.strip()
-                    class_name = cells[2].text.strip()
-                    niveau_str = cells[3].text.strip()
-                    niveau = int(re.search(r'\d+', niveau_str).group())
-                    sexe = cells[4].text.strip()
-                    serveur = cells[5].text.strip()
-                    guild = cells[6].text.strip() if cells[6].text.strip() else None
-                    
-                    user_link = row.find('a', href=True)
-                    user_url = user_link['href']
-                    user_url = "https://www.dofus-touch.com" + user_url
-                    user_response = requests.get(user_url, headers=headers)
-                    user_soup = BeautifulSoup(user_response.text, "html.parser")
-                    
-                    if user_soup :
-
-                        # Extracting "lvl Guild" int
-                        guild_level_tag = user_soup.find('span', class_='ak-infos-guildlevel')
-                        guild_level = int(guild_level_tag.text.split()[1]) if guild_level_tag else None
-
-                        # Extracting "Alliance" str
-                        alliance_name_tag = user_soup.find('a', class_='ak-infos-alliancename')
-                        alliance_name = alliance_name_tag.text.strip() if alliance_name_tag else None
-
-                        # Extracting "Alignement" str
-                        alignment_name_tag = user_soup.find('span', class_='ak-alignment-name')
-                        alignment_name = alignment_name_tag.text.strip() if alignment_name_tag else None
-
-                        # Extracting "Total XP" int
-                        total_xp_tag = user_soup.find('div', class_='ak-total-xp')
-                        total_xp_text = total_xp_tag.find('span').text.strip() if total_xp_tag else None
-                        total_xp = int(total_xp_text.replace(' ', '')) if total_xp_text else None
-
-                        # Extracting "métier" {str : int}
-                        jobs = {}
-                        job_elements = user_soup.find_all('div', class_=lambda value: value and value.startswith('ak-list-element ak-infos-job-'))
-                        for job_element in job_elements:
-                            job_name = job_element.find('div', class_='ak-title').text.strip()
-                            job_level_text = job_element.find('div', class_='ak-text').text.strip()
-                            job_level = int(re.search(r'\d+', job_level_text).group()) if job_level_text else None
-                            jobs[job_name] = job_level
-
                     if name not in object_list :
+                        class_name = cells[2].text.strip()
+                        niveau_str = cells[3].text.strip()
+                        niveau = int(re.search(r'\d+', niveau_str).group())
+                        sexe = cells[4].text.strip()
+                        serveur = cells[5].text.strip()
+                        guild = cells[6].text.strip() if cells[6].text.strip() else None
+                        
+                        user_link = row.find('a', href=True)
+                        user_url = user_link['href']
+                        user_url = "https://www.dofus-touch.com" + user_url
+                        user_response = requests.get(user_url, headers=headers)
+                        user_soup = BeautifulSoup(user_response.text, "html.parser")
+                        
+                        if user_soup :
+
+                            # Extracting "lvl Guild" int
+                            guild_level_tag = user_soup.find('span', class_='ak-infos-guildlevel')
+                            guild_level = int(guild_level_tag.text.split()[1]) if guild_level_tag else None
+
+                            # Extracting "Alliance" str
+                            alliance_name_tag = user_soup.find('a', class_='ak-infos-alliancename')
+                            alliance_name = alliance_name_tag.text.strip() if alliance_name_tag else None
+
+                            # Extracting "Alignement" str
+                            alignment_name_tag = user_soup.find('span', class_='ak-alignment-name')
+                            alignment_name = alignment_name_tag.text.strip() if alignment_name_tag else None
+
+                            # Extracting "Total XP" int
+                            total_xp_tag = user_soup.find('div', class_='ak-total-xp')
+                            total_xp_text = total_xp_tag.find('span').text.strip() if total_xp_tag else None
+                            total_xp = int(total_xp_text.replace(' ', '')) if total_xp_text else None
+
+                            # Extracting "métier" {str : int}
+                            jobs = {}
+                            job_elements = user_soup.find_all('div', class_=lambda value: value and value.startswith('ak-list-element ak-infos-job-'))
+                            for job_element in job_elements:
+                                job_name = job_element.find('div', class_='ak-title').text.strip()
+                                job_level_text = job_element.find('div', class_='ak-text').text.strip()
+                                job_level = int(re.search(r'\d+', job_level_text).group()) if job_level_text else None
+                                jobs[job_name] = job_level
+
                         object_list[name] = {
                             "class_name" : class_name,
                             "niveau" : niveau,
@@ -100,8 +101,7 @@ object_list = {} # "id" = ["Classe" str, "Niveau" int, "Sexe" str, "Serveur" str
                  # ["lvl Guild" int, "Alliance" str, "Alignement" str, "Total XP" int]
                  # ["métier" {str : int}]
 
-import time
-string_generator = generate_combinations(3)
+string_generator = generate_combinations(2)
 for name_search in string_generator:
     page=1
     base_url =f"https://www.dofus-touch.com/fr/mmorpg/communaute/annuaires/pages-persos?text={name_search}&page="
@@ -109,11 +109,12 @@ for name_search in string_generator:
         page_url = f"{base_url}{page}"
         success = parse_object_page(page_url, object_list)
         if not success:
-            print("--wait--")
             print(page_url)
-            time.sleep(20)
             if page == 1 :
-                parse_object_page(page_url, object_list)
+                while not success :
+                    print(page_url)
+                    time.sleep(10)
+                    success = parse_object_page(page_url, object_list)
             else :
                 break
         page += 1
@@ -142,3 +143,4 @@ def save_object_list_to_csv(object_list):
 
 # Call the function
 save_object_list_to_csv(object_list)
+print("fin")
