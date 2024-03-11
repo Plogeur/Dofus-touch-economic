@@ -38,7 +38,7 @@ def parse_object_page(url, object_list):
                 if cells:  # Ensure the row is not empty
                     time.sleep(1)
                     name = cells[1].text.strip()
-                    if name not in object_list :
+                    if name not in object_list : 
                         class_name = cells[2].text.strip()
                         niveau_str = cells[3].text.strip()
                         niveau = int(re.search(r'\d+', niveau_str).group())
@@ -92,7 +92,7 @@ def parse_object_page(url, object_list):
                             "total_xp": total_xp,
                             "jobs": jobs if jobs else None
                         }
-                        print(f"name : {name}, {object_list[name]}")
+                        print(len(object_list))
         return True  # Indique que la page a été analysée avec succès
     else:
         return False  # Indique qu'il y a eu une erreur lors de la requête
@@ -126,7 +126,6 @@ def save_object_list_to_csv(object_list):
     Save the object_list to a CSV file.
     """
     filename = "classe_touch.csv"
-    # Define the desired order of fieldnames
     fieldnames = ['ID', 'class_name', 'niveau', 'sexe', 'serveur', 'guild', 'guild_level',
                   'alliance_name', 'alignment_name', 'total_xp', 'jobs']
 
@@ -136,7 +135,7 @@ def save_object_list_to_csv(object_list):
         writer.writeheader()
         for id, caract in object_list.items():
             # Create a row dictionary with ordered keys
-            row = {'ID': id}  # Assuming 'ID' as a fieldname for the ID
+            row = {'ID': id}
             row.update(caract)
             # Write the row to the CSV file
             writer.writerow({key: row[key] for key in fieldnames})
