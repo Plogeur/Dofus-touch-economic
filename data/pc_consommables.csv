@@ -1,0 +1,1729 @@
+name,type,level,recipe
+Coffre magistral,Coffre,200,[]
+Coffre de Machab le Sanguinaire,Coffre,200,[]
+Quintessence de Poukachi,Coffre,200,"['Légende animale de Poukachi', 'Cristal intemporel', 'Œuf inerte', 'Nanogrine', 'Boucle temporelle']"
+Coffre de Kongoku,Coffre,200,[]
+Potion Torboyo,Potion,200,"['Perce-Neige', 'Eau calme', 'Millet']"
+Mawki,Poisson comestible,200,[]
+Pain de Frostiz soufflé,Pain,200,"['Eau calme', 'Frostiz soufflé', 'Mandragore']"
+Poisskaille en Fricassée,Poisson comestible,200,"['Poisskaille', 'Eau calme', 'Mandragore']"
+Coffre de Gein,Coffre,200,[]
+Saucisse Fumée Fortifiante,Viande comestible,200,"['Eau calme', 'Millet', 'Bidoche Goûtue']"
+Coffre d'Atcham,Coffre,200,[]
+Serviette égarée,Objet utilisable,200,[]
+Boîte de fragments magistrale,Boîte de fragments,200,[]
+Bûche de Tremble,Friandise,200,"['Levure de Boulanger', 'Millet', 'Sève de Tremble']"
+Quintessence de Magicrabe,Coffre,200,"['Légende animale de Magicrabe', 'Cristal temporel', 'Œuf inerte', 'Nanogrine', 'Boucle intemporelle']"
+Pain Ture,Pain,200,"['Cendres Éternelles', ""Pichon d'encre"", 'Cristal liquide']"
+Sushiwi,Poisson comestible,200,[]
+Extraordinaire Potion de Percepteur,Potion de conquête,200,"['Œil de Sapeur', 'Antenne de Gloursaya', 'Sang de Ventrublion', 'Pépite', 'Morceau de clef de Paspartou', 'Crâne magique de Magouille', 'Œil de Verminocule', 'Griffe de Buboxor']"
+Bouteille de Cocalane,Boisson,200,[]
+Saucisse Fumée,Viande comestible,200,"['Eau calme', 'Millet', 'Viande Goûtue']"
+Quintessence de Kwakarticho,Coffre,200,"['Légende animale de Kwakarticho', 'Cristal temporel', 'Œuf inerte', 'Nanogrine', 'Boucle intemporelle']"
+Quintessence de Bakushana,Coffre,200,"['Légende animale de Bakushana', 'Cristal intemporel', 'Œuf inerte', 'Nanogrine', 'Boucle temporelle']"
+Potion Étoilée,Potion,200,"['Eau calme', 'Étoile des Neiges', 'Millet']"
+Poisskaille Givré en Ragoût,Poisson comestible,200,"['Eau calme', 'Poisskaille Givré', 'Mandragore']"
+Coffre de Voldelor,Coffre,200,[]
+Boule de painpier mâché,Pain,200,"['Poudre Temporelle', 'Tulipe en papier', 'Cristal pliable']"
+Coffre de l'Hyperscampe,Coffre,200,[]
+Pain de Frostiz,Pain,200,"['Frostiz', 'Eau calme', 'Mandragore']"
+Poisskaille Givré en Fricassée,Poisson comestible,200,"['Eau calme', 'Poisskaille Givré', 'Mandragore']"
+Coffre magistral de loterie,Coffre,200,[]
+Dragofesse du roi Nidas,Objet d'élevage,195,"['Roue de Tivelo', 'Poil de Vétauran', 'Défense de Gliglicérin', 'Peau de Piralak', 'Bulbe Morito', 'Branche de Tiwabbit Kiafin', 'Essence du Roi Nidas', 'Dent de Cycloporth']"
+Baffeur de Dantinéa,Objet d'élevage,195,"['Charnière Cassée', 'Carapace Jaune', 'Étoffe de Kurookin', 'Plume de Buveur', 'Carpelle de Brouture', 'Masque de la Violence', 'Queue de Scordion Bleu', 'Essence de Dantinéa']"
+Dragofesse de Solar,Objet d'élevage,195,"['Champignon', 'Couteau de Roukouto', 'Étoffe de Gliglidoudur', 'Os de Pékeualak', 'Bulbe Malibout', 'Bandeau de Black Wabbit Squelette', 'Peau de Trémorse', 'Essence de Solar']"
+Mangeoire d'Anerice la Shushess,Objet d'élevage,195,"['Poils de Barbe du Bwork Mage', 'Œil de Cocholou', 'Botte trouée de Mégabwork', 'Croupion du Bitouf aérien', 'Étoffe de Rat Bougri', 'Lamelle de Champa Rouge', 'Flèche de Crâmbo', ""Essence d'Anerice la Shushess""]"
+Baffeur de Guerre,Objet d'élevage,195,"['Concombre', 'Carapace Rouge', 'Griffe de Robionicle', 'Poil de Renarbo', 'Sépale de Nerbe', 'Masque de la Violence', 'Queue de Scordion Bleu', 'Essence de Guerre']"
+Dragofesse de la Reine Amirukam,Objet d'élevage,195,"['Bombe de Graboule', 'Poil de Vétauran', 'Cuir de Gliglibido', 'Étoffe de Dok Alako', 'Pince de Crustorail', 'Moustaches de Tiwabbit', 'Peau de Trémorse', 'Essence de la Reine Amirukam']"
+Foudroyeur de Servitude,Objet d'élevage,195,"['Cuir du Cochon de Lait', 'Plume de Crowneille', 'Épaulière de Bwork', 'Poil de Troolléolé', 'Poil de Smilomouth', 'Œil de Sapeur', ""Écailles d'Ouroboulos"", 'Essence de Servitude']"
+Baffeur du Roi Imagami,Objet d'élevage,195,"['Coque Endommagée', 'Carapace Verte', 'Poils de Founamboul', 'Poil de Renarbo', 'Carpelle de Brouture', 'Masque de la Vengeance', ""Écailles d'Ouroboulos"", 'Essence du Roi Imagami']"
+Abreuvoir de Missiz Frizz,Objet d'élevage,195,"['Bout de Blop Coco', 'Écaille de Dragoss Calcaire', 'Bourse Suspecte', 'Houpette de Koalak Sanguin', 'Plumeau de Tofuzmo', 'Conque Marine', 'Bandeau troué de Feu', 'Essence de Missiz Frizz']"
+Foudroyeur de Klime,Objet d'élevage,195,"['Poils de Croc Gland', 'Trident Cassé', 'Crinière de Troollaraj', 'Feuille de Tikoko', 'Oreille percée du Fricochère', 'Œil de Sapeur', 'Essence de Klime', ""Écailles d'Ouroboulos""]"
+Baffeur de Sylargh,Objet d'élevage,195,"['Concombre', 'Chaîne de Robot Fléau', 'Carapace Verte', 'Poil de Renarbo', 'Étamine de Floribonde', 'Essence de Sylargh', 'Masque de la Vengeance', 'Œil de Léolhyène']"
+Mangeoire de Sylargh,Objet d'élevage,195,"['Queue du Mulou', 'Tissu Pourpre', 'Slip de Bwork Archer', ""Souche de l'Abrakleur clair"", 'Pince de Crabe Hijacob', 'Essence de Sylargh', 'Lamelle de Champa Vert', 'Bave de Brokouillon']"
+Foudroyeur du Protozorreur,Objet d'élevage,195,"['Œuf de Dragoeuf Ardoise', 'Graine de Scorbute', 'Cuir de Porkass', 'Oreille de Kaniglou', 'Péroné du Marôdeur', 'Essence du Protozorreur', 'Lamelle de Champa Vert', 'Gratrooll']"
+Baffeur de Vortex,Objet d'élevage,195,"['Coque Endommagée', 'Carapace Rouge', 'Tête de lance de Fangshu', 'Plume de Corbac Apprivoisé', 'Sépale de Nerbe', 'Masque de la Vivacité', 'Essence de Vortex', ""Écailles d'Ouroboulos""]"
+Abreuvoir de Bethel Akarna,Objet d'élevage,195,"['Bout de Blop Griotte', 'Peau de Maître Koalak', 'Peau de Draguaindrop', 'Nageoire de Compétition', 'Bec de Vilain Petit Tofu', 'Graine de la Discorde', 'Bandeau troué de Terre', 'Essence de Bethel Akarna']"
+Caresseur de Tal Kasha,Objet d'élevage,195,"['Noisette', 'Dent de Larve Champêtre', 'Trukikol Mort', 'Antenne de Gloursaya', 'Miroir de Dopeul', ""Glande d'Arak-haï"", 'Moustaches de Cactoblongo', 'Essence de Tal Kasha']"
+Abreuvoir de Merkator,Objet d'élevage,195,"['Bout de Blop Indigo', 'Écaille de Dragoss Argile', 'Poils de Guerrier Koalak', 'Cendres de Tofutoflamme', 'Crème à bronzer', ""Bandeau troué d'Air"", 'Chaînes Brisées', 'Essence de Merkator']"
+Foudroyeur du Comte Harebourg,Objet d'élevage,195,"['Cuir de Porkass', 'Oreilles de Croc Gland', 'Poil de Troolléolé', ""Queue d'Écumouth"", 'Oreille de Gobosteur', 'Pierre Médicinale', 'Essence du Comte Harebourg', 'Lamelle de Champa Vert']"
+Baffeur de Nileza,Objet d'élevage,195,"['Patte de Corbac', 'Concombre', 'Carapace Bleue', 'Griffe de Robionicle', 'Calice de Fécorce', 'Essence de Nileza', 'Masque du Vide', 'Queue de Fennex']"
+Dragofesse de Klime,Objet d'élevage,195,"['Bourgeon de Pirolienne', 'Poil de Gliglitch', 'Ongle de Kanigrou', 'Poils de Koalak Griotte', 'Bulbe Kouraçao', 'Branche de Tiwabbit Kiafin', 'Essence de Klime', 'Langue de Morsquale']"
+Caresseur de Merkator,Objet d'élevage,195,"['Pic du Prespic', 'Aile de Bourdard', 'Fleur de Gloutovore', 'Queue de Meliglours', 'Papier Charbon', 'Essence de Merkator', ""Glande d'Arak-haï"", 'String de Pampactus']"
+Mangeoire du Comte Harebourg,Objet d'élevage,195,"['Noix de Cajou', 'Canine de Mergranlou', 'Oreille de Médibwork', 'Cloaque du Poolay', 'Plume de Gélikan', 'Essence du Comte Harebourg', 'Lamelle de Champa Bleu', 'Queue de Chevrotine']"
+Abreuvoir de Meno,Objet d'élevage,195,"['Bout de Blop Reinette', 'Peau de Dragueuse', 'Sceau Royal Contrefait', 'Serviette de Plage', 'Couche usagée de Warko Violet', 'Plume de Tofubine', ""Bandeau troué d'Eau"", 'Essence de Meno']"
+Foudroyeur de Dazak Martegel,Objet d'élevage,195,"['Fruit de Palme', 'Cuir du Cochon de Lait', 'Plume de Crowneille', 'Poil de Smilomouth', ""Peau d'Ouilleur"", 'Boulon Wabbit', 'Gratrooll', 'Essence de Dazak Martegel']"
+Dragofesse d'Ilyzaelle,Objet d'élevage,195,"['Champignon', 'Bombe de Graboule', 'Cuir de Gliglibido', 'Poils de Koalak Coco', 'Bulbe Passaoh', 'Os de Wabbit Squelette', 'Patte de Masticroc', ""Essence d'Ilyzaelle""]"
+Abreuvoir de Kabahal,Objet d'élevage,195,"['Œuf de Dragoeuf Charbon', 'Bout de Blop Indigo', 'Tibia de Koalak Fossoyeur', 'Sceau Royal Contrefait', 'Patte de Tofu Dodu', 'Conque Marine', ""Bandeau troué d'Eau"", 'Essence de Kabahal']"
+Mangeoire de Belladone,Objet d'élevage,195,"['Noix de Cajou', 'Sourcil de Barbétoal', 'Pince de Crabe Yoloniste', 'Spalière de Krâradia', 'Langue de Diabélial', 'Liane de Soldalia', 'Fleur des protecteurs', 'Essence de Belladone']"
+Dragofesse de Missiz Frizz,Objet d'élevage,195,"['Roue de Tivelo', 'Poil de Gliglitch', 'Oreille de Foufayteur', 'Étoffe de Dok Alako', 'Coccyx du Corailleur', 'Patte de Black Wabbit', 'Essence de Missiz Frizz', 'Dent de Cycloporth']"
+Caresseur de Nileza,Objet d'élevage,195,"['Défense du Sanglier', 'Souris verte', 'Feuille de Fourbasse', 'Poils de Boulglours', 'Miroir de Dopeul', 'Essence de Nileza', ""Glande d'Arak-haï"", 'Parchemin de Cactana']"
+Caresseur de la Reine des Voleurs,Objet d'élevage,195,"['Groin de Sanglier', 'Peau de serpentin', 'Plume de Dostrogo', 'Cuir de Glouragan', 'Papier Charbon', 'Essence de la Reine des Voleurs', ""Glande d'Arak-haï"", 'Fleur de Cactiflore']"
+Mangeoire du Chalœil,Objet d'élevage,195,"['Poils de Mulounoké', 'Épaulière de Bwork', 'Peau de Krambwork', 'Rembourrage de Meupette', 'Poil de Chachachovage', 'Lamelle de Champa Marron', 'Essence du Chalœil', 'Os de Nemroz']"
+Foudroyeur de Larve de Koutoulou,Objet d'élevage,195,"['Œuf de Dragoeuf Ardoise', 'Moustache de Kolérat', 'Trident Cassé', 'Épaulière de Bwork', ""Queue d'Écumouth"", 'Bois de Gobus', 'Gâtrool', 'Essence de la Larve de Koutoulou']"
+Caresseur de Torkélonia,Objet d'élevage,195,"['Poils du Milimulou', 'Fleur de Gloutovore', 'Dent de Larve Champêtre', 'Queue de Meliglours', 'Miroir de Dopeul', ""Glande d'Arak-haï"", 'Fleur de Cactiflore', 'Essence de Torkélonia']"
+Caresseur de l'Éternel Conflit,Objet d'élevage,195,"['Pic du Prespic', 'Aile de Bourdard', 'Feuille de Fourbasse', ""Oreille d'Apériglours"", 'Papier Charbon', ""Glande d'Arak-haï"", 'Fleur de Cactiflore', ""Essence de l'Éternel Conflit""]"
+Mangeoire de Misère,Objet d'élevage,195,"['Poils de Barbe du Bwork Mage', 'Œil de Cocholou', 'Peau de Krambwork', ""Souche de l'Abrakleur clair"", 'Plume de Gélikan', 'Lamelle de Champa Vert', 'Os de Nemroz', 'Essence de Misère']"
+Abreuvoir de Corruption,Objet d'élevage,195,"['Bout de Blop Reinette', 'Peau de Maître Koalak', 'Écaille de Dragoss Argile', 'Plumeau de Tofuzmo', 'Conque Marine', 'Graine de la Discorde', ""Bandeau troué d'Eau"", 'Essence de Corruption']"
+Brioche Dorée,Pain,190,"['Oignon', 'Belladone', 'Millet']"
+Andouillette de Gibier,Viande comestible,190,"['Résine', 'Maïs', 'Viande Noire']"
+Potion Raide Rêve,Potion,190,"['Citron', 'Mandragore', 'Maïs']"
+Espadon Quichotte Poêlé,Poisson comestible,190,"['Aubergine', 'Belladone', 'Espadon Quichotte']"
+Bûche de Bambou Sacré,Friandise,190,"['Levure de Boulanger', 'Maïs', 'Sève de Bambou Sacré']"
+Espadon Poêlé,Poisson comestible,190,"['Aubergine', 'Belladone', 'Espadon']"
+Espadon Poêlé,Poisson comestible,190,"['Aubergine', 'Belladone', 'Espadon']"
+Cafra magistrale,Ressources obsolètes,188,[]
+Dragofesse d'Ombre,Objet d'élevage,185,"['Champignon', 'Bombe de Graboule', 'Poil de Gliglitch', 'Poils de Koalak Griotte', 'Bulbe Morito', 'Patte de Black Wabbit', ""Essence d'Ombre"", 'Dent de Cycloporth']"
+Caresseur de Barbéryl Clochecuivre,Objet d'élevage,185,"['Plume du Mansot Royal', 'Lamelle de Mérulette', 'Manubrium de Wolvero', 'Masque du Vide', 'Os de Nemroz', 'Poils de barbe de Marteau-Aigri', 'Armure de Blindur', 'Essence de Barbéryl Clochecuivre']"
+Dragofesse de Grolloum,Objet d'élevage,185,"['Bourgeon de Pirolienne', 'Poil de Vétauran', 'Défense de Gliglicérin', 'Poils de Koalak Reinette', 'Coccyx du Corailleur', 'Os de Wabbit Squelette', 'Essence de Grolloum', 'Patte de Masticroc']"
+Fiole de Chichala,Potion,185,"[""Patte d'Arakne"", 'Œuf de Tofu', 'Sauge', 'Edelweiss', 'Bave de Rose Démoniaque', 'Fleur de Kaliptus', 'Sceau Royal Contrefait', 'Poils de Kerubim']"
+Foudroyeur du Kolosso,Objet d'élevage,185,"['Cuir du Cochon de Lait', 'Plume de Crowneille', 'Feuille de Tikoko', 'Oreille de Kaniglou', 'Oreille de Gobosteur', 'Boulon Wabbit', 'Essence du Kolosso', 'Gâtrool']"
+Caresseur de Fuji Givrefoux,Objet d'élevage,185,"['Groin de Sanglier', 'Dent de Larve Champêtre', 'Trukikol Mort', 'Cuir de Glouragan', 'Miroir de Dopeul', 'Essence de Fuji Givrefoux', ""Glande d'Arak-haï"", 'Moustaches de Cactoblongo']"
+Abreuvoir de Fuji Givrefoux,Objet d'élevage,185,"['Bout de Blop Griotte', 'Écaille de Dragoss Calcaire', 'Sceau Royal Contrefait', 'Poils de Guerrier Koalak', 'Patte de Tofu Dodu', 'Crème à bronzer', ""Bandeau troué d'Eau"", 'Essence de Fuji Givrefoux']"
+Abreuvoir du Glourséleste,Objet d'élevage,185,"['Bout de Blop Coco', 'Peau de Dragnarok', 'Serviette de Plage', 'Couche usagée de Warko Violet', 'Cendres de Tofutoflamme', 'Graine de la Discorde', 'Bandeau troué de Terre', 'Essence du Glourséleste']"
+Foudroyeur de Grolloum,Objet d'élevage,185,"['Fruit de Palme', 'Graine de Scorbute', 'Trident Cassé', 'Poil de Troolléolé', ""Queue d'Écumouth"", ""Peau d'Ouilleur"", 'Essence de Grolloum', ""Écailles d'Ouroboulos""]"
+Dragofesse du Glourséleste,Objet d'élevage,185,"['Roue de Tivelo', 'Étoffe de Gliglidoudur', 'Ongle de Kanigrou', 'Peau de Piralak', 'Bulbe Passaoh', 'Bandeau de Black Wabbit Squelette', 'Essence du Glourséleste', 'Patte de Masticroc']"
+Mangeoire du Kolosso,Objet d'élevage,185,"['Noix de Cajou', 'Canine de Mergranlou', 'Botte trouée de Mégabwork', 'Bave du Kaskargo', 'Poil de Chachachovage', 'Furoncle de la Mama Bwork', 'Essence du Kolosso', 'Lamelle de Champa Rouge']"
+Foudroyeur du Comte Razof,Objet d'élevage,185,"['Cuir du Cochon de Lait', 'Poils de Croc Gland', 'Poil de Smilomouth', 'Péroné du Marôdeur', 'Pierre Médicinale', 'Lamelle de Champa Vert', 'Gâtrool', 'Essence du Comte Razof']"
+Zaihn magistrale,Ressources obsolètes,181,[]
+Abreuvoir en Bambou Sacré,Objet d'élevage,180,"['Bout de Blop Reinette', 'Bois de Bambou Sacré', 'Peau de Dragueuse', 'Houpette de Koalak Sanguin', 'Bec de Vilain Petit Tofu', 'Conque Marine', 'Furoncle de la Mama Bwork', 'Chaînes Brisées']"
+Mangeoire en Bambou Sacré,Objet d'élevage,180,"['Noix de Cajou', 'Œil de Cocholou', 'Bois de Bambou Sacré', 'Peau de Krambwork', 'Cloaque du Poolay', 'Étoffe de Rat Bougri', 'Boulon de Cybwork', 'Lamelle de Champa Vert']"
+Boîte de fragments impressionnante,Boîte de fragments,180,[]
+Quenelle Tijan Fortifiante,Viande comestible,180,"['Poudre Temporelle', 'Maïs', 'Bidoche Gâtée']"
+Élixir uchronique majeur,Potion,180,"['Écorce du Chêne Mou', ""Potion d'altération"", 'Bave de Nessil', ""Fragment d'anomalie"", 'Élixir uchronique amélioré']"
+Élixir uchronique majeur (lié),Potion,180,[]
+Narkasseth Brumeuse,Coffre,180,[]
+Narkofret Onirique,Coffre,180,[]
+Narkofret Imaginaire,Coffre,180,[]
+Narkofret Brumeux,Coffre,180,[]
+Narkès Onirique,Coffre,180,[]
+Mérydique,Ressources obsolètes,180,[]
+Dragofesse en Cuir de Maho Givrefoux,Objet d'élevage,180,"['Poil de Vétauran', 'Poil de Gliglitch', 'Couteau de Roukouto', 'Poils de Koalak Coco', 'Coccyx du Corailleur', 'Cuir de Maho Givrefoux', 'Branche de Tiwabbit Kiafin', 'Dent de Cycloporth']"
+Potion Revitalisante,Potion,180,"['Mesure de Poivre', 'Mandragore', 'Maïs']"
+Fouée,Pain,180,"['Huile à frire', 'Belladone', 'Millet Zime']"
+Tanche en Matelote,Poisson comestible,180,"['Dose de jus goûtu', 'Belladone', 'Tanche']"
+Tanche Hantée en Matelote,Poisson comestible,180,"['Dose de jus goûtu', 'Belladone', 'Tanche Hantée']"
+Nahuatl,Ressources obsolètes,180,[]
+Coffre du Guerrier du K.O.,Coffre,180,[]
+Baffeur en Bambou Sacré,Objet d'élevage,180,"['Chaîne de Robot Fléau', 'Carapace Rouge', 'Bois de Bambou Sacré', 'Étoffe de Kurookin', 'Poil de Renarbo', 'Étamine de Floribonde', 'Masque du Vide', 'Queue de Fennex']"
+Exceptionnelle Potion de Percepteur,Potion de conquête,180,"['Fibre de Chanvre', 'Masque brisé', 'Oreille de Gobosteur', 'Bandeau troué de Terre', 'Pépite', ""Venin d'Éperfide"", 'Barbe de Seith', 'Pic de Pikténia']"
+Essence de Sylvesprit,Potion,180,"['Eau calme', 'Lamelle de Dramanite', 'Volve de Fistulor', 'Volve de Fongeur', ""Écorce d'Abrazif"", 'Lamelle de Mérulette']"
+Quenelle Tijan,Viande comestible,180,"['Poudre Temporelle', 'Maïs', 'Viande Gâtée']"
+Coffre de Marie Ride,Coffre,180,[]
+Coffre impressionnant de loterie,Coffre,180,[]
+Narkofret Fantastique,Coffre,180,[]
+Narkès Fantastique,Coffre,180,[]
+Narkès Imaginaire,Coffre,180,[]
+Narkasseth Imaginaire,Coffre,180,[]
+Pain Tahde,Pain,180,[]
+Foudroyeur en Bambou Sacré,Objet d'élevage,180,[]
+Bûche d'Orme,Friandise,180,[]
+Caresseur en Plume de Serpiplume,Objet d'élevage,180,[]
+Potion Fromagère,Potion,180,"['Mesure de Poivre', 'Mandragorgonzola', 'Maïs']"
+Bûche d'Orme,Friandise,180,"['Levure de Boulanger', 'Maïs', ""Sève d'Orme""]"
+Foudroyeur en Bambou Sacré,Objet d'élevage,180,"['Moustache de Kolérat', 'Trident Cassé', 'Bois de Bambou Sacré', 'Oreille percée du Fricochère', 'Oreille de Gobosteur', 'Boulon Wabbit', 'Lamelle de Champa Vert', 'Gratrooll']"
+Narkasseth Onirique,Coffre,180,[]
+Narkasseth Fantastique,Coffre,180,[]
+Narkès Brumeuse,Coffre,180,[]
+Sak magistrale,Ressources obsolètes,176,[]
+Mangeoire du Bworker,Objet d'élevage,175,"['Poils de Mulounoké', 'Poils de Barbe du Bwork Mage', 'Tissu Pourpre', 'Kapokaza', 'Croupion du Bitouf aérien', 'Pince de Crabe Hijacob', 'Essence du Bworker', 'Lamelle de Champa Bleu']"
+Baffeur d'Ougah,Objet d'élevage,175,"['Patte de Corbac', 'Charnière Cassée', 'Carapace Verte', 'Tête de lance de Fangshu', 'Carpelle de Brouture', ""Essence d'Ougah"", 'Masque de la Vengeance', 'Queue de Fennex']"
+Baffeur du Kralamoure Géant,Objet d'élevage,175,"['Chaîne de Robot Fléau', 'Carapace Bleue', 'Plume de Corbac Apprivoisé', 'Lame brisée de Lichangoro', 'Bractée de Chiendent', 'Essence du Kralamoure Géant', 'Masque du Vide', ""Écailles d'Ouroboulos""]"
+Baffeur du Korriandre,Objet d'élevage,175,"['Concombre', 'Coque Endommagée', 'Carapace Jaune', 'Plume de Buveur', 'Sépale de Nerbe', 'Essence du Korriandre', 'Masque de la Violence', 'Œil de Léolhyène']"
+Mangeoire du Korriandre,Objet d'élevage,175,"['Queue du Mulou', 'Oreille de Médibwork', 'Slip de Bwork Archer', 'Kaokurimono', ""Souche de l'Abrakleur clair"", 'Étoffe de Rat Bougri', 'Essence du Korriandre', 'Lamelle de Champa Marron']"
+Baffeur du Bworker,Objet d'élevage,175,"['Concombre', 'Coque Endommagée', 'Carapace Verte', 'Poil de Renarbo', 'Carpelle de Brouture', 'Essence du Bworker', 'Masque de la Vengeance', ""Écailles d'Ouroboulos""]"
+Baffeur du Toxoliath,Objet d'élevage,175,"['Concombre', 'Carapace Jaune', 'Griffe de Robionicle', 'Poil de Renarbo', 'Calice de Fécorce', 'Masque de la Vivacité', 'Essence du Toxoliath', 'Queue de Scordion Bleu']"
+Caresseur d'Ougah,Objet d'élevage,175,"['Défense du Sanglier', 'Souris verte', 'Plume de Dostrogo', ""Oreille d'Apériglours"", 'Papier Charbon', ""Essence d'Ougah"", ""Glande d'Arak-haï"", 'Fleur de Cactiflore']"
+Teleb magistrale,Ressources obsolètes,171,[]
+Pain des Champs,Pain,170,[]
+Dragofesse de Koumiho,Objet d'élevage,170,"['Champignon', 'Bandeau du Black Tiwabbit', 'Bombe de Graboule', 'Poil de Gliglitch', 'Bulbe Morito', 'Pierre Médicinale', 'Patte de Masticroc', 'Essence de Koumiho']"
+Filet Mignon Fortifiant,Viande comestible,170,"['Chanvre', 'Poudre de Perlinpainpain', 'Bidoche Maigre']"
+Estouffade de Morue,Poisson comestible,170,[]
+Binar,Ressources obsolètes,170,[]
+Filet Mignon,Viande comestible,170,"['Chanvre', 'Poudre de Perlinpainpain', 'Viande Maigre']"
+Estouffade de Morue Barbue,Poisson comestible,170,"['Graisse Gélatineuse', 'Ginseng', 'Morue Barbue']"
+Potion Axel Raide,Potion,170,"['Chanvre', 'Mesure de sel', 'Belladone']"
+Bûche de Bambou Sombre,Friandise,170,"['Levure de Boulanger', 'Chanvre', 'Sève de Bambou Sombre']"
+Boble magistrale,Ressources obsolètes,168,[]
+Eau de la Fontaine de Noffoub,Potion,165,"['Menthe Sauvage', 'Trèfle à 5 feuilles', 'Ortie', 'Sauge', 'Orchidée Freyesque', 'Edelweiss', 'Poils de Kerubim', 'Potion de Vieillesse']"
+Foudroyeur de Tengu Givrefoux,Objet d'élevage,165,"['Œuf de Dragoeuf Ardoise', 'Plume de Crowneille', 'Cuir de Porkass', 'Crinière de Troollaraj', 'Épaulière de Bwork', ""Queue d'Écumouth"", 'Bois de Gobus', 'Essence du Tengu Givrefoux']"
+Dagob magistrale,Ressources obsolètes,165,[]
+Caresseur de Tengu Givrefoux,Objet d'élevage,165,"['Noisette', 'Souris verte', 'Fleur de Gloutovore', 'Antenne de Gloursaya', 'Papier Charbon', 'Essence du Tengu Givrefoux', ""Glande d'Arak-haï"", 'String de Pampactus']"
+Abreuvoir du Père Ver,Objet d'élevage,165,"['Bout de Blop Indigo', 'Écaille de Dragoss Charbon', 'Sceau Royal Contrefait', 'Serviette de Plage', 'Houpette de Koalak Sanguin', 'Bec de Vilain Petit Tofu', 'Bandeau troué de Feu', 'Essence du Père Ver']"
+Dragofesse de XLII,Objet d'élevage,165,"['Champignon', 'Bourgeon de Pirolienne', 'Défense de Gliglicérin', 'Étoffe de Dok Alako', 'Bulbe Malibout', 'Branche de Tiwabbit Kiafin', 'Essence de XLII', 'Peau de Trémorse']"
+Mangeoire de Tengu Givrefoux,Objet d'élevage,165,"['Œil de Cocholou', 'Oreille de Médibwork', 'Épaulière de Bwork', 'Plastron de Tambouraï', 'Rembourrage de Meupette', 'Plume de Gélikan', 'Essence du Tengu Givrefoux', 'Lamelle de Champa Rouge']"
+Korria,Ressources obsolètes,163,[]
+Djim,Ressources obsolètes,161,[]
+Boîte de fragments imposante,Boîte de fragments,160,[]
+Chiquette vivifiante du mercenaire,Friandise,160,[]
+Grandiose Potion de Percepteur,Potion de conquête,160,"[""Pierre d'Aigue-Marine"", 'Cloaque du Poolay', 'Écaille de Harpirate', 'Pépite', 'Griffe de Félygiène', 'Peau de Métaphorreur', 'Queue de Chasquatch', 'Pic de Malépik']"
+Mangeoire du Shogun Tofugawa,Objet d'élevage,160,"['Œil de Cocholou', 'Oreille de Médibwork', 'Épaulière de Bwork', ""Pierre d'Agathe"", 'Bave du Kaskargo', 'Poil de Chachachovage', 'Lamelle de Champa Rouge', 'Essence du Shogun Tofugawa']"
+Bûche de Charme,Friandise,160,"['Levure de Boulanger', 'Chanvre', 'Sève de Charme']"
+Mijoté Récréatif Fortifiant,Viande comestible,160,"['Eau Potable', 'Chanvre', 'Bidoche Fraîche']"
+Coffre de Draguisla Bonita,Coffre,160,[]
+Potion de Donzelle,Potion,160,"['Chanvre', 'Résine', 'Belladonzelle']"
+Tortilla,Pain,160,"['Citron', 'Ginseng', 'Maïs']"
+Burrito,Pain,160,"['Citron', 'Ginseng', 'Maïssého']"
+Mijoté Récréatif,Viande comestible,160,"['Eau Potable', 'Chanvre', 'Viande Fraîche']"
+Pain bourratif du mercenaire,Pain,160,[]
+Besace du baroudeur,Objet utilisable,160,[]
+Besace d'orbes régénérants,Objet utilisable,160,[]
+Coffre imposant de loterie,Coffre,160,[]
+Coffre imposant,Coffre,160,[]
+Chiquette exaltante du mercenaire,Friandise,160,[]
+Chiquette fortifiante du mercenaire,Friandise,160,[]
+Pain fortifiant du mercenaire,Pain,160,[]
+Coffre d'Anatak,Coffre,160,[]
+Bar Grillé,Poisson comestible,160,"['Bar Rikain', 'Oignon', 'Ginseng']"
+Bar Iton Grillé,Poisson comestible,160,"['Bar Iton', 'Oignon', 'Ginseng']"
+Coffre vulkain,Coffre,160,[]
+Besace uchronique,Objet utilisable,160,[]
+Larme d'Eniripsa,Potion,160,"['Chanvre', 'Résine', 'Belladone']"
+Salade Houbée,Viande comestible,158,[]
+Plat de Gravette,Poisson comestible,158,[]
+Pikmi magistrale,Ressources obsolètes,157,[]
+Baffeur de Kanigroula,Objet d'élevage,155,"['Charnière Cassée', 'Carapace Rouge', 'Étoffe de Kurookin', 'Plume de Buveur', 'Bractée de Chiendent', 'Masque de la Violence', 'Essence de Kanigroula', 'Queue de Scordion Bleu']"
+Caresseur de Ush,Objet d'élevage,155,"['Pic du Prespic', 'Peau de serpentin', 'Feuille de Fourbasse', 'Queue de Meliglours', 'Miroir de Dopeul', ""Glande d'Arak-haï"", 'Essence de Ush', 'Parchemin de Cactana']"
+Dragofesse du Kimbo,Objet d'élevage,155,"['Couteau de Roukouto', 'Cuir de Gliglibido', 'Oreille de Foufayteur', 'Poils de Koalak Indigo', 'Bulbe Kouraçao', 'Bandeau de Black Wabbit Squelette', 'Essence du Kimbo', 'Langue de Morsquale']"
+Foudroyeur de l'Obsidiantre,Objet d'élevage,155,"['Œuf de Dragoeuf Ardoise', 'Cuir de Porkass', 'Oreilles de Croc Gland', 'Feuille de Tikoko', 'Oreille de Kaniglou', 'Œil de Sapeur', ""Essence de l'Obsidiantre"", 'Gratrooll']"
+Caresseur de l'Obsidiantre,Objet d'élevage,155,"['Défense du Sanglier', 'Aile de Bourdard', 'Trukikol Mort', 'Poils de Boulglours', 'Papier Charbon', ""Essence de l'Obsidiantre"", ""Glande d'Arak-haï"", 'Fleur de Cactiflore']"
+Horize magistrale,Ressources obsolètes,155,[]
+Abreuvoir du Kimbo,Objet d'élevage,155,"['Bout de Blop Indigo', 'Peau de Maître Koalak', 'Écaille de Dragoss Argile', 'Nageoire de Compétition', 'Bourse Suspecte', 'Plume de Tofubine', 'Bandeau troué de Feu', 'Essence du Kimbo']"
+Salace de poissons,Poisson comestible,153,[]
+Hulhu magistrale,Ressources obsolètes,152,[]
+Mantou,Pain,150,"['Chanvre', 'Mesure de Poivre', 'Graine de Pandouille']"
+Potion Raide Izdaide,Potion,150,"['Malt', 'Poudre Temporelle', 'Ginseng']"
+Daube aux Épices,Viande comestible,150,"['Malt', 'Épices', 'Viande de Brousse']"
+Bûche de Kaliptus,Friandise,150,"['Levure de Boulanger', 'Malt', 'Sève de Kaliptus']"
+Coffre de Zatoïshwan,Coffre,150,[]
+Aileron de Requin,Poisson comestible,150,"['Requin Marteau-Faucille', 'Huile à frire', 'Graine de Pandouille']"
+Aileron de Requin Marché-Libre,Poisson comestible,150,"['Requin Marché-Libre', 'Huile à frire', 'Graine de Pandouille']"
+Daube Fortifiante aux Épices,Viande comestible,150,"['Malt', 'Épices', 'Bidoche de Brousse']"
+Cafra majeure,Ressources obsolètes,148,[]
+Foudroyeur de Ben le Ripate,Objet d'élevage,145,"['Œuf de Dragoeuf Ardoise', 'Cuir du Cochon de Lait', 'Moustache de Kolérat', 'Feuille de Tikoko', 'Poil de Troolléolé', 'Poil de Smilomouth', 'Essence de Ben le Ripate']"
+Mangeoire d'Hell Mina,Objet d'élevage,145,"['Noix de Cajou', 'Poil de Gamino', 'Pince du Fancrôme', 'Corne de Scaratos', 'Griffe de Phorrêveur', 'Pétale de Malter', 'Pic de Malépik', ""Essence d'Hell Mina""]"
+Abreuvoir du Minotot,Objet d'élevage,145,"['Bout de Blop Reinette', 'Peau de Draguaindrop', 'Fluide Glacial', 'Foulard de Koalak Farouche', 'Plumeau de Tofuzmo', ""Bandeau troué d'Air"", 'Chaînes Brisées', 'Essence du Minotot']"
+Abreuvoir de Sphincter Cell,Objet d'élevage,145,"['Bout de Blop Coco', 'Écaille de Dragoss Argile', 'Tatouage de Mauvais Garçon', 'Serviette de Plage', 'Foulard de Koalak Farouche', 'Bec de Vilain Petit Tofu', 'Essence de Sphincter Cell']"
+Dragofesse du Minotot,Objet d'élevage,145,"['Roue de Tivelo', 'Cuir de Gliglibido', 'Oreille de Foufayteur', 'Os de Pékeualak', 'Bulbe Kouraçao', 'Os de Wabbit Squelette', 'Essence du Minotot', 'Langue de Morsquale']"
+Baffeur du Phossile,Objet d'élevage,145,"['Carapace Jaune', 'Griffe de Robionicle', 'Poil de Renarbo', 'Lame brisée de Lichangoro', 'Calice de Fécorce', 'Essence du Phossile', 'Queue de Fennex']"
+Butor magistrale,Ressources obsolètes,145,[]
+Pého magistrale,Ressources obsolètes,143,[]
+Kyoub magistrale,Ressources obsolètes,142,[]
+Zaihn majeure,Ressources obsolètes,141,[]
+Pain Trépide,Pain,140,"['Levure de Boulanger', 'Huile de Sésame', 'Malt', 'Chanvre', 'Pomme de Terre', 'Edelweiss', 'Pandapiler', 'Viande Sanguinolente']"
+Critus,Ressources obsolètes,140,[]
+Boudin Noir Fortifiant,Viande comestible,140,"['Malt', 'Sang de Scorbute', 'Bidoche Macérée']"
+Élixir des Trépasseurs,Potion,140,"['Malt', 'Étoffe de Samouraï fantôme', 'Ginseng', 'Pierre de Sélénite', 'Pluie de Pandala', 'Dernière pour la route']"
+Pain Gre,Pain,140,"['Chanvre', 'Mesure de sel', 'Graine de Pandouille']"
+Coffre étincelant,Coffre,140,[]
+Pain Prenelle,Pain,140,"['Mesure de sel', 'Chanvre Euphorique', 'Graine de Pandouille']"
+Salace de Lotte,Poisson comestible,140,"['Feuille de Salace', 'Graine de Pandouille', 'Lotte']"
+Salace de Glotte,Poisson comestible,140,"['Feuille de Salace', 'Graine de Pandouille', 'Glotte']"
+Bûche d'Ébène,Friandise,140,"['Levure de Boulanger', 'Malt', ""Sève d'Ébène""]"
+Coffre de la Capitaine Hébreuze,Coffre,140,[]
+Dragofesse en Cuir de Sanglacier,Objet d'élevage,140,"['Champignon', 'Roue de Tivelo', 'Poil de Gliglitch', 'Os de Pékeualak', 'Bulbe Morito', 'Cuir du Sanglacier', 'Branche de Tiwabbit Kiafin']"
+Boudin Noir,Viande comestible,140,"['Malt', 'Sang de Scorbute', 'Viande Macérée']"
+Caresseur en Plume du Dernier Poolay,Objet d'élevage,140,"['Pic du Prespic', 'Plume du Dernier Poolay', 'Fleur de Gloutovore', 'Dent de Larve Champêtre', 'Papier Charbon', ""Glande d'Arak-haï""]"
+Merveilleuse Potion de Percepteur,Potion de conquête,140,"['Baguette de Tétonuki', 'Poils de Boumbardier', ""Akaslip d'Akakwa"", 'Duvet de Mamansot', 'Oreille de Kaniglou', 'Pépite', 'Os de Sramouraï', ""Mandibule d'Abrakne Irascible""]"
+Coffre étincelant de loterie,Coffre,140,[]
+Boîte de fragments étincelante,Boîte de fragments,140,[]
+Abreuvoir en Orme,Objet d'élevage,140,"[""Bois d'Orme"", 'Bout de Blop Griotte', 'Peau de Maître Koalak', 'Écaille de Dragoss Calcaire', 'Fluide Glacial', 'Cendres de Tofutoflamme', 'Chaînes Brisées']"
+Potion Bulbique,Potion,140,"['Malt', 'Poudre de Perlinpainpain', 'Ginseng']"
+Potion de Goku,Potion,140,"['Malt', 'Poudre de Perlinpainpain', 'Ginsengoku']"
+Mangeoire en Orme,Objet d'élevage,140,"['Poils de Mulounoké', 'Noix de Cajou', ""Bois d'Orme"", 'Oreille de Médibwork', 'Cloaque du Poolay', 'Étoffe de Rat Bougri', 'Lamelle de Champa Rouge']"
+Baffeur en Orme,Objet d'élevage,140,"[""Bois d'Orme"", 'Chaîne de Robot Fléau', 'Carapace Bleue', 'Tête de lance de Fangshu', 'Plume de Buveur', 'Étamine de Floribonde', 'Queue de Scordion Bleu']"
+Foudroyeur en Orme,Objet d'élevage,140,"[""Bois d'Orme"", 'Graine de Scorbute', 'Trident Cassé', 'Épaulière de Bwork', 'Oreille percée du Fricochère', 'Pierre Médicinale', 'Gratrooll']"
+Domo magistrale,Ressources obsolètes,137,[]
+Sak majeure,Ressources obsolètes,136,[]
+Mangeoire de Shihan et Hanshi,Objet d'élevage,135,"['Poils de Barbe du Bwork Mage', 'Œil de Cocholou', 'Oreille de Médibwork', 'Croupion du Bitouf aérien', 'Poil de Chachachovage', 'Essence de Shihan et Hanshi', 'Lamelle de Champa Vert']"
+Dragofesse du Tynril,Objet d'élevage,135,"['Couteau de Roukouto', 'Défense de Gliglicérin', 'Oreille de Foufayteur', 'Poils de Koalak Griotte', 'Bulbe Passaoh', 'Branche de Tiwabbit Kiafin', 'Essence du Tynril']"
+Yoche magistrale,Ressources obsolètes,135,[]
+Foudroyeur du Chêne Mou,Objet d'élevage,135,"['Fruit de Palme', 'Œuf de Dragoeuf Ardoise', 'Cuir de Porkass', 'Poils de Croc Gland', ""Queue d'Écumouth"", 'Essence du Chêne Mou', 'Gratrooll']"
+Baffeur du Mansot Royal,Objet d'élevage,135,"['Concombre', 'Coque Endommagée', 'Carapace Verte', 'Plume de Corbac Apprivoisé', 'Sépale de Nerbe', 'Essence du Mansot Royal', 'Queue de Fennex']"
+Dragofesse de Founoroshi,Objet d'élevage,135,"['Roue de Tivelo', 'Poil de Gliglitch', 'Ongle de Kanigrou', 'Poils de Koalak Coco', 'Bulbe Malibout', 'Patte de Black Wabbit', 'Essence de Founoroshi']"
+Pétunia magistrale,Ressources obsolètes,133,[]
+Teleb majeure,Ressources obsolètes,131,[]
+Potion Raide Emption,Potion,130,"['Eau Potable', 'Seigle', 'Graine de Pandouille']"
+Borodinski,Pain,130,"['Malt', 'Edelweiss', 'Résine']"
+Coffre de Pantèroz,Coffre,130,[]
+Marinade Sucrée-Salée,Viande comestible,130,"['Seigle', 'Cerise', 'Viande Persillée']"
+Marinade Sucrée-Salée Fortifiante,Viande comestible,130,"['Seigle', 'Cerise', 'Bidoche Persillée']"
+Ultram,Ressources obsolètes,130,[]
+Aile de Raie,Poisson comestible,130,"['Edelweiss', 'Citron', 'Raie Bleue']"
+Bûche de Noisetier,Friandise,130,"['Levure de Boulanger', 'Seigle', 'Sève de Noisetier']"
+Aile de Raie de Farle,Poisson comestible,130,"['Edelweiss', 'Citron', 'Raie de Farle']"
+Boble majeure,Ressources obsolètes,128,[]
+Corrode,Ressources obsolètes,127,[]
+Nyoro magistrale,Ressources obsolètes,126,[]
+Dagob majeure,Ressources obsolètes,125,[]
+Mangeoire de la Dame des eaux,Objet d'élevage,125,"['Canine de Mergranlou', 'Tissu Pourpre', 'Épaulière de Bwork', 'Cloaque du Poolay', 'Étoffe de Rat Bougri', 'Essence de Nagate', 'Lamelle de Champa Vert']"
+Dragofesse de la Haute Truche,Objet d'élevage,125,"['Bombe de Graboule', 'Poil de Vétauran', 'Étoffe de Gliglidoudur', 'Étoffe de Dok Alako', 'Bulbe Kouraçao', 'Bandeau de Black Wabbit Squelette', 'Essence de la Haute Truche']"
+Caresseur du Tanukouï San,Objet d'élevage,125,"['Groin de Sanglier', 'Feuille de Fourbasse', 'Dent de Larve Champêtre', 'Papier Charbon', 'Essence de Tanukouï San', ""Glande d'Arak-haï"", 'String de Pampactus']"
+Mangeoire d'El Piko,Objet d'élevage,125,"['Queue du Mulou', 'Épaulière de Bwork', 'Botte trouée de Mégabwork', 'Rembourrage de Meupette', 'Étoffe de Rat Bougri', 'Lamelle de Champa Bleu', ""Essence d'El Piko""]"
+Pénitent,Ressources obsolètes,123,[]
+Dynamo magistrale,Ressources obsolètes,121,[]
+Sang de Trooll,Potion,120,"['Seigle', 'Épices', 'Graine de Pandouille']"
+Faluche,Pain,120,"['Edelweiss', 'Poudre Temporelle', 'Malt Husse']"
+Grillade Brâkmarienne,Viande comestible,120,"['Seigle', 'Cendres Éternelles', 'Viande Saignante']"
+Grillade Brâkmarienne Fortifiante,Viande comestible,120,"['Seigle', 'Cendres Éternelles', 'Bidoche Saignante']"
+Chaton-Perche Sauté,Poisson comestible,120,[]
+Perche Sautée,Poisson comestible,120,"['Edelweiss', 'Perche', 'Mesure de Poivre']"
+Délice des Kitsous,Viande comestible,120,"['Épices', 'Riz', 'Viande Saignante']"
+Coffre lourd de loterie,Coffre,120,[]
+Coffre lourd,Coffre,120,[]
+Coffre d'Ali Grothor,Coffre,120,[]
+Potion de Trois,Potion,120,"['Seigle', 'Épices', 'Pandouille de Trois']"
+Bûche de Merisier,Friandise,120,"['Levure de Boulanger', 'Seigle', 'Sève de Merisier']"
+Boîte de fragments lourde,Boîte de fragments,120,[]
+Splendide Potion de Percepteur,Potion de conquête,120,"['Pierre de Topaze', 'Poil de Rat Bontarien', 'Fragment de cerveau poli', 'Plume du Timansot', 'Vieille Ventouse de Kralamoure', 'Pépite', 'Gâtrool']"
+Hoskar,Ressources obsolètes,120,[]
+Pain aux Céréales,Pain,120,"['Malt', 'Edelweiss', 'Poudre Temporelle']"
+Élixir uchronique amélioré,Potion,120,"['Perche', 'Concombre', 'Jus de Cacterre', 'Élixir uchronique mineur', ""Fragment d'anomalie""]"
+Élixir uchronique amélioré (lié),Potion,120,[]
+Pikmi majeure,Ressources obsolètes,117,[]
+Abreuvoir du Blop Multicolore Royal,Objet d'élevage,115,"['Bout de Blop Griotte', 'Peau de Dragnarok', 'Sceau Royal Contrefait', 'Houpette de Koalak Sanguin', 'Plume de Tofubine', 'Crème à bronzer', 'Essence du Blop Multicolore Royal']"
+Potion d'Apisaphé,Potion de téléportation,115,"['Carapace de Scaratos', 'Plume du Serpiplume', 'Peau de Minoskito', 'Peau de Kraméléhon', 'Peau de Mandrine']"
+Mangeoire de Skeunk,Objet d'élevage,115,"['Noix de Cajou', 'Tissu Pourpre', 'Œil de Cocholou', 'Bave du Kaskargo', 'Plume de Gélikan', 'Essence de Skeunk', 'Lamelle de Champa Marron']"
+Abreuvoir du Capitaine Ekarlatte,Objet d'élevage,115,"['Bout de Blop Indigo', 'Peau de Dragueuse', 'Nageoire de Compétition', 'Poils de Guerrier Koalak', 'Plumeau de Tofuzmo', 'Graine de la Discorde', 'Essence du Capitaine Ekarlatte']"
+Baffeur du Minotoror,Objet d'élevage,115,"['Patte de Corbac', 'Chaîne de Robot Fléau', 'Carapace Jaune', 'Étoffe de Kurookin', 'Bractée de Chiendent', 'Essence du Minotoror', 'Œil de Léolhyène']"
+Caresseur de Fraktale,Objet d'élevage,115,"['Poils du Milimulou', 'Souris verte', 'Trukikol Mort', 'Papier Charbon', 'Essence de Fraktale', ""Glande d'Arak-haï"", 'Fleur de Cactiflore']"
+Horize majeure,Ressources obsolètes,115,[]
+Mangeoire de Crocabulia,Objet d'élevage,115,"['Canine de Mergranlou', 'Slip de Bwork Archer', 'Peau de Krambwork', ""Souche de l'Abrakleur clair"", 'Pince de Crabe Hijacob', 'Essence de Crocabulia', 'Lamelle de Champa Rouge']"
+Caresseur du Royalmouth,Objet d'élevage,115,"['Défense du Sanglier', 'Peau de serpentin', 'Fleur de Gloutovore', 'Miroir de Dopeul', 'Essence du Royalmouth', ""Glande d'Arak-haï"", 'Moustaches de Cactoblongo']"
+Caresseur du Tofu Royal,Objet d'élevage,115,"['Noisette', 'Aile de Bourdard', 'Plume de Dostrogo', 'Miroir de Dopeul', 'Essence du Tofu Royal', ""Glande d'Arak-haï"", 'Parchemin de Cactana']"
+Bihilète magistrale,Ressources obsolètes,114,[]
+Hulhu majeure,Ressources obsolètes,112,[]
+Dorade au four,Poisson comestible,110,"['Orchidée Freyesque', 'Mesure de sel', 'Dorade Grise']"
+Nékinéko,Ressources obsolètes,110,[]
+Bûche de Bambou,Friandise,110,"['Levure de Boulanger', 'Lin', 'Sève de Bambou']"
+Potion Jeud Raide,Potion,110,"['Lin', 'Edelweiss', 'Sang de Scorbute']"
+Pemmican Fortifiant aux Haricots,Viande comestible,110,"['Lin', 'Haricot', 'Bidoche Séchée']"
+Peau de Rat Noir,Ressources obsolètes,110,[]
+Cubitus de Rat Noir,Ressources obsolètes,110,[]
+Peau de Rat Blanc,Ressources obsolètes,110,[]
+Daurade Royale au four,Poisson comestible,110,"['Orchidée Freyesque', 'Mesure de sel', 'Daurade Royale']"
+Pemmican aux Haricots,Viande comestible,110,"['Lin', 'Haricot', 'Viande Séchée']"
+Pain des Villes,Pain,110,"['Poudre de Perlinpainpain', 'Seigle', 'Orchidée Freyesque']"
+Dent de Rat Blanc,Ressources obsolètes,110,[]
+Cafra,Ressources obsolètes,108,[]
+Foudroyeur du Maître Corbac,Objet d'élevage,105,"['Plume de Crowneille', 'Cuir de Porkass', 'Oreille de Kaniglou', 'Essence du Maître Corbac', 'Lamelle de Champa Vert', 'Gâtrool', ""Écailles d'Ouroboulos""]"
+Baffeur du Rat Blanc,Objet d'élevage,105,"['Concombre', 'Charnière Cassée', 'Carapace Rouge', 'Poil de Renarbo', 'Carpelle de Brouture', 'Essence du Rat Blanc', ""Écailles d'Ouroboulos""]"
+Dragofesse de l'Abraknyde Ancestral,Objet d'élevage,105,"['Bombe de Graboule', 'Ongle de Kanigrou', 'Poils de Koalak Reinette', 'Bulbe Malibout', 'Patte de Black Wabbit', ""Essence de l'Abraknyde Ancestral""]"
+Abreuvoir de Damadrya,Objet d'élevage,105,"['Bout de Blop Reinette', 'Peau de Dragnarok', 'Tatouage de Mauvais Garçon', 'Fluide Glacial', 'Foulard de Koalak Farouche', 'Cendres de Tofutoflamme', 'Essence de Damadrya']"
+Butor majeure,Ressources obsolètes,105,[]
+Dragofesse du Rat Noir,Objet d'élevage,105,"['Champignon', 'Bourgeon de Pirolienne', 'Cuir de Gliglibido', 'Peau de Piralak', 'Coccyx du Corailleur', 'Os de Wabbit Squelette', 'Essence du Rat Noir']"
+Abreuvoir du Rasboul Majeur,Objet d'élevage,105,"['Bout de Blop Reinette', 'Peau de Draguaindrop', 'Bourse Suspecte', 'Couche usagée de Warko Violet', 'Patte de Tofu Dodu', 'Conque Marine', 'Essence du Rasboul Majeur']"
+Foudroyeur du Pounicheur,Objet d'élevage,105,"['Oreilles de Croc Gland', 'Trident Cassé', 'Crinière de Troollaraj', ""Queue d'Écumouth"", 'Boulon Wabbit', 'Lamelle de Champa Vert', 'Essence du Pounicheur']"
+Pého majeure,Ressources obsolètes,103,[]
+Kyoub majeure,Ressources obsolètes,102,[]
+Zaihn,Ressources obsolètes,101,[]
+Coffre solide,Coffre,100,[]
+Gaufre,Pain,100,"['Eau Potable', 'Orchidée Freyesque', 'Riz']"
+Coffre des bandits de Cania,Coffre,100,[]
+Ankre de Srambad,Potion de téléportation,100,"['Galet Lunaire', ""Slip d'Elsoummo"", ""Encre d'Oktapodas""]"
+Ankre de Xélorium (liée),Potion de téléportation,100,[]
+Coffre solide de loterie,Coffre,100,[]
+Coffre Vorace endormi,Coffre,100,[]
+Poêlée Paysanne,Viande comestible,100,"['Lin', 'Aubergine', 'Viande Exsudative']"
+Pain de Seigle Résistant,Pain,100,"['Eau Potable', 'Orchidée Freyesque', 'Seigle Résistant']"
+Ankre d'Ecaflipus,Potion de téléportation,100,"['Galet Lunaire', 'Épine de Grath', ""Encre d'Oktapodas""]"
+Ankre d'Enutrosor,Potion de téléportation,100,"['Galet Lunaire', 'Moustache précieuse', ""Encre d'Oktapodas""]"
+Mangeoire en Bambou Sombre,Objet d'élevage,100,"['Poils de Mulounoké', 'Noix de Cajou', 'Botte trouée de Mégabwork', 'Bois de Bambou Sombre', 'Pince de Crabe Hijacob', 'Lamelle de Champa Marron']"
+Ankre d'Ecaflipus (liée),Potion de téléportation,100,[]
+Gaufre en or,Pain,100,"['Eau Potable', 'Orchidée Freyesque', 'Riz Cola']"
+Anguille Rôtie,Poisson comestible,100,"['Orchidée Freyesque', 'Résine', 'Anguille']"
+Anguille Souroche Rôtie,Poisson comestible,100,"['Orchidée Freyesque', 'Résine', 'Anguille Souroche']"
+Bonbon Snik,Friandise,100,"['Eau Potable', 'Seigle', 'Perche']"
+Coffre de Gronchon,Coffre,100,[]
+Plat de Filtounga,Viande comestible,100,[]
+Queue de Dragon Cochon,Ressources obsolètes,100,[]
+Ankre de Xélorium,Potion de téléportation,100,"['Galet Lunaire', 'Pixel de Segmantid', ""Encre d'Oktapodas""]"
+Sang de Likrone,Potion,100,"['Lin', 'Edelweiss', 'Cerise']"
+Plume Vibrante de mansot,Objet utilisable,100,[]
+Boîte de fragments solide,Boîte de fragments,100,[]
+Potion de Marguerite,Potion,100,"['Lin', 'Cerise', 'Edelweiss Marguerite']"
+Bûche d'If,Friandise,100,"['Levure de Boulanger', 'Lin', ""Sève d'If""]"
+Crâne du Dragon Cochon,Ressources obsolètes,100,[]
+Abreuvoir en Bambou Sombre,Objet d'élevage,100,"['Bout de Blop Griotte', 'Bois de Bambou Sombre', 'Écaille de Dragoss Charbon', 'Bourse Suspecte', 'Plumeau de Tofuzmo', 'Conque Marine']"
+Dragofesse en Cuir Noir,Objet d'élevage,100,"['Couteau de Roukouto', 'Oreille de Foufayteur', 'Poils de Koalak Griotte', 'Corail Kouraçao', 'Bulbe Morito', 'Os de Wabbit Squelette']"
+Foudroyeur en Bambou Sombre,Objet d'élevage,100,"['Plume de Crowneille', 'Trident Cassé', 'Crinière de Troollaraj', 'Feuille de Tikoko', 'Bois de Bambou Sombre', 'Pierre Médicinale']"
+Ankre d'Enutrosor (liée),Potion de téléportation,100,[]
+Ankre de Srambad (liée),Potion de téléportation,100,[]
+Parchemin du Boomerang perfide,Parchemin de sortilège,100,[]
+Caresseur en Plume de Fesse du Kido,Objet d'élevage,100,"['Pic du Prespic', 'Dent de Larve Champêtre', 'Trukikol Mort', 'Plume de fesse du Kido', 'Miroir de Dopeul', ""Glande d'Arak-haï"", 'Parchemin de Cactana']"
+Nyan,Ressources obsolètes,100,[]
+Poêlée Paysanne Fortifiante,Viande comestible,100,"['Lin', 'Aubergine', 'Bidoche Exsudative']"
+Baffeur en Bambou Sombre,Objet d'élevage,100,"['Chaîne de Robot Fléau', 'Carapace Jaune', 'Bois de Bambou Sombre', 'Tête de lance de Fangshu', 'Plume de Corbac Apprivoisé', 'Queue de Fennex']"
+Formidable Potion de Percepteur,Potion de conquête,100,"['Bandelettes', 'Bourgeon de Fourbasse', 'Poils de Koalak Indigo', 'Patte de Rat Bougri', 'Pépite', 'Kamatrix', ""Écorce d'Abrakne Sombre""]"
+Pain de Seigle,Pain,100,"['Eau Potable', 'Seigle', 'Orchidée Freyesque']"
+Domo majeure,Ressources obsolètes,97,[]
+Sak,Ressources obsolètes,96,[]
+Foudroyeur de Malléfisk,Objet d'élevage,95,"['Œuf de Dragoeuf Ardoise', 'Cuir du Cochon de Lait', 'Oreilles de Croc Gland', 'Épaulière de Bwork', 'Essence de Malléfisk', 'Gâtrool']"
+Foudroyeur du Meulou,Objet d'élevage,95,"['Graine de Scorbute', 'Bois de Tronknyde', 'Trident Cassé', 'Poil de Troolléolé', 'Boulon Wabbit', 'Essence du Meulou']"
+Dragofesse de Dramak,Objet d'élevage,95,"['Bourgeon de Pirolienne', 'Oreille de Foufayteur', 'Poils de Koalak Indigo', 'Bulbe Passaoh', 'Moustaches de Tiwabbit', 'Essence de Dramak']"
+Abreuvoir de Moon,Objet d'élevage,95,"['Bout de Blop Indigo', 'Peau de Dragueuse', 'Plume de Tofubine', 'Crème à bronzer', 'Graine de la Discorde', 'Essence de Moon']"
+Mangeoire du Dragon Cochon,Objet d'élevage,95,"['Œil de Cocholou', 'Oreille de Médibwork', 'Slip de Bwork Archer', 'Poil de Chachachovage', 'Essence du Dragon Cochon', 'Lamelle de Champa Bleu']"
+Yoche majeure,Ressources obsolètes,95,[]
+Baffeur du Koulosse,Objet d'élevage,95,"['Carapace Verte', 'Griffe de Robionicle', 'Étoffe de Kurookin', 'Plume de Buveur', 'Essence du Koulosse', ""Écailles d'Ouroboulos""]"
+Mangeoire du Kharnozor,Objet d'élevage,95,"['Poils de Mulounoké', 'Noix de Cajou', 'Tissu Pourpre', 'Étoffe de Rat Bougri', 'Lamelle de Champa Vert', 'Essence du Kharnozor']"
+Pétunia majeure,Ressources obsolètes,93,[]
+Teleb,Ressources obsolètes,91,[]
+Leukide,Ressources obsolètes,90,[]
+Bûche d'Oliviolet,Friandise,90,"['Levure de Boulanger', 'Houblon', ""Sève d'Oliviolet""]"
+Pain d'Épices,Pain,90,"['Menthe Sauvage', 'Lin', 'Épices']"
+Pot-au-feu Goûteux Fortifiant,Viande comestible,90,[]
+Potion Raide Boule,Potion,90,[]
+Kralamoure Unique Grillé,Poisson comestible,90,[]
+Pot-au-feu Goûteux,Viande comestible,90,[]
+Kralamoure Grillé,Poisson comestible,90,[]
+Boble,Ressources obsolètes,88,[]
+Nyoro majeure,Ressources obsolètes,86,[]
+Baffeur de Choudini,Objet d'élevage,85,[]
+Abreuvoir de la Reine Nyée,Objet d'élevage,85,[]
+Dagob,Ressources obsolètes,85,[]
+Caresseur du Chouque,Objet d'élevage,85,"['Noisette', 'Peau de serpentin', 'Plume de Dostrogo', 'Papier Charbon', ""Glande d'Arak-haï"", 'Essence du Chouque']"
+Dynamo majeure,Ressources obsolètes,81,[]
+Brochet Farci,Poisson comestible,80,"['Menthe Sauvage', 'Poudre de Perlinpainpain', 'Brochet']"
+Brochet Tupe-Halett Farci,Poisson comestible,80,"['Menthe Sauvage', 'Poudre de Perlinpainpain', 'Brochet Tupe-Halett']"
+Biscotte,Pain,80,"['Menthe Sauvage', 'Lin', 'Sang de Scorbute']"
+Parchemin du Marteau de Moon,Parchemin de sortilège,80,[]
+Potion de Voyageur Dimensionnel,Potion de téléportation,80,"['Œil de Crowneille', ""Queue de Rat d'Hyoactif"", 'Lamelle de Champa Vert']"
+Potion Géniale,Potion,80,"['Houblon', 'Haricot', 'Orchidée de Génie']"
+Bûche d'Érable,Friandise,80,"['Levure de Boulanger', 'Houblon', ""Sève d'Érable""]"
+Incroyable Potion de Percepteur,Potion de conquête,80,"['Cœur de Craqueleur', 'Patte de Scorbute', 'Main de Boo', 'Aile de Dragodinde Rousse Sauvage', 'Pince de Crabe Hijacob', 'Pépite']"
+Coffre surprenant,Coffre,80,[]
+Terrine Bontarienne,Viande comestible,80,"['Houblon', 'Graisse Gélatineuse', 'Viande Sanguinolente']"
+Terrine Bontarienne Fortifiante,Viande comestible,80,[]
+Potion Eau de fée,Potion,80,"['Houblon', 'Orchidée Freyesque', 'Haricot']"
+Coffre d’Ekar Hahib,Coffre,80,[]
+Aroumb,Ressources obsolètes,80,[]
+Pain Gouin,Pain,80,"['Menthe Sauvage', 'Sang de Scorbute', 'Lin Tempête']"
+Boîte de fragments surprenante,Boîte de fragments,80,[]
+Coffre surprenant de loterie,Coffre,80,[]
+Pikmi,Ressources obsolètes,77,[]
+Potion de HmmMmm,Potion,75,"['Peau de Larve Orange', ""Patte d'Arakne"", 'Bave de Bouftou', 'Sang de Bouftou']"
+Horize,Ressources obsolètes,75,[]
+Dragofesse de Gourlo le Terrible,Objet d'élevage,75,"['Champignon', 'Roue de Tivelo', 'Poils de Koalak Coco', 'Coccyx du Corailleur', 'Bandeau de Black Wabbit Squelette', 'Essence de Gourlo le Terrible']"
+Caresseur du Wa Wobot,Objet d'élevage,75,"['Groin de Sanglier', 'Souris verte', 'Trukikol Mort', 'Miroir de Dopeul', 'Essence du Wa Wobot', ""Glande d'Arak-haï""]"
+Dragofesse de Draegnerys,Objet d'élevage,75,"['Champignon', 'Poils de Barbe du Grand Pa Wabbit', 'Bourgeon de Pirolienne', 'Pince de Crustorail', 'Pierre Médicinale', 'Essence de Draegnerys']"
+Bihilète majeure,Ressources obsolètes,74,[]
+Hulhu,Ressources obsolètes,72,[]
+Parmentier à l'Oignon,Viande comestible,70,"['Avoine', 'Oignon', 'Viande Avariée']"
+Sardine Sombre à l'Étouffée,Poisson comestible,70,"['Eau Potable', 'Trèfle à 5 feuilles', 'Sardine Sombre']"
+Vaude,Ressources obsolètes,70,[]
+Parmentier Fortifiant à l'Oignon,Viande comestible,70,"['Avoine', 'Oignon', 'Bidoche Avariée']"
+Potion Pahoa Raide,Potion,70,"['Menthe Sauvage', 'Avoine', 'Aubergine']"
+Bûche de Bombu,Friandise,70,"['Levure de Boulanger', 'Avoine', 'Sève de Bombu']"
+Sardine à l'Étouffée,Poisson comestible,70,"['Eau Potable', 'Trèfle à 5 feuilles', 'Sardine Brillante']"
+Pain Consistant,Pain,70,"['Trèfle à 5 feuilles', 'Houblon', 'Cerise']"
+Cafra mineure,Ressources obsolètes,68,[]
+Potion de crapaud-mufle,Potion,65,"['Peau de Larve Bleue', 'Œuf de Tofu', 'Sang de Bouftou']"
+Caresseur du Craqueleur Légendaire,Objet d'élevage,65,"['Aile de Bourdard', 'Poils du Milimulou', 'Feuille de Fourbasse', 'Miroir de Dopeul', 'Essence du Craqueleur Légendaire', ""Glande d'Arak-haï""]"
+Baffeur de Nelween,Objet d'élevage,65,"['Carapace Jaune', 'Griffe de Robionicle', 'Tête de lance de Fangshu', 'Poil de Renarbo', 'Essence de Nelween', 'Queue de Scordion Bleu']"
+Butor,Ressources obsolètes,65,[]
+Pého,Ressources obsolètes,63,[]
+Kyoub,Ressources obsolètes,62,[]
+Zaihn mineure,Ressources obsolètes,61,[]
+Dragofesse en Cuir Violet de Bwork,Objet d'élevage,60,"['Champignon', 'Roue de Tivelo', 'Cuir Violet de Mégabwork', 'Bulbe Kouraçao', 'Patte de Black Wabbit']"
+Caresseur en Plume de Tofu Maléfique,Objet d'élevage,60,"['Groin de Sanglier', 'Aile de Bourdard', 'Plume de Tofu Maléfique', 'Miroir de Dopeul', ""Glande d'Arak-haï""]"
+Potion Religieuse,Potion,60,"['Avoine', 'Dose de jus goûtu', 'Menthe Religieuse']"
+Friture Amaknéenne Fortifiante,Viande comestible,60,"['Avoine', 'Huile à frire', 'Bidoche Ladre']"
+Étonnante Potion de Percepteur,Potion de conquête,60,"['Tambour de Gobaladée', 'Oreilles du Tiwabbit', 'Pince du Crabe', 'Pierre de Dopeul', 'Pépite']"
+Briochette,Pain,60,"['Trèfle à 5 feuilles', 'Houblon', 'Cendres Éternelles']"
+Coffre intrigant,Coffre,60,[]
+Boîte de fragments intrigante,Boîte de fragments,60,[]
+Coffre de Brumen,Coffre,60,[]
+Bûche de Chêne,Friandise,60,"['Levure de Boulanger', 'Avoine', 'Sève de Chêne']"
+Friture Amaknéenne,Viande comestible,60,"['Avoine', 'Huile à frire', 'Viande Ladre']"
+Carpette Vapeur,Poisson comestible,60,"['Trèfle à 5 feuilles', 'Carpette des sables', 'Épices']"
+Carpe Vapeur,Poisson comestible,60,"['Trèfle à 5 feuilles', ""Carpe d'Iem"", 'Épices']"
+Briochette magique,Pain,60,[]
+Abreuvoir en Bambou,Objet d'élevage,60,[]
+Baffeur en Bambou,Objet d'élevage,60,[]
+Foudroyeur en Bambou,Objet d'élevage,60,[]
+Potion d'enclos de Guilde,Potion de téléportation,60,[]
+Mangeoire en Bambou,Objet d'élevage,60,[]
+Élixir uchronique mineur (lié),Potion,60,[]
+Potion de Soin supérieure,Potion,60,[]
+Multygely,Friandise,60,[]
+Muta,Ressources obsolètes,60,[]
+Le Saut Sifflard,Objet utilisable,60,[]
+Élixir uchronique mineur,Potion,60,[]
+Coffre intrigant de loterie,Coffre,60,[]
+Rougely,Friandise,58,[]
+Domo,Ressources obsolètes,57,[]
+Sak mineure,Ressources obsolètes,56,[]
+Vertgely,Friandise,56,[]
+Museau de Rat Luisant,Ressources obsolètes,56,[]
+Foudroyeur de Blop Royal,Objet d'élevage,55,"['Cuir de Porkass', 'Moustache de Kolérat', 'Essence du Blop Royal', 'Lamelle de Champa Vert', 'Gratrooll', ""Écailles d'Ouroboulos""]"
+Yoche,Ressources obsolètes,55,[]
+Baffeur de Gelée Royale,Objet d'élevage,55,"['Patte de Corbac', 'Coque Endommagée', 'Carapace Rouge', 'Lame brisée de Lichangoro', 'Essence de la Gelée Royale', 'Queue de Scordion Bleu']"
+Mangeoire du Kanniboul Ebil,Objet d'élevage,55,"['Poils de Barbe du Bwork Mage', 'Queue du Mulou', 'Peau de Krambwork', 'Plume de Gélikan', 'Essence du Kanniboul Ebil', 'Lamelle de Champa Rouge']"
+Blugely,Friandise,54,['Gelée Bleutée']
+Pétunia,Ressources obsolètes,53,[]
+Teleb mineure,Ressources obsolètes,51,[]
+Parchemin vierge,Parchemin de recherche,50,"[""Poil d'Ouginak"", 'Cuir de Porkass', 'Pépite']"
+Pain de Mie,Pain,50,"['Sauge', 'Avoine', 'Haricot']"
+Salade Sufokienne,Viande comestible,50,"['Orge', 'Feuille de Salace', 'Viande Tendre']"
+Potion de Croque-mort,Potion de conquête,50,"['Dent de Wabbit', 'Gland', 'Sang de Vampire', 'Main de Boo', 'Os rongé de Gobichon']"
+Potion Dantegoulesque,Potion,50,[]
+Poisson Pané Frit,Poisson comestible,50,"['Sauge', 'Poisson Pané', 'Sang de Scorbute']"
+Poisson Igloo Frit,Poisson comestible,50,"['Sauge', 'Poisson Igloo', 'Sang de Scorbute']"
+Caresseur de Rakoopeur,Objet d'élevage,50,"['Bout de Blop Indigo', 'Résine', 'Pic de Lance de Gobet', 'Pom de Pin', 'Corne de Buffalourd', 'Essence de Rakoopeur']"
+Potion de Vigile,Potion de conquête,50,[]
+Ougah,Ressources obsolètes,50,[]
+Apéwicube,Objet utilisable,50,[]
+Potion de Guérisseur,Potion de conquête,50,"[""Langue d'Épouvanteur"", 'Aile du Tofu Maléfique', 'Poils du Milimulou', 'Oreille de Foufayteur', 'Pétale de Gloutoblop']"
+Potion Ghetto Raide,Potion,50,"['Trèfle à 5 feuilles', 'Orge', 'Graisse Gélatineuse']"
+Œuf de Larve Dorée,Potion,50,[]
+Salade Sufokienne Fortifiante,Viande comestible,50,"['Orge', 'Feuille de Salace', 'Bidoche Tendre']"
+Parchemin Doré,Parchemin d'expérience,50,[]
+Potion d'oubli de sort,Potion,50,[]
+Potion d'Éclaireur,Potion de conquête,50,"['Tronc de Kokoko', 'Ailes de Scarafeuille Bleu', 'Écaille de Crocodaille', 'Bourse Suspecte', 'Lamelle de Champa Bleu']"
+Boble mineure,Ressources obsolètes,48,[]
+Nyoro,Ressources obsolètes,46,[]
+Cocawotte,Potion de téléportation,45,[]
+Abreuvoir du Wa Wabbit,Objet d'élevage,45,"['Bout de Blop Coco', 'Écaille de Dragoss Ardoise', 'Tatouage de Mauvais Garçon', 'Nageoire de Compétition', 'Patte de Tofu Dodu', 'Essence du Wa Wabbit']"
+Mangeoire de la Bworkette,Objet d'élevage,45,"['Épaulière de Bwork', 'Botte trouée de Mégabwork', 'Pince de Crabe Hijacob', 'Essence de la Bworkette', 'Lamelle de Champa Rouge']"
+Abreuvoir du Mantiscore,Objet d'élevage,45,"['Bout de Blop Griotte', 'Peau de Draguaindrop', 'Sceau Royal Contrefait', 'Serviette de Plage', 'Cendres de Tofutoflamme', 'Essence du Mantiscore']"
+Dragofesse du Directeur Grunob,Objet d'élevage,45,"['Bec du Kwak de Glace', 'Pic de Lance de Gobet', 'Canine de Gobelin', 'Peau de Larve Dorée', 'Essence du Directeur Grunob']"
+Foudroyeur du Kwakwa,Objet d'élevage,45,"['Cuir du Cochon de Lait', 'Plume de Crowneille', 'Pierre Médicinale', 'Essence du Kwakwa', 'Lamelle de Champa Vert']"
+Dragofesse de la Shin Larve,Objet d'élevage,45,"['Bombe de Graboule', 'Ongle de Kanigrou', 'Bulbe Passaoh', 'Branche de Tiwabbit Kiafin', 'Essence de la Shin Larve']"
+Baffeur du Corailleur Magistral,Objet d'élevage,45,"['Coque Endommagée', 'Carapace Bleue', 'Poil de Renarbo', 'Essence du Corailleur Magistral', 'Queue de Fennex']"
+Foudroyeur du Chafer Rōnin,Objet d'élevage,45,"['Cuir de Porkass', 'Moustache de Kolérat', 'Épaulière de Bwork', 'Essence du Chafer Rōnin', ""Écailles d'Ouroboulos""]"
+Dagob mineure,Ressources obsolètes,45,[]
+Caresseur des Forgerons,Objet d'élevage,45,"['Noisette', 'Peau de serpentin', 'Miroir de Dopeul', 'Essence des Forgerons', ""Glande d'Arak-haï""]"
+Abragland,Objet utilisable,44,[]
+Bihilète,Ressources obsolètes,44,[]
+Dynamo,Ressources obsolètes,41,[]
+Potion Agare,Potion,40,"['Orge', 'Oignon', 'Trèfle Agare']"
+Remarquable Potion de Percepteur,Potion de conquête,40,"['Aile du Tofu Maléfique', 'Os Invisible du Chafer Invisible', 'Pépite', 'Antennes de Vilinsekt']"
+Coffre rouillé de loterie,Coffre,40,[]
+Potion de Bivoak,Potion de téléportation,40,"['Poudre Temporelle', 'Potion de Foyer', 'Feuille de Kaliptus', 'Élixir uchronique mineur']"
+Boîte de fragments rouillée,Boîte de fragments,40,[]
+Papillote au Citron,Viande comestible,40,"['Orge', 'Citron', 'Viande Minérale']"
+Poisson-Chaton Fumé,Poisson comestible,40,"['Sauge', 'Poisson-Chaton', 'Cerise']"
+Poisson-Tigre Fumé,Poisson comestible,40,"['Sauge', 'Cerise', 'Poisson-Tigre']"
+Potion d'Otomaï,Potion de téléportation,40,"['Coccyx du Corailleur', 'Bulbe Kouraçao', 'Bulbe Malibout', 'Bulbe Passaoh', 'Bulbe Morito']"
+Pain aux Flocons d'Avoine,Pain,40,"['Sauge', 'Avoine', 'Aubergine']"
+Potion de Soin,Potion,40,"['Trèfle à 5 feuilles', 'Orge', 'Oignon']"
+Bûche de Noyer,Friandise,40,"['Levure de Boulanger', 'Orge', 'Sève de Noyer']"
+Potion de Mériana,Potion de téléportation,40,"['Eau Potable', 'Aile du Tofu Maléfique', 'Trèfle à 5 feuilles', 'Boue du Boo', 'Dent de Crocodaille']"
+Papillote Fortifiante au Citron,Viande comestible,40,"['Orge', 'Citron', 'Bidoche Minérale']"
+Pain aux Flocons d'Avoine Aurifère,Pain,40,"['Sauge', 'Avoine Aurifère', 'Aubergine']"
+Coffre rouillé,Coffre,40,[]
+Hydromiel,Boisson,40,[]
+Pikmi mineure,Ressources obsolètes,37,[]
+Potion de Foyer de Guilde,Potion de téléportation,35,"['Bout de Blop Coco', 'Bout de Blop Reinette', 'Bout de Blop Griotte', 'Bout de Blop Indigo', 'Potion de Foyer']"
+Caresseur de Boostache,Objet d'élevage,35,"['Défense du Sanglier', 'Souris verte', 'Papier Charbon', 'Essence de Boostache', ""Glande d'Arak-haï""]"
+Dragofesse du Scarabosse Doré,Objet d'élevage,35,"['Bourgeon de Pirolienne', 'Poil de Vétauran', 'Bulbe Malibout', 'Moustaches de Tiwabbit', 'Essence du Scarabosse Doré']"
+Horize mineure,Ressources obsolètes,35,[]
+Mangeoire de Batofu,Objet d'élevage,35,"['Poils de Barbe du Bwork Mage', 'Oreille de Médibwork', 'Étoffe de Rat Bougri', 'Essence de Batofu', 'Lamelle de Champa Marron']"
+Abreuvoir de Kankreblath,Objet d'élevage,35,"['Bout de Blop Reinette', 'Peau de Dragnarok', 'Tatouage de Mauvais Garçon', 'Fluide Glacial', 'Essence de Kankreblath']"
+Hulhu mineure,Ressources obsolètes,32,[]
+Parchemin de la Maîtrise d'Arme,Parchemin de sortilège,30,[]
+Roulade de Carne Fortifiante,Viande comestible,30,"['Blé', 'Bidoche Frelatée']"
+Fougasse,Pain,30,"['Orge', 'Ortie']"
+Squelette en canette,Bière,30,[]
+Cervoâz aux œufs,Bière,30,[]
+Coup de martaupe,Bière,30,[]
+Remords doré,Bière,30,[]
+Pilsi-pili,Bière,30,[]
+Broue des égouts,Bière,30,[]
+Coffre de Frakacia,Coffre,30,[]
+Potion Raide Dite,Potion,30,"['Blé', 'Sauge']"
+Proxima,Ressources obsolètes,30,[]
+Bâton de Crabe Exotique,Poisson comestible,30,"['Ortie', 'Crabe Sourimi Exotique']"
+Riktus Bockus,Bière,30,[]
+Corne du grand chef,Bière,30,[]
+Bière des compagnons,Bière,30,[]
+Jus de cawotte fwelaté,Boisson,30,[]
+Bolée du bolet,Bière,30,[]
+Roulade de Carne,Viande comestible,30,"['Blé', 'Viande Frelatée']"
+Pinte des Pandissidans,Bière,30,[]
+Gobelet zoth,Bière,30,[]
+Rousse mousse,Bière,30,[]
+Bière de Nowel,Bière,30,[]
+Parchemin de la Flamèche,Parchemin de sortilège,30,[]
+Bâton de Crabe,Poisson comestible,30,"['Ortie', 'Crabe Sourimi']"
+Blopisier empoisonné,Pain,30,"['Bol', 'Cerise', 'Bout de Blop Reinette', 'Graine de Scorbute']"
+Tourmenteuze,Bière,30,[]
+Cuvée bwork,Bière,30,[]
+Poil du chienchien,Bière,30,[]
+Tord-boyaux,Boisson,30,[]
+Plat d'accompagnement,Friandise,30,[]
+Lente lampée,Bière,30,[]
+Vieille woteuse,Bière,30,[]
+Moumoules frites,Poisson comestible,30,[]
+Verre glacé,Bière,30,[]
+Sombre chope artisanale,Bière,30,[]
+Demi sans alcool,Bière,30,[]
+Steak sauce chasseur,Viande comestible,30,[]
+Potion de Diligence,Potion de téléportation,25,"['Menthe Sauvage', 'Longue-vue de Gob-Trotteur', 'Œil de Craquelope']"
+Baffeur du Bouftou Royal,Objet d'élevage,25,"['Charnière Cassée', 'Carapace Jaune', 'Plume de Buveur', 'Essence du Bouftou Royal', 'Queue de Scordion Bleu']"
+Parchemin d'Ivoire,Parchemin d'expérience,25,[]
+Butor mineure,Ressources obsolètes,25,[]
+Baffeur de Kardorim,Objet d'élevage,25,"['Carapace Rouge', 'Griffe de Robionicle', 'Plume de Corbac Apprivoisé', 'Essence de Kardorim', 'Œil de Léolhyène']"
+Pého mineure,Ressources obsolètes,23,[]
+Kyoub mineure,Ressources obsolètes,22,[]
+Nisitik Miditik,Objet utilisable,21,[]
+Cawotte Maudite,Objet utilisable,21,[]
+Parchemin d'Invocation du Chaferfu,Parchemin de sortilège,20,[]
+Bûche de Châtaignier,Friandise,20,"['Orge', 'Sève de Châtaignier']"
+Beignet Astrubien,Viande comestible,20,"['Blé', 'Viande Faisandée']"
+Beignet Astrubien Fortifiant,Viande comestible,20,"['Blé', 'Bidoche Faisandée']"
+Carasau,Pain,20,"['Orge', 'Ortie']"
+Coffre insignifiant de loterie,Coffre,20,[]
+Coffre insignifiant,Coffre,20,[]
+Coffre de loterie,Coffre,20,[]
+Truite Flambée,Poisson comestible,20,"['Ortie', 'Truite']"
+Sucre d'Orge,Friandise,20,"['Ortie', 'Orge en Sucre']"
+Potion de cité : Brâkmar (liée),Potion de téléportation,20,[]
+Potion de Percepteur,Potion de conquête,20,"['Sourcil de Moskito', 'Épine du Champ Champ', 'Pépite']"
+Coffre de Dédé Toure Neman,Coffre,20,[]
+Cervelle de vampire,Objet utilisable,20,[]
+Potion de Temple des alliances,Potion de téléportation,20,"['Oreille du Grand Pa Wabbit', 'Plume de Crowneille']"
+Truite Ancestrale Flambée,Poisson comestible,20,"['Ortie', 'Truite Ancestrale']"
+Potion de cité : Bonta (liée),Potion de téléportation,20,[]
+Potion de Kolizéum,Potion de téléportation,20,"['Lait de Cochon de Lait', 'Estomac de Tofu Ventripotent']"
+Parchemin du Foudroiement de Grunob,Parchemin de sortilège,20,[]
+Potion de Mini Soin Supérieure,Potion,20,"['Blé', 'Sauge']"
+Potion de Chasseur de Trésor,Potion de téléportation,20,"['Langue de Gargrouille', 'Dent de Larve Champêtre', 'Fluide Glacial']"
+Boîte de fragments insignifiante,Boîte de fragments,20,[]
+Potion de cité : Brâkmar,Potion de téléportation,20,"['Seigle', 'Pépite']"
+Potion de cité : Bonta,Potion de téléportation,20,"['Riz', 'Pépite']"
+Potion de Divination,Potion,20,"['Blé', 'Sauge Divine au Rhum']"
+Brioche à la viande de bouftou,Pain,20,"['Mesure de sel', 'Mesure de Poivre', 'Briochette', 'Viande Faisandée']"
+Domo mineure,Ressources obsolètes,17,[]
+Grande Fée d'Artifice Multicolore Virevoltante,Fée d'artifice,15,[]
+Elixir Ecaflip,Potion de téléportation,15,"['Bout de Blop Coco', 'Bout de Blop Reinette', 'Bout de Blop Griotte', 'Bout de Blop Indigo', 'Ongle de Kanigrou']"
+Elixir Osamodas,Potion de téléportation,15,"['Os de Chafer', 'Bout de Blop Coco', 'Bout de Blop Reinette', 'Bout de Blop Griotte', 'Bout de Blop Indigo']"
+Foudroyeur de Mob l'Éponge,Objet d'élevage,15,"['Graine de Scorbute', 'Cuir de Porkass', 'Feuille de Tikoko', 'Boulon Wabbit', ""Essence de Mob l'Éponge""]"
+Elixir Eliotrope,Potion de téléportation,15,"['Bout de Blop Coco', 'Bout de Blop Reinette', 'Bout de Blop Griotte', 'Bout de Blop Indigo', 'Œil de Raul Mops']"
+Potion de Bibliotemple,Potion de téléportation,15,"['Os de Chafer', 'Ongle de Kanigrou']"
+Elixir Crâ,Potion de téléportation,15,"['Bout de Blop Coco', 'Bout de Blop Reinette', 'Bout de Blop Griotte', 'Bout de Blop Indigo', 'Groin de Sanglier des Plaines']"
+Elixir Iop,Potion de téléportation,15,"['Bout de Blop Coco', 'Bout de Blop Reinette', 'Bout de Blop Griotte', 'Bout de Blop Indigo', 'Cervelle de Bouftou Noir']"
+Elixir Féca,Potion de téléportation,15,"[""Intestin d'Araknosé"", 'Bout de Blop Coco', 'Bout de Blop Reinette', 'Bout de Blop Griotte', 'Bout de Blop Indigo']"
+Elixir Enutrof,Potion de téléportation,15,"['Boue du Boo', 'Bout de Blop Coco', 'Bout de Blop Reinette', 'Bout de Blop Griotte', 'Bout de Blop Indigo']"
+Elixir Sram,Potion de téléportation,15,"['Bout de Blop Coco', 'Bout de Blop Reinette', 'Bout de Blop Griotte', 'Bout de Blop Indigo', 'Crocs de Rats']"
+Elixir Steamer,Potion de téléportation,15,"['Pince du Crabe', 'Bout de Blop Coco', 'Bout de Blop Reinette', 'Bout de Blop Griotte', 'Bout de Blop Indigo']"
+Elixir Pandawa,Potion de téléportation,15,"['Bout de Blop Coco', 'Bout de Blop Reinette', 'Bout de Blop Griotte', 'Bout de Blop Indigo', 'Tatouage de Mauvais Garçon']"
+Elixir Sacrieur,Potion de téléportation,15,"['Bout de Blop Coco', 'Bout de Blop Reinette', 'Bout de Blop Griotte', 'Bout de Blop Indigo', 'Sang de Bouftou']"
+Elixir Sadida,Potion de téléportation,15,"['Dent de Wabbit', 'Bout de Blop Coco', 'Bout de Blop Reinette', 'Bout de Blop Griotte', 'Bout de Blop Indigo']"
+Elixir Xélor,Potion de téléportation,15,"[""Poils d'Arakne Malade"", 'Bout de Blop Coco', 'Bout de Blop Reinette', 'Bout de Blop Griotte', 'Bout de Blop Indigo']"
+Abreuvoir du Tournesol Affamé,Objet d'élevage,15,"['Bout de Blop Indigo', 'Écaille de Dragoss Argile', 'Sceau Royal Contrefait', 'Nageoire de Compétition', 'Essence du Tournesol Affamé']"
+Yoche mineure,Ressources obsolètes,15,[]
+Grande Fée d'Artifice Rouge Virevoltante,Fée d'artifice,15,"['Capsule Explosive', ""Fée d'Artifice Rouge Virevoltante""]"
+Elixir Eniripsa,Potion de téléportation,15,"['Bout de Blop Coco', 'Bout de Blop Reinette', 'Bout de Blop Griotte', 'Bout de Blop Indigo', ""Œil d'Arakmuté""]"
+Grande Fée d'Artifice Verte Virevoltante,Fée d'artifice,15,"['Capsule Explosive', ""Fée d'Artifice Verte Virevoltante""]"
+Grande Fée d'Artifice Bleue Virevoltante,Fée d'artifice,15,"['Capsule Explosive', ""Fée d'Artifice Bleue Virevoltante""]"
+Grande Fée d'Artifice Jaune Virevoltante,Fée d'artifice,15,"['Capsule Explosive', ""Fée d'Artifice Jaune Virevoltante""]"
+Elixir Roublard,Potion de téléportation,15,"['Bout de Blop Coco', 'Bout de Blop Reinette', 'Bout de Blop Griotte', 'Bout de Blop Indigo', 'Œil de Kwoan']"
+Elixir Zobal,Potion de téléportation,15,"[""Bourgeon d'Abraknyde"", 'Bout de Blop Coco', 'Bout de Blop Reinette', 'Bout de Blop Griotte', 'Bout de Blop Indigo']"
+Fée d'Artifice Verte Virevoltante,Fée d'artifice,14,"['Poudre de Perlinpainpain', ""Petite Fée d'Artifice Verte Virevoltante""]"
+Fée d'Artifice Bleue Virevoltante,Fée d'artifice,14,"['Poudre de Perlinpainpain', ""Petite Fée d'Artifice Bleue  Virevoltante""]"
+Fée d'Artifice Rouge Virevoltante,Fée d'artifice,14,"['Poudre de Perlinpainpain', ""Petite Fée d'Artifice Rouge Virevoltante""]"
+Fée d'Artifice Jaune Virevoltante,Fée d'artifice,14,"['Poudre de Perlinpainpain', ""Petite Fée d'Artifice Jaune Virevoltante""]"
+Fée d'Artifice Multicolore Virevoltante,Fée d'artifice,14,[]
+Petite Fée d'Artifice Bleue  Virevoltante,Fée d'artifice,13,"['Peau de Larve Bleue', ""Poudre d'Artifice""]"
+Pétunia mineure,Ressources obsolètes,13,[]
+Petite Fée d'Artifice Verte Virevoltante,Fée d'artifice,13,"['Peau de Larve Verte', ""Poudre d'Artifice""]"
+Petite Fée d'Artifice Jaune Virevoltante,Fée d'artifice,13,"['Aile de Dragodinde', ""Poudre d'Artifice""]"
+Petite Fée d'Artifice Rouge Virevoltante,Fée d'artifice,13,"['Peau de Larve Orange', ""Poudre d'Artifice""]"
+Petite Fée d'Artifice Multicolore Virevoltante,Fée d'artifice,13,[]
+Grande Fée d'Artifice Bleue Crépitante,Fée d'artifice,12,"['Capsule Explosive', ""Fée d'Artifice Bleue Crépitante""]"
+Grande Fée d'Artifice Rouge Crépitante,Fée d'artifice,12,"['Capsule Explosive', ""Fée d'Artifice Rouge Crépitante""]"
+Grande Fée d'Artifice Verte Crépitante,Fée d'artifice,12,"['Capsule Explosive', ""Fée d'Artifice Verte Crépitante""]"
+Grande Fée d'Artifice Multicolore Crépitante,Fée d'artifice,12,[]
+Grande Fée d'Artifice Jaune Crépitante,Fée d'artifice,12,"['Capsule Explosive', ""Fée d'Artifice Jaune Crépitante""]"
+Fée d'Artifice Rouge Crépitante,Fée d'artifice,11,"['Poudre de Perlinpainpain', ""Petite Fée d'Artifice Rouge Crépitante""]"
+Fée d'Artifice Bleue Crépitante,Fée d'artifice,11,"['Poudre de Perlinpainpain', ""Petite Fée d'Artifice Bleue Crépitante""]"
+Fée d'Artifice Verte Crépitante,Fée d'artifice,11,"['Poudre de Perlinpainpain', ""Petite Fée d'Artifice Verte Crépitante""]"
+Fée d'Artifice Jaune Crépitante,Fée d'artifice,11,"['Poudre de Perlinpainpain', ""Petite Fée d'Artifice Jaune Crépitante""]"
+Fée d'Artifice Multicolore Crépitante,Fée d'artifice,11,[]
+Boulette de Viande,Viande comestible,10,['Viande Hachée']
+Bouillon de Chair Fortifiant,Viande comestible,10,['Bidoche Intangible']
+Beignet de Greuvette Horreur,Poisson comestible,10,['Greuvette Horreur']
+Pain Doré,Pain,10,"[""Blé d'Or""]"
+Coffre de Fouduglen,Coffre,10,[]
+Petite Fée d'Artifice Bleue Crépitante,Fée d'artifice,10,"['Bout de Blop Indigo', ""Poudre d'Artifice""]"
+Petite Fée d'Artifice Jaune Crépitante,Fée d'artifice,10,"['Bout de Blop Coco', ""Poudre d'Artifice""]"
+Petite Fée d'Artifice Multicolore Crépitante,Fée d'artifice,10,[]
+Ordre d'exécution.,Parchemin de recherche,10,[]
+Potion Raide Mhor,Potion,10,['Ortie']
+Michette,Pain,10,['Blé']
+Potion de Rappel,Potion de téléportation,10,"['Eau Potable', 'Sauge']"
+Beignet de Greuvette,Poisson comestible,10,['Greuvette']
+Potion Droïde,Potion,10,['Ortie Roïde']
+Bûche de Frêne,Friandise,10,['Sève de Frêne']
+Petite Fée d'Artifice Rouge Crépitante,Fée d'artifice,10,"['Bout de Blop Griotte', ""Poudre d'Artifice""]"
+Petite Fée d'Artifice Verte Crépitante,Fée d'artifice,10,"['Bout de Blop Reinette', ""Poudre d'Artifice""]"
+Goujon Kiye en Tranche,Poisson comestible,10,[]
+Potion de Rappel (liée),Potion de téléportation,10,[]
+Grande Fée d'Artifice Bleue Fontaine,Fée d'artifice,9,[]
+Grande Fée d'Artifice Rouge Fontaine,Fée d'artifice,9,[]
+Grande Fée d'Artifice Verte Fontaine,Fée d'artifice,9,[]
+Grande Fée d'Artifice Jaune Fontaine,Fée d'artifice,9,[]
+Grande Fée d'Artifice Multicolore Fontaine,Fée d'artifice,9,[]
+Fée d'Artifice Multicolore Fontaine,Fée d'artifice,8,[]
+Fée d'Artifice Verte Fontaine,Fée d'artifice,8,[]
+Fée d'Artifice Bleue Fontaine,Fée d'artifice,8,[]
+Fée d'Artifice Rouge Fontaine,Fée d'artifice,8,[]
+Fée d'Artifice Jaune Fontaine,Fée d'artifice,8,[]
+Petite Fée d'Artifice Verte Fontaine,Fée d'artifice,7,[]
+Petite Fée d'Artifice Multicolore Fontaine,Fée d'artifice,7,[]
+Petite Fée d'Artifice Jaune Fontaine,Fée d'artifice,7,"['Ailes de Scarafeuille Blanc', ""Poudre d'Artifice""]"
+Petite Fée d'Artifice Rouge Fontaine,Fée d'artifice,7,"['Ailes de Scarafeuille Rouge', ""Poudre d'Artifice""]"
+Petite Fée d'Artifice Bleue Fontaine,Fée d'artifice,7,"['Ailes de Scarafeuille Bleu', ""Poudre d'Artifice""]"
+Grande Fée d'Artifice Bleue Tournoyante,Fée d'artifice,6,"['Capsule Explosive', ""Fée d'Artifice Bleue Tournoyante""]"
+Grande Fée d'Artifice Rouge Tournoyante,Fée d'artifice,6,"['Capsule Explosive', ""Fée d'Artifice Rouge Tournoyante""]"
+Nyoro mineure,Ressources obsolètes,6,[]
+Grande Fée d'Artifice Jaune Tournoyante,Fée d'artifice,6,"['Capsule Explosive', ""Fée d'Artifice Jaune Tournoyante""]"
+Grande Fée d'Artifice Multicolore Tournoyante,Fée d'artifice,6,[]
+Grande Fée d'Artifice Verte Tournoyante,Fée d'artifice,6,"['Capsule Explosive', ""Fée d'Artifice Verte Tournoyante""]"
+Mangeoire en Frêne,Objet d'élevage,5,"['Bois de Frêne', 'Chaîne de Robot Fléau']"
+Baffeur en Frêne,Objet d'élevage,5,"['Bois de Frêne', 'Crème à bronzer']"
+Fée d'Artifice Bleue Tournoyante,Fée d'artifice,5,"['Poudre de Perlinpainpain', ""Petite Fée d'Artifice Bleue Tournoyante""]"
+Fée d'Artifice Jaune Tournoyante,Fée d'artifice,5,"['Poudre de Perlinpainpain', ""Petite Fée d'Artifice Jaune Tournoyante""]"
+Fée d'Artifice Multicolore Tournoyante,Fée d'artifice,5,[]
+Abreuvoir en Frêne,Objet d'élevage,5,"['Bois de Frêne', 'Groin de Sanglier des Plaines']"
+Fée d'Artifice Verte Tournoyante,Fée d'artifice,5,"['Poudre de Perlinpainpain', ""Petite Fée d'Artifice Verte Tournoyante""]"
+Potion de Foyer,Potion de téléportation,5,"['Fruit de Palme', 'Graine de Pandouille', 'Pépite']"
+Gâtrool Industriel,Viande comestible,5,[]
+Foudroyeur en Frêne,Objet d'élevage,5,"['Bois de Frêne', 'Conque Marine']"
+Fée d'Artifice Rouge Tournoyante,Fée d'artifice,5,"['Poudre de Perlinpainpain', ""Petite Fée d'Artifice Rouge Tournoyante""]"
+Bihilète mineure,Ressources obsolètes,4,[]
+Petite Fée d'Artifice Bleue Tournoyante,Fée d'artifice,4,"['Antennes de Scarafeuille Bleu', ""Poudre d'Artifice""]"
+Petite Fée d'Artifice Jaune Tournoyante,Fée d'artifice,4,"['Antennes de Scarafeuille Blanc', ""Poudre d'Artifice""]"
+Petite Fée d'Artifice Rouge Tournoyante,Fée d'artifice,4,"['Antennes de Scarafeuille Rouge', ""Poudre d'Artifice""]"
+Petite Fée d'Artifice Verte Tournoyante,Fée d'artifice,4,"['Antennes de Scarafeuille Vert', ""Poudre d'Artifice""]"
+Petite Fée d'Artifice Multicolore Tournoyante,Fée d'artifice,4,[]
+Grande Fée d'Artifice Jaune,Fée d'artifice,3,"['Capsule Explosive', ""Fée d'Artifice Jaune""]"
+Grande Fée d'Artifice Rouge,Fée d'artifice,3,"['Capsule Explosive', ""Fée d'Artifice Rouge""]"
+Grande Fée d'Artifice Verte,Fée d'artifice,3,"['Capsule Explosive', ""Fée d'Artifice Verte""]"
+Grande Fée d'Artifice Bleue,Fée d'artifice,3,"['Capsule Explosive', ""Fée d'Artifice Bleue""]"
+Grande Fée d'Artifice Multicolore,Fée d'artifice,3,[]
+Fée d'Artifice Multicolore,Fée d'artifice,2,[]
+Fée d'Artifice Bleue,Fée d'artifice,2,"['Poudre de Perlinpainpain', ""Petite Fée d'Artifice Bleue""]"
+Fée d'Artifice Rouge,Fée d'artifice,2,"['Poudre de Perlinpainpain', ""Petite Fée d'Artifice Rouge""]"
+Fée d'Artifice Verte,Fée d'artifice,2,"['Poudre de Perlinpainpain', ""Petite Fée d'Artifice Verte""]"
+Fée d'Artifice Jaune,Fée d'artifice,2,"['Poudre de Perlinpainpain', ""Petite Fée d'Artifice Jaune""]"
+Pandaburg,Bière,1,[]
+Pandapiler,Bière,1,[]
+Carré de Chocolat Blanc,Friandise,1,[]
+Abreuvoir en Charme,Objet d'élevage,1,[]
+Abreuvoir en Ébène,Objet d'élevage,1,[]
+Abreuvoir en Bombu,Objet d'élevage,1,[]
+Mangeoire en Chêne,Objet d'élevage,1,[]
+Mangeoire en If,Objet d'élevage,1,[]
+Mangeoire en Ébène,Objet d'élevage,1,[]
+Mangeoire en Érable,Objet d'élevage,1,[]
+Dragofesse Classique,Objet d'élevage,1,[]
+Dragofesse en Cuir de Boostache Prépubère,Objet d'élevage,1,[]
+Corne de Brume,Objet utilisable,1,[]
+Mangeoire en Bois Envoûté,Objet d'élevage,1,[]
+Mangeoire en Bois de Tronknyde,Objet d'élevage,1,[]
+Dragofesse en Cuir de Porkass,Objet d'élevage,1,[]
+Caresseur en Plume de Piou Vert,Objet d'élevage,1,[]
+Caresseur en Plume de Corbac,Objet d'élevage,1,[]
+Caresseur en Plume de Kwak de Terre,Objet d'élevage,1,[]
+Baffeur en Merisier,Objet d'élevage,1,[]
+Baffeur en Bois de Bambouto Sacré,Objet d'élevage,1,[]
+Foudroyeur en Charme,Objet d'élevage,1,[]
+Foudroyeur en Châtaignier,Objet d'élevage,1,[]
+Foudroyeur en Noyer,Objet d'élevage,1,[]
+Foudroyeur en Oliviolet,Objet d'élevage,1,[]
+Foudroyeur Classique,Objet d'élevage,1,[]
+Piment confit,Friandise,1,[]
+Shigekax Orange,Friandise,1,[]
+Ballotin de chocolat,Friandise,1,[]
+Shigekax Passion,Friandise,1,[]
+Relique de Ténèbre,Relique d'Incarnation,1,[]
+Relique de Flamme,Relique d'Incarnation,1,[]
+Relique de Nuage,Relique d'Incarnation,1,[]
+Shigekax Reinette,Friandise,1,[]
+Shigekax Mirabelle,Friandise,1,[]
+Relique du Riktus baroudeur,Relique d'Incarnation,1,[]
+Craqueleur des Glaces en Sucre Glace,Friandise,1,[]
+Brioche de Nowel,Pain,1,[]
+Potion de Kerubim,Potion de téléportation,1,[]
+Bouf'gomme à la Pêche,Friandise,1,[]
+Fée d'artifice Culottée,Fée d'artifice,1,[]
+Fée d'artifice Musicale,Fée d'artifice,1,[]
+Fée d'artifice Cawotte,Fée d'artifice,1,[]
+Fée d'artifice Nuageuse,Fée d'artifice,1,[]
+Mimibiote,Mimibiote,1,[]
+Boxer,Parchemin d'attitude,1,[]
+Voile Eidolonique de Lévitrof,Objet utilisable,1,[]
+Caillou d'Enutrof,Friandise,1,[]
+Voile Eidolonique de Bourôliste,Objet utilisable,1,[]
+Bière du Bourreau,Bière,1,[]
+Voile Eidolonique de Méjaire,Objet utilisable,1,[]
+Siffler,Parchemin d'attitude,1,[]
+Montre en avance,Objet utilisable,1,[]
+Fée d’Artifice Colorée,Fée d'artifice,1,[]
+Diplôme d'ivoire,Parchemin de titre,1,[]
+Coup fatal Sadida,Parchemin d'attitude,1,[]
+Supporter Batailleurs Glorieux S2,Parchemin d'attitude,1,[]
+Coffre de Kolizétons,Coffre,1,[]
+Supporter Millenium S3,Parchemin d'attitude,1,[]
+Supporter Out of Control S3,Parchemin d'attitude,1,[]
+Sac du Molosse,Objet utilisable,1,[]
+Caisse de reflets oniriques,Objet utilisable,1,[]
+Souffle dracomique,Boisson,1,[]
+Cadeau de reflets oniriques,Objet utilisable,1,[]
+Koukawa Fraise,Friandise,1,[]
+Diplôme de Prospectus temporis II,Parchemin de titre,1,[]
+Burgreg,Viande comestible,1,[]
+Diplôme de Fabophile,Parchemin de titre,1,[]
+Bonbon béni de la Prêtresse des Douze,Friandise,1,[]
+Clochette ailée en chocolat,Friandise,1,[]
+Diplôme de Waddictateur,Parchemin de titre,1,[]
+Diplôme de Croqueur,Parchemin de titre,1,[]
+Diplôme des cloches,Parchemin de titre,1,[]
+Friandise Chocoskargo,Friandise,1,[]
+Perlequin Coco,Friandise,1,[]
+Perlequin Griotte,Friandise,1,[]
+Perlequin Indigo,Friandise,1,[]
+Perlequin Reinette,Friandise,1,[]
+Potion d'attitude Élémentaire,Potion d'attitude,1,[]
+Potion d'attitude Criminel,Potion d'attitude,1,[]
+Potion d'attitude Offrir un gâteau,Potion d'attitude,1,[]
+Potion d'attitude Vaporeux,Potion d'attitude,1,[]
+Potion d'attitude Magmatique,Potion d'attitude,1,[]
+Paquet d'attitude aléatoire,Objet utilisable,1,[]
+Danse du trool,Parchemin d'attitude,1,[]
+Guitare électromagique,Parchemin d'attitude,1,[]
+Aura musicale,Parchemin d'attitude,1,[]
+Perlequin Ananas,Friandise,1,[]
+Diplôme de Casus Belli Temporis III,Parchemin de titre,1,[]
+Potjevleesch,Viande comestible,1,[]
+Granulé pour hamster,Objet utilisable,1,[]
+Super bonbon du Prospecteur,Friandise,1,[]
+Super bonbon du Sage,Friandise,1,[]
+Boisson démoniaque,Boisson,1,"['Bière du Chabrûlé', 'Bière du Ripate', 'Bière Atolmond', 'Bière de Djaul', 'Bière de la Misère', 'Bière du Bworkball']"
+Boisson orientale,Boisson,1,"['Pandaburg', 'Pandapils']"
+Diplôme de Créateur de rêve,Parchemin de titre,1,[]
+Anniversaire,Parchemin d'attitude,1,[]
+Macmarron d'Icspay Maytiet,Friandise,1,[]
+Popoche de Havre-Sac Allister,Popoche de Havre-Sac,1,[]
+Popoche de Havre-Sac Pwâk,Popoche de Havre-Sac,1,[]
+Popoche de Havre-Sac Sain Ballotin,Popoche de Havre-Sac,1,[]
+Diplôme de Wa d'un jour 650,Parchemin de titre,1,[]
+Sorti du chapeau,Parchemin d'attitude,1,[]
+Ballon bleu de Shariva,Objet utilisable,1,[]
+Sharivarise Banane,Friandise,1,[]
+Sharivarise Prune,Friandise,1,[]
+Sharivarise Caramel,Friandise,1,[]
+Sachet d'Aubergines,Conteneur,1,[]
+Tonneau d'Huile à Frire,Conteneur,1,[]
+Sachet de Poivre,Conteneur,1,[]
+Bière de Djaul,Bière,1,[]
+Garde-à-vous,Parchemin d'attitude,1,[]
+Balistique,Parchemin d'attitude,1,[]
+Pêcheur,Parchemin d'attitude,1,[]
+Émoticônes Halouine,Parchemin d'émoticônes,1,[]
+Élémentaire,Parchemin d'attitude,1,[]
+Pâtée d'Ecaflip,Viande comestible,1,[]
+Animal,Parchemin d'attitude,1,[]
+Indestructible,Parchemin d'attitude,1,[]
+Expérimenter,Parchemin d'attitude,1,[]
+Enragé,Parchemin d'attitude,1,[]
+Diplôme de Guerrier de l'été 647,Parchemin de titre,1,[]
+Potion d'autopilotage pour monture,Potion de monture,1,[]
+Voile tumultueux de l'antagoniste,Objet utilisable,1,[]
+Diplôme d'Apprenti Pandawushuka,Parchemin de titre,1,[]
+Diplôme de Maître des voies martiales,Parchemin de titre,1,[]
+Shaké,Boisson,1,[]
+Gnôle de Grobe,Bière,1,[]
+Mots pliés,Mots de haïku,1,[]
+Diplôme de Wa d'un jour 651,Parchemin de titre,1,[]
+Coup fatal Minouki Kojite,Parchemin d'attitude,1,[]
+Fête du Slip,Parchemin d'attitude,1,[]
+Coup fatal Possédé,Parchemin d'attitude,1,[]
+Diplôme du Disciple de la Chtigresse,Parchemin de titre,1,[]
+Diplôme du Recommancien,Parchemin de titre,1,[]
+Supporter Emperor,Parchemin d'attitude,1,[]
+Potion d'attitude Casse-Noisette,Potion d'attitude,1,[]
+Mémoire d'un soldat de Brâkmar,Objet utilisable,1,[]
+Mémoire d'un guerrier de sang,Objet utilisable,1,[]
+Diplôme de Fabophile 652,Parchemin de titre,1,[]
+Bouataklône ETP-20,Bouataklône,1,[]
+Bouataklône ETP-30,Bouataklône,1,[]
+Bouataklône ETP-34,Bouataklône,1,[]
+Souffle dégivrant de Silouate,Parchemin d'attitude,1,[]
+Plante grimpante de Rosal,Parchemin d'attitude,1,[]
+Flan à la morve,Friandise,1,[]
+Tempotion d'expérience,Potion,1,[]
+Coquetel ékrochai,Boisson,1,[]
+Coquetel éacha,Boisson,1,[]
+Coquetel éthon,Boisson,1,[]
+Coquetel aiskop,Boisson,1,[]
+Émoticônes Trappeur,Parchemin d'émoticônes,1,[]
+Bière aigrisante,Bière,1,[]
+Potion de changement des couleurs illimité Astrubienne,Potion,1,[]
+Diplôme de Fabophile 653,Parchemin de titre,1,[]
+Lâcher les gaz,Parchemin d'attitude,1,[]
+Bière du Feubuk,Bière,1,[]
+Bière de la Bagrutte,Bière,1,[]
+Petite Fée d'Artifice Multicolore,Fée d'artifice,1,[]
+Booden glace,Friandise,1,[]
+Bière d'Astrub,Bière,1,[]
+Pain d'Incarnam,Pain,1,['Blé']
+Petit Parchemin de Force,Parchemin de caractéristique,1,[]
+Petit Parchemin d'Intelligence,Parchemin de caractéristique,1,[]
+Parchemin de Sculpteur,Parchemin d'expérience,1,[]
+Parchemin de Force,Parchemin de caractéristique,1,[]
+Puissant Parchemin de Force,Parchemin de caractéristique,1,[]
+Puissant Parchemin de Sagesse,Parchemin de caractéristique,1,[]
+Parchemin de Vitalité,Parchemin de caractéristique,1,[]
+Grand Parchemin de Chance,Parchemin de caractéristique,1,[]
+Puissant Parchemin d'Intelligence,Parchemin de caractéristique,1,[]
+Parchemin de Cordonnier,Parchemin d'expérience,1,[]
+Héritage du Forgelance,Parchemin d'attitude,1,[]
+Diplôme de Fan du Magik Riktus,Parchemin de titre,1,[]
+Diplôme de Suzerain des tourmentés,Parchemin de titre,1,[]
+Popoche de Havre-Sac d'Ephédrya,Popoche de Havre-Sac,1,[]
+Perlequin Idolâtré à l'Amande,Friandise,1,[]
+Perlequin Idolâtré à la Mirabelle,Friandise,1,[]
+Distribution de beaux cadeaux de Nowel,Objet utilisable,1,[]
+Distribution de superbes cadeaux de Nowel,Objet utilisable,1,[]
+Diplôme d'Étoile des neiges,Parchemin de titre,1,[]
+Potion malfaisante,Potion,1,[]
+Diplôme de Wa d'un jour 654,Parchemin de titre,1,[]
+Parchemin de Joaillomage,Parchemin d'expérience,1,[]
+Parchemin de Forgemage de Dagues,Parchemin d'expérience,1,[]
+Parchemin de Sculptemage,Parchemin d'expérience,1,[]
+Parchemin de Mineur,Parchemin d'expérience,1,[]
+Parchemin de la Capture d'âmes,Parchemin de sortilège,1,[]
+Relique de Gobeuf,Relique d'Incarnation,1,[]
+Relique de Grizou,Relique d'Incarnation,1,[]
+Potion de soin larvesque,Potion,1,"['Peau de Larve Orange', 'Sang de Bouftou']"
+Craqueloroche,Objet utilisable,1,[]
+Relique de Phong Huss,Relique d'Incarnation,1,[]
+Relique de Rapiat,Relique d'Incarnation,1,[]
+Bonbon à la Menthe du Prospecteur,Friandise,1,[]
+Sac de Fantaisies Eliatropes,Objet utilisable,1,[]
+Agent infectieux de la rosissure,Objet utilisable,1,[]
+Super Héros,Parchemin d'attitude,1,[]
+Refuser,Parchemin d'attitude,1,[]
+Offrir un cadeau,Parchemin d'attitude,1,[]
+Montrer son arme,Parchemin d'attitude,1,[]
+Croiser les bras,Parchemin d'attitude,1,[]
+Baisser le pouce,Parchemin d'attitude,1,[]
+Manolias,Parchemin d'attitude,1,[]
+Coquetel émaque,Boisson,1,[]
+Fricassée de Thongue Salée,Poisson comestible,1,[]
+Kipik en Chocolat,Friandise,1,[]
+Boole de neige,Fée d'artifice,1,"['Capsule Explosive', 'Flocon de Neige']"
+Fée d'artifice bleue de Pwâk,Fée d'artifice,1,[]
+Ballon Baladeur Magique,Objet utilisable,1,[]
+Avoir froid,Parchemin d'attitude,1,[]
+Avoir chaud,Parchemin d'attitude,1,[]
+Attirer l'attention,Parchemin d'attitude,1,[]
+Se frotter les mains,Parchemin d'attitude,1,[]
+Sukette à la Fraise,Friandise,1,[]
+Sukette au Citron,Friandise,1,[]
+Bonbon Zaï Hallucinogène,Friandise,1,[]
+Bonbon du Prospecteur,Friandise,1,[]
+Bonbon du Formateur,Friandise,1,[]
+Barre Rabmarac à la Fraise,Friandise,1,[]
+Barre Rabmarac au Nougat,Friandise,1,[]
+Tempotion d'expérience,Potion,1,[]
+Potion d'attitude Tambour,Potion d'attitude,1,[]
+Agiter ses cheveux,Parchemin d'attitude,1,[]
+Potion d'attitude Crocabulia,Potion d'attitude,1,[]
+Coup fatal Moon,Parchemin d'attitude,1,[]
+Welch,Friandise,1,[]
+Fricadelle,Viande comestible,1,[]
+Diplôme d'Ankaventurier,Parchemin de titre,1,[]
+Popoche de Havre-Sac Cale des Pirates,Popoche de Havre-Sac,1,[]
+Popoche de Havre-Sac Halouine,Popoche de Havre-Sac,1,[]
+Popoche de Havre-Sac Princesse,Popoche de Havre-Sac,1,[]
+Popoche de Havre-Sac Pyramide,Popoche de Havre-Sac,1,[]
+Popoche de Havre-Sac Steamer,Popoche de Havre-Sac,1,[]
+Ornement de Misère,Parchemin d'ornement,1,[]
+Popoche de Havre-Sac Eliocalypse,Popoche de Havre-Sac,1,[]
+Disparition,Parchemin d'attitude,1,[]
+Potion de rétrécissement,Potion,1,[]
+Ballon vert de Shariva,Objet utilisable,1,[]
+Sharivarise Poire,Friandise,1,[]
+Voile tumultueux du bandit,Objet utilisable,1,[]
+Bourse de 20 000 Kamas,Bourse,1,[]
+Diplôme de Parchomancien Finaliste,Parchemin de titre,1,[]
+Coup fatal Pwâk,Parchemin d'attitude,1,[]
+Tempotion d'expérience,Potion,1,[]
+Pandakwak,Bière,1,[]
+Kentergob,Bière,1,[]
+Shaké à haute fermentation,Boisson,1,[]
+Diplôme de Bêta-Major,Parchemin de titre,1,[]
+Coup fatal Yugo,Parchemin d'attitude,1,[]
+Sac du Forban,Objet utilisable,1,[]
+Souffle de Virizeon,Parchemin d'attitude,1,[]
+Bière du Grand Pouddah,Bière,1,[]
+Mots noircis,Mots de haïku,1,[]
+Mots récoltés,Mots de haïku,1,[]
+Cygrue de Pandako,Objet utilisable,1,[]
+Bambinouze,Bière,1,[]
+Bière forte légère,Bière,1,[]
+Kirim,Bière,1,[]
+Diplôme de Fabophile 651,Parchemin de titre,1,[]
+Boudin dimensionnel,Objet utilisable,1,[]
+Relique de la Riktus ensorceleuse,Relique d'Incarnation,1,[]
+Parchemin de Bijoutier,Parchemin d'expérience,1,[]
+Parchemin de Boucher,Parchemin d'expérience,1,[]
+Parchemin de Bricoleur,Parchemin d'expérience,1,[]
+Parchemin de Forgeur de Haches,Parchemin d'expérience,1,[]
+Parchemin de Forgemage de Haches,Parchemin d'expérience,1,[]
+Parchemin d'Alchimiste,Parchemin d'expérience,1,[]
+Parchemin de Cordomage,Parchemin d'expérience,1,[]
+Coffre de Jorbak,Coffre,1,[]
+Relique de Klüme,Relique d'Incarnation,1,[]
+Úridnac,Objet utilisable,1,[]
+Fée d'artifice Térik,Fée d'artifice,1,[]
+Relique de Grouillot,Relique d'Incarnation,1,[]
+Pizza au boudin de boufmouth,Objet utilisable,1,[]
+Fantaisie Eliatrope,Fée d'artifice,1,[]
+Relique de Mirh,Relique d'Incarnation,1,[]
+S'agenouiller,Parchemin d'attitude,1,[]
+Pierre Feuille Ciseaux,Parchemin d'attitude,1,[]
+Manolias,Parchemin d'attitude,1,[]
+Mains sur les hanches,Parchemin d'attitude,1,[]
+Applaudir,Parchemin d'attitude,1,[]
+Agiter le drapeau blanc,Parchemin d'attitude,1,[]
+Supplier,Parchemin d'attitude,1,[]
+Chercher un trésor,Parchemin d'attitude,1,[]
+Richissime,Parchemin d'attitude,1,[]
+Voile Eidolonique de Terristocrate,Objet utilisable,1,[]
+Voile Eidolonique d'Ikargn,Objet utilisable,1,[]
+Sable de Xélor,Friandise,1,[]
+Intemporel,Parchemin d'attitude,1,[]
+Tonneau d'Eau Potable,Conteneur,1,[]
+Sachet d'Épices,Conteneur,1,[]
+Sachet de Poudre Temporelle,Conteneur,1,[]
+Bière du Bworkball,Bière,1,[]
+Diplôme de plongée,Parchemin de titre,1,[]
+Coup fatal Iop,Parchemin d'attitude,1,[]
+Se boucher les oreilles,Parchemin d'attitude,1,[]
+Bière de Sidimote,Bière,1,[]
+Bonhomme de Neige en Sucre Glace,Friandise,1,[]
+Kanigrou Hivernal en Sucre Glace,Friandise,1,[]
+Traîneau en Pain d'Épices,Friandise,1,[]
+Bûche de Nowel,Friandise,1,[]
+Potion de changement de blason de guilde,Potion,1,[]
+Se prosterner,Parchemin d'attitude,1,[]
+Gonfler ses muscles,Parchemin d'attitude,1,[]
+Sukette à la Pomme,Friandise,1,[]
+Bonbon Zaï Planant,Friandise,1,[]
+Beignet de Karnaval,Friandise,1,[]
+Barre Rabmarac au Caramel,Friandise,1,[]
+Barre Rabmarac au Kola,Friandise,1,[]
+Sakai Firefoux en Sucre Glace,Friandise,1,[]
+Boufballe Surprise,Objet utilisable,1,[]
+Fée d'artifice Feignante,Fée d'artifice,1,[]
+Fée d'artifice Invocatrice d'Arakne,Fée d'artifice,1,[]
+Mini part de bonheur,Friandise,1,[]
+Coup fatal Sacrieur,Parchemin d'attitude,1,[]
+Coup fatal Enutrof,Parchemin d'attitude,1,[]
+Coup fatal Sram,Parchemin d'attitude,1,[]
+Coup fatal Xélor,Parchemin d'attitude,1,[]
+Supporter Free Bowisse S2,Parchemin d'attitude,1,[]
+Fée d'artifice Trèfle,Fée d'artifice,1,[]
+Barbarbe,Bière,1,[]
+Diplôme de Magister Temporis I,Parchemin de titre,1,[]
+Potion d'aspect aléatoire,Potion,1,[]
+Diplôme de Miss/Mister Monde des Douze 649,Parchemin de titre,1,[]
+Pelleforte,Bière,1,[]
+Insectoïde,Parchemin d'attitude,1,[]
+Carré de Chocolat Noir à 99 %,Objet utilisable,1,[]
+Anomalie,Parchemin d'attitude,1,[]
+Diplôme de Guerrier saisonnier 649,Parchemin de titre,1,[]
+Friandise Warkaïk,Friandise,1,[]
+Friandise Torréfactueur,Friandise,1,[]
+Perlequin Amande,Friandise,1,[]
+Perlequin Mirabelle,Friandise,1,[]
+Potion d'attitude Pêcheur,Potion d'attitude,1,[]
+Potion d'attitude Indestructible,Potion d'attitude,1,[]
+Potion d'attitude Psychotique,Potion d'attitude,1,[]
+Potion d'attitude Animal,Potion d'attitude,1,[]
+Potion d'attitude Balistique,Potion d'attitude,1,[]
+Potion d'attitude Ça cadence,Potion d'attitude,1,[]
+Bière du Chabrûlé,Bière,1,[]
+Bière de la Chopenbois,Bière,1,[]
+Pain du Pinchaut,Pain,1,[]
+Guerrier,Parchemin d'attitude,1,[]
+Diplôme de Bip Bop,Parchemin de titre,1,[]
+Coup fatal Minouki Neko,Parchemin d'attitude,1,[]
+Coup fatal Minouki Delukuse,Parchemin d'attitude,1,[]
+Coup fatal Minouki Pudu,Parchemin d'attitude,1,[]
+Diplôme de Valeureux Parchomancien,Parchemin de titre,1,[]
+Boufballe dédicacée de Bonta,Objet utilisable,1,[]
+Casse-Noisette,Parchemin d'attitude,1,[]
+Nachos de Brâkmar,Objet utilisable,1,[]
+Diplôme de Wa d'un jour 652,Parchemin de titre,1,[]
+Tonnerre grondant d'Ulgrude,Parchemin d'attitude,1,[]
+Tofukwâp éphémère,Friandise,1,[]
+Bière d'Amakna,Bière,1,[]
+Parchemin de Bûcheron,Parchemin d'expérience,1,[]
+Parchemin de Forgeur de dagues,Parchemin d'expérience,1,[]
+Parchemin de Sculpteur de baguettes,Parchemin d'expérience,1,[]
+Parchemin de Libération,Parchemin de sortilège,1,[]
+Parchemin d'Invocation de l'Arakne,Parchemin de sortilège,1,[]
+Grand Parchemin de Force,Parchemin de caractéristique,1,[]
+Puissant Parchemin de Chance,Parchemin de caractéristique,1,[]
+Shigekax Menthe,Friandise,1,[]
+Pandalartois,Bière,1,[]
+Carré de Chocolat Noir,Friandise,1,[]
+Abreuvoir en Érable,Objet d'élevage,1,[]
+Abreuvoir en Oliviolet,Objet d'élevage,1,[]
+Mangeoire en Noyer,Objet d'élevage,1,[]
+Mangeoire en Oliviolet,Objet d'élevage,1,[]
+Dragofesse en Cuir de Bouftou,Objet d'élevage,1,[]
+Abreuvoir en Bois Envoûté,Objet d'élevage,1,[]
+Abreuvoir en Bois de Tronknyde,Objet d'élevage,1,[]
+Abreuvoir en Bois de Bambouto,Objet d'élevage,1,[]
+Mangeoire en Bambou Doré,Objet d'élevage,1,[]
+Dragofesse en Cuir de Bouftou Royal,Objet d'élevage,1,[]
+Caresseur en Plume de Piou Jaune,Objet d'élevage,1,[]
+Caresseur en Plume de Kwak de Vent,Objet d'élevage,1,[]
+Caresseur en Plume du Maître Corbac,Objet d'élevage,1,[]
+Baffeur en Érable,Objet d'élevage,1,[]
+Baffeur en Charme,Objet d'élevage,1,[]
+Baffeur en Bombu,Objet d'élevage,1,[]
+Baffeur en Bambou Doré,Objet d'élevage,1,[]
+Foudroyeur en Ébène,Objet d'élevage,1,[]
+Foudroyeur en Bombu,Objet d'élevage,1,[]
+Foudroyeur en Bois de Tronknyde,Objet d'élevage,1,[]
+Foudroyeur en Bambou Doré,Objet d'élevage,1,[]
+Foudroyeur en Bambou Magique,Objet d'élevage,1,[]
+Foudroyeur en Bois de Kokoko,Objet d'élevage,1,[]
+Bourse de 10000 Kamas,Bourse,1,[]
+Limonade d'Incarnam,Boisson,1,[]
+Shigekax Caramel,Friandise,1,[]
+Shigekax Chocolat,Friandise,1,[]
+Shigekax Melon,Friandise,1,[]
+Relique de Goutte,Relique d'Incarnation,1,[]
+Shigekax Griotte,Friandise,1,[]
+Shigekax Acidulé,Friandise,1,[]
+Popoche de Havre-Sac Mercenaire,Popoche de Havre-Sac,1,[]
+Fureur de Djaul,Parchemin d'attitude,1,[]
+Diplôme de Manitum Premium,Parchemin de titre,1,[]
+Diplôme de la Classe Incarnée 653,Parchemin de titre,1,[]
+Perlequin Idolâtré à la Praline,Friandise,1,[]
+Médaille en Chocolat,Friandise,1,[]
+Potion hargneuse,Potion,1,[]
+Potion de changement de blason d'alliance,Potion,1,[]
+Fée d'artifice Champouf,Fée d'artifice,1,[]
+Fée d'artifice Fleurie,Fée d'artifice,1,[]
+Cawotte pouwwite,Objet utilisable,1,[]
+Ola,Parchemin d'attitude,1,[]
+Localiser un portail,Parchemin d'attitude,1,[]
+Voile Eidolonique de Trésantène,Objet utilisable,1,[]
+Voile Eidolonique de Père Phorreur,Objet utilisable,1,[]
+Se frapper le front,Parchemin d'attitude,1,[]
+Voile Eidolonique d'Eperfide,Objet utilisable,1,[]
+Danser,Parchemin d'attitude,1,[]
+Vaporeux,Parchemin d'attitude,1,[]
+Sachet de Cendres Éternelles,Conteneur,1,[]
+Sachet de Cerises,Conteneur,1,[]
+Sachet de Citrons,Conteneur,1,[]
+Sachet de Haricots,Conteneur,1,[]
+Sachet de Résine,Conteneur,1,[]
+Bière de la Misère,Bière,1,[]
+S'abriter sous un parasol,Parchemin d'attitude,1,[]
+Éthylique,Parchemin d'attitude,1,[]
+Chanceux,Parchemin d'attitude,1,[]
+Sanguinolent,Parchemin d'attitude,1,[]
+Bienfaisant,Parchemin d'attitude,1,[]
+Psychotique,Parchemin d'attitude,1,[]
+Diplôme de R'lyugluglu,Parchemin de titre,1,[]
+Coup fatal Grougaloragran,Parchemin d'attitude,1,[]
+Coup fatal Otomaï,Parchemin d'attitude,1,[]
+Bière de Gisgoul,Bière,1,[]
+Champignon Géant Comestible,Objet utilisable,1,[]
+Diplôme de la Classe Incarnée 648,Parchemin de titre,1,[]
+Coup fatal Féca,Parchemin d'attitude,1,[]
+Supporter Out of Control S2,Parchemin d'attitude,1,[]
+Diplôme de Guerrier de l'hiver 648,Parchemin de titre,1,[]
+Petite Fée d'Artifice Verte,Fée d'artifice,1,"['Trèfle à 5 feuilles', ""Poudre d'Artifice""]"
+Petite Fée d'Artifice Bleue,Fée d'artifice,1,"['Ortie', ""Poudre d'Artifice""]"
+Petite Fée d'Artifice Jaune,Fée d'artifice,1,"['Blé', ""Poudre d'Artifice""]"
+Grande Fée d'Artifice Invocatrice de Tofu,Fée d'artifice,1,"['Plume de Tofu', 'Poudre de Perlinpainpain', ""Poudre d'Artifice""]"
+Magma Brâkmarien,Friandise,1,[]
+Frites de Tournesol Sauvage,Friandise,1,[]
+Pandneken,Bière,1,[]
+Panda au chocolat,Friandise,1,[]
+Carré de Chocolat au Lait,Friandise,1,[]
+Pointer du doigt,Parchemin d'attitude,1,[]
+Abreuvoir en Chêne,Objet d'élevage,1,[]
+Abreuvoir en If,Objet d'élevage,1,[]
+Abreuvoir Classique,Objet d'élevage,1,[]
+Mangeoire en Merisier,Objet d'élevage,1,[]
+Mangeoire en Bombu,Objet d'élevage,1,[]
+Caresseur en Plume de Piou Bleu,Objet d'élevage,1,[]
+Caresseur en Plume de Piou Violet,Objet d'élevage,1,[]
+Baffeur en Châtaignier,Objet d'élevage,1,[]
+Baffeur en If,Objet d'élevage,1,[]
+Abreuvoir en Bambou Doré,Objet d'élevage,1,[]
+Abreuvoir en Bois de Bambouto Sacré,Objet d'élevage,1,[]
+Mangeoire en Bambou Magique,Objet d'élevage,1,[]
+Mangeoire en Bois de Bambouto,Objet d'élevage,1,[]
+Dragofesse en Cuir de Chef de Guerre Bouftou,Objet d'élevage,1,[]
+Dragofesse en Cuir de Sanglier des Plaines,Objet d'élevage,1,[]
+Caresseur en Plume de Piou Rouge,Objet d'élevage,1,[]
+Caresseur en Plume de Kwak de Glace,Objet d'élevage,1,[]
+Caresseur en Plume de Tofu Royal,Objet d'élevage,1,[]
+Baffeur en Oliviolet,Objet d'élevage,1,[]
+Foudroyeur en Merisier,Objet d'élevage,1,[]
+Foudroyeur en Bois Envoûté,Objet d'élevage,1,[]
+Foudroyeur en Bois de Bambouto,Objet d'élevage,1,[]
+Morve Subite,Bière,1,[]
+Dragosaure,Parchemin d'attitude,1,[]
+Mouchoir parfumé,Objet utilisable,1,[]
+Déguisement de Cauchemarakne,Potion,1,[]
+Sac de l’Agence Touriste,Objet utilisable,1,[]
+Sac du Garde Royal,Objet utilisable,1,[]
+Sac de Ronces,Objet utilisable,1,[]
+Sac de la Crypte,Objet utilisable,1,[]
+Sac Laineux,Objet utilisable,1,[]
+Potion d'attitude Dragombre,Potion d'attitude,1,[]
+Koukawa Citron,Friandise,1,[]
+Koukawabi Pomme Prune,Friandise,1,[]
+Koukawabi Prune Citron,Friandise,1,[]
+Koukawa,Friandise,1,[]
+Perlequin Acidulé,Friandise,1,[]
+Perlequin Orange,Friandise,1,[]
+Perlequin Praline,Friandise,1,[]
+Perlequin Prune,Friandise,1,[]
+Potion d'attitude Enragé,Potion d'attitude,1,[]
+Potion d'attitude Téméraire,Potion d'attitude,1,[]
+Potion d'attitude Manolias,Potion d'attitude,1,[]
+Potion d'attitude Éthylique,Potion d'attitude,1,[]
+Potion d'attitude Zombique,Potion d'attitude,1,[]
+Potion d'attitude Colère de Bolgrot,Potion d'attitude,1,[]
+Potion d'attitude Richissime,Potion d'attitude,1,[]
+Potion d'attitude Sylvestre,Potion d'attitude,1,[]
+Potion d'attitude Intemporel,Potion d'attitude,1,[]
+Selfie,Parchemin d'attitude,1,[]
+Signe du Shushu,Parchemin d'attitude,1,[]
+Crocabulia,Parchemin d'attitude,1,[]
+Potion de Veine de Krikor Nardine,Potion,1,[]
+Diplôme de Maitre de guerre,Parchemin de titre,1,[]
+Carbonade flamande,Viande comestible,1,[]
+Flamiche au maroilles,Friandise,1,[]
+Moules-frites,Poisson comestible,1,[]
+Popoche de Havre-Sac Ankama,Popoche de Havre-Sac,1,[]
+Boisson givrée,Boisson,1,"['Friswein', 'Frigrowka']"
+Boisson angélique,Boisson,1,"['Bière du Feubuk', 'Bière de la Tabasse', 'Bière de la Bagrutte', 'Bière de la Chopenbois', 'Bière du Pinchaut', 'Bière du Ferayeur']"
+Rêver,Parchemin d'attitude,1,[]
+Diplôme de Souffleur de bougies,Parchemin de titre,1,[]
+Ankarton,Parchemin d'attitude,1,[]
+Popoche de Havre-Sac Amakna,Popoche de Havre-Sac,1,[]
+Popoche de Havre-Sac Champs,Popoche de Havre-Sac,1,[]
+Popoche de Havre-Sac Printemps,Popoche de Havre-Sac,1,[]
+Popoche de Havre-Sac Spectacle,Popoche de Havre-Sac,1,[]
+Popoche de Havre-Sac Stade Bontarien,Popoche de Havre-Sac,1,[]
+Popoche de Havre-Sac Triton,Popoche de Havre-Sac,1,[]
+Ornement de Guerre,Parchemin d'ornement,1,[]
+Ornement de Corruption,Parchemin d'ornement,1,[]
+Dernier Espoir,Parchemin d'attitude,1,[]
+Diplôme de Fabophile 650,Parchemin de titre,1,[]
+Diplôme de Parchomancie,Parchemin de titre,1,[]
+Ballon jaune de Shariva,Objet utilisable,1,[]
+Sharivarise Indigo,Friandise,1,[]
+Ballon Rouge Magique,Objet utilisable,1,[]
+Ballon Vert Magique,Objet utilisable,1,[]
+Bourse de 1000 Kamas,Bourse,1,[]
+Shigekax Banane,Friandise,1,[]
+Shigekax Pomme,Friandise,1,[]
+Pawchemin de la Cawotte,Parchemin de sortilège,1,[]
+Shigekax Amande,Friandise,1,[]
+Shigekax Coco,Friandise,1,[]
+Shigekax Prune,Friandise,1,[]
+Relique du Riktus archer,Relique d'Incarnation,1,[]
+Voile tumultueux du martyr,Objet utilisable,1,[]
+Sablé Yé,Friandise,1,[]
+Umeshushu,Boisson,1,[]
+Alcool à 99%,Boisson,1,[]
+Kirim éventée,Bière,1,[]
+Sac du Roas'Inge,Objet utilisable,1,[]
+Mots obscurs,Mots de haïku,1,[]
+Bière Kiroul,Bière,1,[]
+Jackpot,Parchemin d'attitude,1,[]
+Saucisson de Porkania,Viande comestible,1,[]
+Shushette,Bière,1,[]
+Animorphose,Parchemin d'attitude,1,[]
+Appel de la pluie,Parchemin d'attitude,1,[]
+Étendard du Clan Téa,Parchemin d'attitude,1,[]
+Goujon en Tranche,Poisson comestible,1,['Goujon']
+Bière du Alakarte,Bière,1,[]
+Bonbon Rouge Surpuissant,Friandise,1,[]
+Faire du ski,Parchemin d'attitude,1,[]
+Diplôme de l'Épi fané 652,Parchemin de titre,1,[]
+Bouataklône ETP-21,Bouataklône,1,[]
+Bouataklône ETP-23,Bouataklône,1,[]
+Bouataklône ETP-24,Bouataklône,1,[]
+Bouataklône ETP-25,Bouataklône,1,[]
+Bouataklône ETP-28,Bouataklône,1,[]
+Cycle de Silvosse,Parchemin d'attitude,1,[]
+Opulence de Sumens,Parchemin d'attitude,1,[]
+Coquetel étubbiz,Boisson,1,[]
+Coquetel écharjabl,Boisson,1,[]
+Baiser d'Hécate,Parchemin d'attitude,1,[]
+Maturation de Pouchecot,Parchemin d'attitude,1,[]
+Parchemin du Kannibulle,Parchemin de sortilège,1,[]
+10 Badges d'expédition,Objet utilisable,1,[]
+Diplôme de Témoin d'un autre temps,Parchemin de titre,1,[]
+Pomme,Friandise,1,[]
+Parchemin de Kolizétons,Parchemin de caractéristique,1,[]
+Pain au curry sans curry,Pain,1,[]
+Parchemin d'Agilité,Parchemin de caractéristique,1,[]
+Puissant Parchemin d'Agilité,Parchemin de caractéristique,1,[]
+Grand Parchemin de Sagesse,Parchemin de caractéristique,1,[]
+Grand Parchemin de Vitalité,Parchemin de caractéristique,1,[]
+Parchemin de Chance,Parchemin de caractéristique,1,[]
+Shigekax Citron,Friandise,1,[]
+Shigekax Cerise,Friandise,1,[]
+Potion de Mini Soin,Potion,1,['Ortie']
+Diplôme de Collectionneur d'incarnations,Parchemin de titre,1,[]
+Diplôme de Miss/Mister Monde des Douze 653,Parchemin de titre,1,[]
+Perlequin Idolâtré Acidulé,Friandise,1,[]
+Nectar des petits dieux,Potion,1,[]
+Diplôme de Krosplayeur Intemporel,Parchemin de titre,1,[]
+Distribution de jolis cadeaux de Nowel,Objet utilisable,1,[]
+Diplôme d'Enguirlandeur,Parchemin de titre,1,[]
+Potion turbulente,Potion,1,[]
+Parchemin de Forgeur de Pelles,Parchemin d'expérience,1,[]
+Parchemin de Sculptemage de Bâtons,Parchemin d'expérience,1,[]
+Parchemin de Façonneur,Parchemin d'expérience,1,[]
+Parchemin de Costumage,Parchemin d'expérience,1,[]
+Parchemin de Chasseur,Parchemin d'expérience,1,[]
+Relique de Rekto Topi,Relique d'Incarnation,1,[]
+Shigekax Kill Coos,Friandise,1,[]
+Potion de soin du débutant,Potion,1,[]
+Pain du débutant,Pain,1,[]
+Poisson Deukloche du débutant,Poisson comestible,1,[]
+Mexicanos du débutant,Viande comestible,1,[]
+Chapain,Pain,1,[]
+Relique de Karotz,Relique d'Incarnation,1,[]
+Relique de Piggy Paupe,Relique d'Incarnation,1,[]
+Viande d'aventurier,Objet utilisable,1,[]
+Bonbon à la Menthe du Petit Prospecteur,Friandise,1,[]
+Bonbon à la Menthe de l'Apprenti,Friandise,1,[]
+Relique d'Inferno,Relique d'Incarnation,1,[]
+Relique de Styx,Relique d'Incarnation,1,[]
+Relique de Mandrin,Relique d'Incarnation,1,[]
+Relique de Will Killson,Relique d'Incarnation,1,[]
+Relique de Logram,Relique d'Incarnation,1,[]
+Se mettre en colère,Parchemin d'attitude,1,[]
+S'allonger,Parchemin d'attitude,1,[]
+Rire,Parchemin d'attitude,1,[]
+Montrer sa peur,Parchemin d'attitude,1,[]
+Fleurs,Parchemin d'attitude,1,[]
+Lire un livre,Parchemin d'attitude,1,[]
+Sautiller,Parchemin d'attitude,1,[]
+Jouer du Tambour,Parchemin d'attitude,1,[]
+Trace,Parchemin d'attitude,1,[]
+Paquet Cadeau en Chocolat,Friandise,1,[]
+Peluche en Chocolat,Friandise,1,[]
+Relique de Turyé,Relique d'Incarnation,1,[]
+Racines de Jean Gimbre,Friandise,1,[]
+Étiquette à remplir,Objet utilisable,1,[]
+Krokillage Jaune,Friandise,1,[]
+Lire une carte,Parchemin d'attitude,1,[]
+Pied de nez,Parchemin d'attitude,1,[]
+Sukette à la Prune,Friandise,1,[]
+Encourager,Parchemin d'attitude,1,[]
+Barre Rabmarac au Citron,Friandise,1,[]
+Bouboule de Neige en Sucre Glace,Friandise,1,[]
+Écrire,Parchemin d'attitude,1,[]
+Ballon Jaune Magique,Objet utilisable,1,[]
+Ballon Bleu Magique,Objet utilisable,1,[]
+Bourse de 5000 Kamas,Bourse,1,[]
+Fée d'artifice invocatrice de cœurs,Fée d'artifice,1,[]
+Relique de Feuille,Relique d'Incarnation,1,[]
+Shigekax Indigo,Friandise,1,[]
+Relique du Riktus fine-lame,Relique d'Incarnation,1,[]
+Piou,Parchemin d'attitude,1,[]
+Pochette-Surprise,Objet utilisable,1,[]
+Pyrofuego,Fée d'artifice,1,[]
+Potion de renommage d'alliance,Potion,1,[]
+Fée d'artifice Invocatrice de Moucherons,Fée d'artifice,1,[]
+Fée d'artifice de Kamas,Fée d'artifice,1,[]
+Potion de Grobid,Potion de téléportation,1,[]
+Ouvrir un portail de poche,Parchemin d'attitude,1,[]
+Loupe,Parchemin d'attitude,1,[]
+Voile Eidolonique de Tromblion,Objet utilisable,1,[]
+Phalange de Sram,Friandise,1,[]
+Explosif,Parchemin d'attitude,1,[]
+Voile Eidolonique de Farfacette,Objet utilisable,1,[]
+Voile Eidolonique de Vindeux,Objet utilisable,1,[]
+Kamarena,Parchemin d'attitude,1,[]
+Montre en retard,Objet utilisable,1,[]
+Dynamo mineure,Ressources obsolètes,1,[]
+Bouillon de Chair,Viande comestible,1,['Viande Intangible']
+Sachet de Sel,Conteneur,1,[]
+Tonneau de Sang de Scorbute,Conteneur,1,[]
+Émoticônes Chacha,Parchemin d'émoticônes,1,[]
+Émoticônes Chienchien,Parchemin d'émoticônes,1,[]
+Émoticônes Bilby,Parchemin d'émoticônes,1,[]
+Émoticônes Joris,Parchemin d'émoticônes,1,[]
+Parchemin Blanc,Parchemin d'expérience,1,[]
+Parchemin de Forgeron,Parchemin d'expérience,1,[]
+Grand Parchemin d'Agilité,Parchemin de caractéristique,1,[]
+Parchemin de Sagesse,Parchemin de caractéristique,1,[]
+Petit Parchemin de Vitalité,Parchemin de caractéristique,1,[]
+Puissant Parchemin de Vitalité,Parchemin de caractéristique,1,[]
+Parchemin d'Intelligence,Parchemin de caractéristique,1,[]
+Grand Parchemin d'Intelligence,Parchemin de caractéristique,1,[]
+Parchemin de Boulanger,Parchemin d'expérience,1,[]
+Rune de Transport,Potion de téléportation,1,[]
+Bière de la Tabasse,Bière,1,[]
+Bière du Ferayeur,Bière,1,[]
+Bonbon de Consolation,Friandise,1,[]
+Popoche de Havre-Sac Bateau des Forbans,Popoche de Havre-Sac,1,[]
+Popoche de Havre-Sac Crypte,Popoche de Havre-Sac,1,[]
+Popoche de Havre-Sac Fanfon,Popoche de Havre-Sac,1,[]
+Popoche de Havre-Sac Fin Patraque,Popoche de Havre-Sac,1,[]
+Popoche de Havre-Sac Kerubim,Popoche de Havre-Sac,1,[]
+Popoche de Havre-Sac Moon,Popoche de Havre-Sac,1,[]
+Popoche de Havre-Sac Nowel,Popoche de Havre-Sac,1,[]
+Popoche de Havre-Sac Sidimote,Popoche de Havre-Sac,1,[]
+Popoche de Havre-Sac Stade Brâkmarien,Popoche de Havre-Sac,1,[]
+Popoche de Havre-Sac Wabbit,Popoche de Havre-Sac,1,[]
+Ornement de Servitude,Parchemin d'ornement,1,[]
+Sharivarise Coco,Friandise,1,[]
+Voile tumultueux du nikiril,Objet utilisable,1,[]
+Voile tumultueux du mulou garou,Objet utilisable,1,[]
+Pandazahi,Bière,1,[]
+Diplôme spirituel,Parchemin de titre,1,[]
+Grobinouze,Bière,1,[]
+Dernière pour la route,Bière,1,[]
+Samouraï,Parchemin d'attitude,1,[]
+Mots éclairés,Mots de haïku,1,[]
+Diplôme de Poète,Parchemin de titre,1,[]
+Pizwa,Objet utilisable,1,[]
+Diplôme de Confinuum Exodus,Parchemin de titre,1,[]
+Origami,Parchemin d'attitude,1,[]
+Diplôme de l'Épi fané 651,Parchemin de titre,1,[]
+Diplôme de Wakficionado,Parchemin de titre,1,[]
+Diplôme de Gardien des Arts,Parchemin de titre,1,[]
+Diplôme du Plein aux As,Parchemin de titre,1,[]
+Bière de la Foire,Bière,1,[]
+Coup fatal Goultard,Parchemin d'attitude,1,[]
+Bière cacterre,Bière,1,[]
+Diplôme d'Allié émérite,Parchemin de titre,1,[]
+Diplôme de Vainqueur de la Dofus Cup,Parchemin de titre,1,[]
+Gladiateur,Parchemin d'attitude,1,[]
+. . . . .,Parchemin d'attitude,1,[]
+Coup fatal Eniripsa,Parchemin d'attitude,1,[]
+Coup fatal Crâ,Parchemin d'attitude,1,[]
+Coup fatal Osamodas,Parchemin d'attitude,1,[]
+Coup fatal Pandawa,Parchemin d'attitude,1,[]
+Supporter GamersOrigin S2,Parchemin d'attitude,1,[]
+Cône Wayal,Friandise,1,[]
+Glace Bontarienne,Friandise,1,[]
+Sucette Trool,Friandise,1,[]
+Boules du Minotoboule,Friandise,1,[]
+Panduff,Bière,1,[]
+Bière du Ripate,Bière,1,[]
+Abreuvoir en Châtaignier,Objet d'élevage,1,[]
+Abreuvoir en Noyer,Objet d'élevage,1,[]
+Abreuvoir en Merisier,Objet d'élevage,1,[]
+Mangeoire en Châtaignier,Objet d'élevage,1,[]
+Caresseur en Plume de Tofu,Objet d'élevage,1,[]
+Baffeur Classique,Objet d'élevage,1,[]
+Baffeur en Chêne,Objet d'élevage,1,[]
+Dragofesse en Cuir de Boufton Noir,Objet d'élevage,1,[]
+Abreuvoir en Bois Ancestral,Objet d'élevage,1,[]
+Abreuvoir en Bois de Kokoko,Objet d'élevage,1,[]
+Mangeoire en Bois Ancestral,Objet d'élevage,1,[]
+Mangeoire en Bois de Kokoko,Objet d'élevage,1,[]
+Dragofesse en Cuir de Dragon Cochon,Objet d'élevage,1,[]
+Dragofesse en Cuir de Minotoror,Objet d'élevage,1,[]
+Caresseur en Plume de Piou Rose,Objet d'élevage,1,[]
+Caresseur en Plume de Kwak de Flamme,Objet d'élevage,1,[]
+Caresseur en Plume Pointue de Kwak,Objet d'élevage,1,[]
+Baffeur en Bois Ancestral,Objet d'élevage,1,[]
+Baffeur en Bambou Magique,Objet d'élevage,1,[]
+Baffeur en Bois de Bambouto,Objet d'élevage,1,[]
+Foudroyeur en If,Objet d'élevage,1,[]
+Foudroyeur en Érable,Objet d'élevage,1,[]
+Foudroyeur en Bois Ancestral,Objet d'élevage,1,[]
+Bonbon Energétique,Friandise,1,[]
+Supporter GamersOrigin S3,Parchemin d'attitude,1,[]
+Supporter OV S3,Parchemin d'attitude,1,[]
+Krièk,Bière,1,[]
+Déguisement de Dévhorreur,Potion,1,[]
+Déguisement de Lanverne,Potion,1,[]
+Déguisement de Tofu d'Halouine,Potion,1,[]
+Sac du Kouin-Kouin noir,Objet utilisable,1,[]
+Sac de Lolita,Objet utilisable,1,[]
+Sac Divin,Objet utilisable,1,[]
+Sac Colorivant,Objet utilisable,1,[]
+Diplôme de la Classe Incarnée 649,Parchemin de titre,1,[]
+Dragombre,Parchemin d'attitude,1,[]
+Diplôme des douze travaux d'Hyrkul,Parchemin de titre,1,[]
+Koukawa Prune,Friandise,1,[]
+Koukawabi Prune Fraise,Friandise,1,[]
+Koukawabi Pomme Citron,Friandise,1,[]
+J'ai trop mangé,Parchemin d'attitude,1,[]
+Insigne de garde de Pwâk,Objet utilisable,1,[]
+Friandise Wadnozéam,Friandise,1,[]
+Friandise Kwakao,Friandise,1,[]
+Friandise Pralicienne,Friandise,1,[]
+Perlequin Banane,Friandise,1,[]
+Perlequin Caramel,Friandise,1,[]
+Perlequin Poire,Friandise,1,[]
+Potion d'attitude Bienfaisant,Potion d'attitude,1,[]
+Potion d'attitude Transcendant,Potion d'attitude,1,[]
+Potion d'attitude S'abriter sous un parasol,Potion d'attitude,1,[]
+Potion d'attitude Ola,Potion d'attitude,1,[]
+Potion d'attitude Trompette,Potion d'attitude,1,[]
+Diplôme de Métalleux,Parchemin de titre,1,[]
+Perlequin Pastèque,Friandise,1,[]
+Perlequin Mangue,Friandise,1,[]
+Sachet de Supers bonbons du Sage,Conteneur,1,[]
+Sachet de Supers bonbons du Prospecteur,Conteneur,1,[]
+Parchemin de Forgeur de Marteaux,Parchemin d'expérience,1,[]
+Parchemin de Forgemage de marteau,Parchemin d'expérience,1,[]
+Parchemin de Sculptemage de Baguettes,Parchemin d'expérience,1,[]
+Parchemin de Poissonnier,Parchemin d'expérience,1,[]
+Relique de Grüt,Relique d'Incarnation,1,[]
+Monstre Pain,Pain,1,[]
+Relique d'Hulkrap,Relique d'Incarnation,1,[]
+Relique de Kloug,Relique d'Incarnation,1,[]
+Relique du Manitou Zoth,Relique d'Incarnation,1,[]
+Cervelle de larve,Viande comestible,1,[]
+Fée d'artifice festive,Fée d'artifice,1,[]
+Relique d'Hectaupe,Relique d'Incarnation,1,[]
+Trésor maudit d'Az le Tech,Objet utilisable,1,[]
+Bonbon à la Menthe du Petit Apprenti,Friandise,1,[]
+Paire de skis glissants jetables,Objet utilisable,1,[]
+Paire de skis sombres jetables,Objet utilisable,1,[]
+Paire de skis souples jetables,Objet utilisable,1,[]
+Relique de Traçon,Relique d'Incarnation,1,[]
+Relique de Kalkanéus,Relique d'Incarnation,1,[]
+Relique d'Hichète,Relique d'Incarnation,1,[]
+Bûche de Nowel rassie,Friandise,1,[]
+Bonbon de Nowel,Friandise,1,[]
+Sylvestre,Parchemin d'attitude,1,[]
+Criminel,Parchemin d'attitude,1,[]
+Saluer,Parchemin d'attitude,1,[]
+Pleurer,Parchemin d'attitude,1,[]
+Jouer de la trompette,Parchemin d'attitude,1,[]
+Jouer de la flûte,Parchemin d'attitude,1,[]
+Faire un signe de la main,Parchemin d'attitude,1,[]
+Faire un bisou,Parchemin d'attitude,1,[]
+Trace de pneu,Parchemin d'attitude,1,[]
+Coquetel enséfal,Boisson,1,[]
+Coquetel lurique,Boisson,1,[]
+Rations de Survie en Milieu Touristique,Friandise,1,[]
+Yiti des Neiges en Sucre Glace,Friandise,1,[]
+Fée Érie de Nowel,Fée d'artifice,1,"['Capsule Explosive', 'Flocon de Neige']"
+Fée d'artifice verte de Pwâk,Fée d'artifice,1,[]
+Fée d'artifice rouge de Pwâk,Fée d'artifice,1,[]
+Krokillage Rouge,Friandise,1,[]
+Potion de renommage de guilde,Potion,1,[]
+Météore,Parchemin d'attitude,1,[]
+Diplôme de Victorus aut Morti,Parchemin de titre,1,[]
+Découpage,Parchemin d'attitude,1,[]
+Tempotion d'expérience,Potion,1,[]
+Mémoire d'un soldat de Bonta,Objet utilisable,1,[]
+Bouataklône ETP-22,Bouataklône,1,[]
+Bouataklône ETP-27,Bouataklône,1,[]
+Bouataklône ETP-29,Bouataklône,1,[]
+Boîte de Bouataklône,Coffre,1,[]
+Lance glacée de Jiva,Parchemin d'attitude,1,[]
+Shariva,Parchemin d'attitude,1,[]
+Tire sur mon doigt,Parchemin d'attitude,1,[]
+Danse de Barbi Cajob,Parchemin d'attitude,1,[]
+Coquetel airéalitai,Boisson,1,[]
+Parchemin du Mantiscroc,Parchemin de sortilège,1,[]
+Manifestation de Raval,Parchemin d'attitude,1,[]
+Parchemin du Vétéran,Parchemin d'ornement,1,[]
+Émoticônes Mercenaire,Parchemin d'émoticônes,1,[]
+Gel de Brumaire,Parchemin d'attitude,1,[]
+Potion de changement des couleurs illimité Astrubienne,Potion,1,[]
+Diplôme de l'Épi fané 653,Parchemin de titre,1,[]
+Diplôme de Wa d'un jour 653,Parchemin de titre,1,[]
+Perlequin Idolâtré à la Banane,Friandise,1,[]
+Perlequin Idolâtré à la Pomme,Friandise,1,[]
+Liquide de réchauffement de Silouate,Potion,1,[]
+Diplôme de Fabophile 654,Parchemin de titre,1,[]
+Mangeoire Classique,Objet d'élevage,1,[]
+Mangeoire en Charme,Objet d'élevage,1,[]
+Caresseur Classique,Objet d'élevage,1,[]
+Abreuvoir en Bambou Magique,Objet d'élevage,1,[]
+Mangeoire en Bois de Bambouto Sacré,Objet d'élevage,1,[]
+Dragofesse en Cuir de Gargrouille,Objet d'élevage,1,[]
+Dragofesse en Cuir de Cochon de Lait,Objet d'élevage,1,[]
+Baffeur en Ébène,Objet d'élevage,1,[]
+Parchemin de Paysan,Parchemin d'expérience,1,[]
+Parchemin de Pêcheur,Parchemin d'expérience,1,[]
+Parchemin de l'Apprivoisement de monture,Parchemin de sortilège,1,[]
+Relique de Kocksis,Relique d'Incarnation,1,[]
+Relique de Laikteur,Relique d'Incarnation,1,[]
+Parchemin des Flaqueux,Objet utilisable,1,[]
+Monstre Pain consommable,Pain,1,[]
+Relique de Rapine,Relique d'Incarnation,1,[]
+Relique d'Ougicle,Relique d'Incarnation,1,[]
+Relique de Kubitus,Relique d'Incarnation,1,[]
+Friswein,Boisson,1,[]
+Frigrowka,Boisson,1,[]
+Offrir un Gâteau,Parchemin d'attitude,1,[]
+Huer,Parchemin d'attitude,1,[]
+Cracheur de feu,Parchemin d'attitude,1,[]
+Mains derrière le dos,Parchemin d'attitude,1,[]
+Voile Eidolonique de Kamasterisk,Objet utilisable,1,[]
+Transcendant,Parchemin d'attitude,1,[]
+Colère de Bolgrot,Parchemin d'attitude,1,[]
+Tonneau de Jus Goûtu,Conteneur,1,[]
+Sachet de Feuilles de Salace,Conteneur,1,[]
+Sachet de Graisse Gélatineuse,Conteneur,1,[]
+Sachet d'Oignons,Conteneur,1,[]
+Sachet de Poudre de Perlinpainpain,Conteneur,1,[]
+Coupe Dofus,Parchemin d'attitude,1,[]
+Breuvage d'Erazal,Potion,1,"['Trèfle à 5 feuilles', 'Mâchoire du Chafer Draugr', 'Bière Atolmond']"
+Magmatique,Parchemin d'attitude,1,[]
+Zombique,Parchemin d'attitude,1,[]
+Diplôme de Miss/Mister Monde des Douze 648,Parchemin de titre,1,[]
+Coup fatal Rushu,Parchemin d'attitude,1,[]
+Coup fatal Ecaflip,Parchemin d'attitude,1,[]
+Supporter Millenium S2,Parchemin d'attitude,1,[]
+Parchemin de Sculpteur de bâtons,Parchemin d'expérience,1,[]
+Petit Parchemin d'Agilité,Parchemin de caractéristique,1,[]
+Petit Parchemin de Sagesse,Parchemin de caractéristique,1,[]
+Petit Parchemin de Chance,Parchemin de caractéristique,1,[]
+Shigekax Fraise,Friandise,1,[]
+Bière du Pinchaut,Bière,1,[]
+Petite Fée d'Artifice Rouge,Fée d'artifice,1,"['Sauge', ""Poudre d'Artifice""]"
+Monstre Brioche de Nowel,Pain,1,[]
+Perle d'Âme,Objet utilisable,1,[]
+Bouf'gomme au Goût Sauvage,Friandise,1,[]
+Bouf'gomme Fraîcheur Lavande,Friandise,1,[]
+Longue-Vue,Parchemin d'attitude,1,[]
+Fée d'artifice Invocatrice de Boufton Noir,Fée d'artifice,1,[]
+Fée d'artifice Invocatrice de Boufton Blanc,Fée d'artifice,1,[]
+Fée d'artifice Etoilée,Fée d'artifice,1,[]
+Fée d'artifice Glandiose,Fée d'artifice,1,[]
+Offrir un Gâteau,Parchemin d'attitude,1,[]
+Huer,Parchemin d'attitude,1,[]
+Cracheur de feu,Parchemin d'attitude,1,[]
+Mains derrière le dos,Parchemin d'attitude,1,[]
+Voile Eidolonique de Kamasterisk,Objet utilisable,1,[]
+Popoche de Havre-Sac Anomalie Temporelle,Popoche de Havre-Sac,1,[]
+Popoche de Havre-Sac Casino,Popoche de Havre-Sac,1,[]
+Popoche de Havre-Sac Coqueline,Popoche de Havre-Sac,1,[]
+Popoche de Havre-Sac Harebourg,Popoche de Havre-Sac,1,[]
+Popoche de Havre-Sac Hiver,Popoche de Havre-Sac,1,[]
+Popoche de Havre-Sac Taverne,Popoche de Havre-Sac,1,[]
+Popoche de Havre-Sac Été,Popoche de Havre-Sac,1,[]
+Diplôme de l'Épi fané 650,Parchemin de titre,1,[]
+Balai magique,Parchemin d'attitude,1,[]
+Diplôme de maîtrise des parchemins,Parchemin de titre,1,[]
+Ballon rouge de Shariva,Objet utilisable,1,[]
+Sharivarise Pomme,Friandise,1,[]
+Sharivarise Reinette,Friandise,1,[]
+Sharivarise Griotte,Friandise,1,[]
+Diplôme de Prophète Éphémère,Parchemin de titre,1,[]
+Pandaporo,Bière,1,[]
+Diplôme de Guerrier saisonnier 650,Parchemin de titre,1,[]
+Limo d'Grobe,Boisson,1,[]
+Bière Tsingtawo,Bière,1,[]
+Diplôme de Forgeur de Minouki,Parchemin de titre,1,[]
+Diplôme du Bordé de Nouilles,Parchemin de titre,1,[]
+Lancer un dé,Parchemin d'attitude,1,[]
+Roulette,Parchemin d'attitude,1,[]
+Perlequin d'Ecaflip City,Friandise,1,[]
+Coup fatal Minouki Boalatas,Parchemin d'attitude,1,[]
+Charmeur de Cooleuvre,Parchemin d'attitude,1,[]
+Diplôme du Fou de la gâchette,Parchemin de titre,1,[]
+Bière du Pandamonium,Bière,1,[]
+Diplôme de Voyageur Spectral,Parchemin de titre,1,[]
+Snap,Parchemin d'attitude,1,[]
+Blanchebière légendaire,Bière,1,[]
+Boufballe dédicacée de Brâkmar,Objet utilisable,1,[]
+Supporter Solary,Parchemin d'attitude,1,[]
+Avalanche de quêtes,Parchemin d'attitude,1,[]
+Popcorn de Bonta,Objet utilisable,1,[]
+Mémoire d'un guerrier d'azur,Objet utilisable,1,[]
+Diplôme du Compagnon Éphémère,Parchemin de titre,1,[]
+Bouataklône ETP-26,Bouataklône,1,[]
+Bouataklône ETP-31,Bouataklône,1,[]
+Bouataklône ETP-32,Bouataklône,1,[]
+Bouataklône ETP-33,Bouataklône,1,[]
+Dragon Ocre,Parchemin d'attitude,1,[]
+Mercenaire,Parchemin d'attitude,1,[]
+Popoche de Havre-Sac Brâkmar,Popoche de Havre-Sac,1,[]
+Popoche de Havre-Sac Bonta,Popoche de Havre-Sac,1,[]
+Porte-Médaille du Mercenaire,Objet utilisable,1,[]
+Quiétude de Maïmane,Parchemin d'attitude,1,[]
+Maniement de la lance,Parchemin d'attitude,1,[]
+Sucette Tofu,Friandise,1,[]
+Hot Dog de Tofu,Viande comestible,1,[]
+Burger de Trool,Viande comestible,1,[]
+Lailait,Boisson,1,[]
+Pandapils,Bière,1,[]
+Panduvel,Bière,1,[]
+Pandarium Tremens,Bière,1,[]
+Chauffe,Bière,1,[]
+Supporter Batailleurs Glorieux S3,Parchemin d'attitude,1,[]
+Déguisement de Champêtrouille,Potion,1,[]
+Déguisement de Chauffe-Soutrille,Potion,1,[]
+Déguisement de Bouftou d'Halouine,Potion,1,[]
+Sac Printanier,Objet utilisable,1,[]
+Sac Balnéaire,Objet utilisable,1,[]
+Sac de Magma,Objet utilisable,1,[]
+Sac Zombique,Objet utilisable,1,[]
+Potion d'Ombre Astrale,Potion,1,[]
+Bourse de reflets oniriques,Objet utilisable,1,[]
+Larme de crocodaille,Boisson,1,[]
+Coffre de reflets oubliés,Objet utilisable,1,[]
+Koukawa Pomme,Friandise,1,[]
+Koukawabi Fraise Citron,Friandise,1,[]
+Koukawabi Pomme Fraise,Friandise,1,[]
+Diplôme de Wa d'un jour,Parchemin de titre,1,[]
+Diplôme de l'Épi fané,Parchemin de titre,1,[]
+J'ai faim,Parchemin d'attitude,1,[]
+Saut de Wapin,Parchemin d'attitude,1,[]
+Coeur brisé,Parchemin d'attitude,1,[]
+Diplôme de Vainqueur de la Dofus Cup 649,Parchemin de titre,1,[]
+Perlequin Chocolat,Friandise,1,[]
+Perlequin Melon,Friandise,1,[]
+Perlequin Pomme,Friandise,1,[]
+Perlequin Vanille,Friandise,1,[]
+Potion d'attitude Sanguinolent,Potion d'attitude,1,[]
+Potion d'attitude Écrire,Potion d'attitude,1,[]
+Potion d'attitude Chanceux,Potion d'attitude,1,[]
+Potion d'attitude Explosif,Potion d'attitude,1,[]
+Chanter,Parchemin d'attitude,1,[]
+Diplôme de Guitariste survolté,Parchemin de titre,1,[]
+Tempotion d'expérience,Potion,1,[]
+Bière d'Ankama,Bière,1,[]
+Gaufres,Friandise,1,[]
+Boisson épicée,Boisson,1,"['Bière du désert', 'Bière cacterre']"
+Boisson sombre,Boisson,1,"['Bière de Gisgoul', 'Bière de Sidimote']"
+Diplôme de Vide-ordures,Parchemin de titre,1,[]
+Sauvage,Parchemin d'attitude,1,[]
+Transcendant,Parchemin d'attitude,1,[]
+Colère de Bolgrot,Parchemin d'attitude,1,[]
+Parchemin de Forgemage,Parchemin d'expérience,1,[]
+Parchemin de Forgemage de Pelles,Parchemin d'expérience,1,[]
+Parchemin de Tailleur,Parchemin d'expérience,1,[]
+Parchemin de Paysan,Parchemin d'expérience,1,[]
+Parchemin de Pêcheur,Parchemin d'expérience,1,[]
+Parchemin de l'Apprivoisement de monture,Parchemin de sortilège,1,[]
+Relique de Kocksis,Relique d'Incarnation,1,[]
+Relique de Laikteur,Relique d'Incarnation,1,[]
+Parchemin des Flaqueux,Objet utilisable,1,[]
+Monstre Pain consommable,Pain,1,[]
+Relique de Rapine,Relique d'Incarnation,1,[]
+Relique d'Ougicle,Relique d'Incarnation,1,[]
+Relique de Kubitus,Relique d'Incarnation,1,[]
+Friswein,Boisson,1,[]
+Frigrowka,Boisson,1,[]
+Paire de skis rustiques jetables,Objet utilisable,1,[]
+Relique d'Haku,Relique d'Incarnation,1,[]
+Téméraire,Parchemin d'attitude,1,[]
+Être Frigorifié,Parchemin d'attitude,1,[]

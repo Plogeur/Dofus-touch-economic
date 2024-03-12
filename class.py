@@ -101,7 +101,7 @@ object_list = {} # "id" = ["Classe" str, "Niveau" int, "Sexe" str, "Serveur" str
                  # ["lvl Guild" int, "Alliance" str, "Alignement" str, "Total XP" int]
                  # ["métier" {str : int}]
 
-string_generator = generate_combinations(2)
+string_generator = generate_combinations(3)
 for name_search in string_generator:
     page=1
     base_url =f"https://www.dofus-touch.com/fr/mmorpg/communaute/annuaires/pages-persos?text={name_search}&page="
