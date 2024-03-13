@@ -1,5 +1,4 @@
 TODO :
-- Comparer les données pc/touch [freq/nb total par données(touch) - freq/nb total par données(pc)]
 - Comparer les armes et équipement en fonction des éléments (terre/air/eau/...)
 - Montrer le nombre de valeurs maquantes
 - Refaire le count des stats par personnages et par classes 
