@@ -21,7 +21,7 @@ Potion Bulbique,Potion,110,"['Farine de Riz', 'Feuille de Kaliptus', 'Fleur de K
 Pain Trépide,Pain,100,"['Levure de Boulanger', 'Huile de Sésame', 'Farine de Malt', 'Farine de Houblon', 'Farine de Xavier le Boulanger', 'Une fiole de Pandapiler', 'Viande de Crocodaille']"
 Potion Torboyo,Potion,100,"['Feuille de Menthe Sauvage', 'Fleur de Chanvre', 'Grande fiole', 'Cerise', 'Perce-Neige', 'Oreille de Bouftonmouth', 'Oreille percée du Fricochère', 'Oreille de Kaniglou']"
 Essence de bosquet,Potion,100,"['Potion de Vieillesse', 'Potion de Souvenir', 'Planche en Charme', 'Planche en Merisier', 'Planche en Oliviolet', 'Planche en Bambou Sombre', 'Planche en Bois de Kaliptus']"
-Eau de la Fontaine de Noffoub,Potion,100,[]
+Eau de la Fontaine de Noffoub,Potion,100,"['Feuille de Menthe Sauvage', 'Trèfle à 5 feuilles', 'Fleur de Lin', 'Fleur de Chanvre', 'Orchidée Freyesque', 'Edelweiss', 'Potion de Vieillesse', 'Poils de Kerubim']"
 Pain de Frostiz soufflé,Pain,100,"['Levure de Boulanger', 'Eau', ""Farine d'Orge"", 'Farine de Malt', 'Farine de Houblon', 'Farine Paysanne', 'Farine de Xavier le Boulanger', 'Farine de Frostiz soufflé']"
 Poisskaille en fricassée,Poisson comestible,100,"['Mesure de sel', 'Dose de jus goûtu', 'Citron', 'Huile à frire', 'Feuille de Salace', 'Épices', 'Mesure de Poivre', 'Poisskaille vidé']"
 Coffre Vorace endormi,Objet utilisable,100,[]
@@ -38,7 +38,7 @@ Pain de Frostiz,Pain,100,"['Levure de Boulanger', 'Eau', ""Farine d'Orge"", 'Far
 Poisskaille Givré en fricassée,Poisson comestible,100,"['Mesure de sel', 'Dose de jus goûtu', 'Citron', 'Huile à frire', 'Feuille de Salace', 'Épices', 'Mesure de Poivre', 'Poisskaille Givré vidé']"
 Pâté impérial,Viande comestible,100,"['Huile à frire', 'Feuille de Salace', 'Oignon', 'Viande de Rat Bougri conservée', 'Viande de Chachachovage conservée', 'Viande de Gélikan conservée', 'Chair de Crabe Hijacob conservée']"
 Potion d'altération,Potion,100,"['Os de Chafer', 'Noix de Cajou', 'Fleur de Lin', 'Farine Paysanne', 'Orchidée Freyesque', 'Goujon', 'Patte de Wabbit', 'Potion de Copeaux de Bois Solides']"
-Essence de bocage,Potion,100,[]
+Essence de bocage,Potion,100,"['Planche en Frêne', 'Planche en bois de Kokoko', 'Planche en Châtaignier', 'Potion de Souvenir', 'Planche en Chêne', 'Planche en Noyer']"
 Pain Gre,Pain,80,"['Levure de Boulanger', 'Eau', ""Farine d'Orge"", ""Farine d'Avoine"", 'Farine Blanche', 'Farine Bise', 'Farine Paysanne']"
 Entrecôte de Kanigrou **,Viande comestible,80,"['Mesure de sel', 'Huile à frire', 'Feuille de Salace', 'Mesure de Poivre', 'Sang infecté', 'Viande de Kanigrou Conservée **']"
 Entrecôte de Kanigrou,Viande comestible,80,"['Mesure de sel', 'Huile à frire', 'Feuille de Salace', 'Mesure de Poivre', 'Sang infecté', 'Viande de Kanigrou Conservée']"
@@ -46,7 +46,7 @@ Entrecôte de Crocodaille,Viande comestible,70,"['Mesure de sel', 'Dose de jus g
 Brioche Dorée,Pain,60,[]
 Cocawotte,Potion de téléportation,60,[]
 Pain aux Céréales,Pain,60,[]
-Sang de Likrone,Potion,60,[]
+Sang de Likrone,Potion,60,"['Feuille de Menthe Sauvage', 'Trèfle à 5 feuilles', 'Orchidée Freyesque', 'Edelweiss', 'Grande fiole', 'Cerise']"
 Potion Eau de fée,Potion,60,"['Fleur de Lin', 'Fleur de Chanvre', 'Orchidée Freyesque', 'Edelweiss', 'Grande fiole', 'Cerise']"
 Pain aux Céréales,Pain,60,"['Farine de Blé', 'Levure de Boulanger', 'Eau', ""Farine d'Orge"", 'Farine de Seigle', ""Farine d'Avoine""]"
 Le Saut Sifflard,Objet utilisable,60,[]
@@ -79,7 +79,7 @@ Briochette,Pain,20,"['Levure de Boulanger', 'Eau', 'Oeuf de Tofu', 'Farine de Ho
 Briochette magique,Pain,20,"['Levure de Boulanger', 'Eau', 'Oeuf de Tofu', 'Farine de Houblon Magique']"
 Fiole de Soin supérieure,Potion,20,"['Trèfle à 5 feuilles', 'Edelweiss', 'Tube longiforme', 'Cerise']"
 Pain aux Graines de Sésame,Pain,20,"['Levure de Boulanger', 'Graine de Sésame', 'Eau', 'Farine Blanche']"
-Potion Pahoa Raide,Potion,20,[]
+Potion Pahoa Raide,Potion,20,"['Feuille de Menthe Sauvage', 'Trèfle à 5 feuilles', 'Orchidée Freyesque', 'Potion de Vieillesse']"
 Cervelle de vampire,Objet utilisable,20,[]
 Pain de Seigle,Pain,20,"['Levure de Boulanger', 'Eau', 'Farine de Seigle', 'Seigle']"
 Brioche à la viande de bouftou,Pain,20,"['Mesure de sel', 'Cuisse de Bouftou **', 'Mesure de Poivre', 'Briochette']"
@@ -261,8 +261,8 @@ Une fiole de Pandaburg,Boisson,1,[]
 Une fiole de Pandapiler,Boisson,1,[]
 Carré de Chocolat Blanc,Friandise,1,[]
 Potion d'oubli : Furie,Potion d'oubli de sort,1,[]
-Rune du Chasseur,Pierre magique,1,[]
-Rune du Forgeur d'Epées,Pierre magique,1,[]
+Rune du Chasseur,Pierre magique,1,"['Fleur de Chanvre', 'Feuille de Salace', 'Cuisse de Bouftou Conservée **']"
+Rune du Forgeur d'Epées,Pierre magique,1,"['Bauxite', 'Bois de Noyer', 'Oignon']"
 Rune du Poissonnier,Pierre magique,1,"['Bois de Noyer', ""Carpe d'Iem"", 'Feuille de Salace']"
 Rune du Tailleur,Pierre magique,1,"['Chanvre', 'Poisson-Chaton', 'Feuille de Salace']"
 Rune du Forgemage d'Epées,Pierre magique,1,"['Or', 'Bois de Noyer', 'Mesure de sel']"
@@ -481,7 +481,7 @@ Truite flambée **,Poisson comestible,1,"['Citron', 'Truite vidée']"
 Kralamoure grillé ****,Poisson comestible,1,"['Dose de jus goûtu', 'Citron', 'Kralamoure Unique vidé', 'Huile à frire']"
 Nuggets,Viande comestible,1,"['Huile à frire', ""Viande d'Oiseau Conservée""]"
 Boulettes d'Insecte **,Viande comestible,1,"['Mesure de sel', 'Citron', ""Chair d'Insecte Conservée **""]"
-Bifstèque de Dragoviande ****,Viande comestible,1,[]
+Bifstèque de Dragoviande ****,Viande comestible,1,"['Mesure de sel', 'Dose de jus goûtu', 'Oignon', 'Dragoviande Conservée ****']"
 Wabbit gwillé ***,Viande comestible,1,"['Huile à frire', 'Épices', 'Mesure de Poivre', 'Cuisse de Wabbit Conservée ***']"
 Jambon cuit ***,Viande comestible,1,"['Feuille de Salace', 'Mesure de Poivre', 'Carré de Porc Conservé ***']"
 Nuggets ****,Viande comestible,1,"['Huile à frire', ""Viande d'Oiseau Conservée ****""]"
@@ -634,7 +634,7 @@ Potion d'oubli : Chance d'Ecaflip,Potion d'oubli de sort,1,[]
 Potion d'oubli : Bluff,Potion d'oubli de sort,1,[]
 Potion d'oubli : Tout ou Rien,Potion d'oubli de sort,1,[]
 Potion d'oubli : Roue de la Fortune,Potion d'oubli de sort,1,[]
-Potion de Mini Soin,Potion,1,[]
+Potion de Mini Soin,Potion,1,"['Fleur de Lin', 'Cerise']"
 Potion d'oubli : Armure Incandescente,Potion d'oubli de sort,1,[]
 Potion d'oubli : Attaque Nuageuse,Potion d'oubli de sort,1,[]
 Potion d'oubli : Poutch,Potion d'oubli de sort,1,[]
@@ -695,8 +695,8 @@ Truite flambée ***,Poisson comestible,1,"['Citron', 'Truite vidée']"
 Brochet farci ***,Poisson comestible,1,"['Greu-Vette', 'Mesure de sel', 'Dose de jus goûtu', 'Citron', 'Brochet vidé']"
 Requin aux épices ***,Poisson comestible,1,"['Mesure de sel', 'Dose de jus goûtu', 'Citron', 'Requin marteau-faucille vidé', 'Huile à frire', 'Oignon', 'Épices']"
 Larve croque-sel **,Viande comestible,1,"['Mesure de sel', 'Chair de Larve Conservée **']"
-Larve croque-sel ***,Viande comestible,1,[]
-Boulettes d'Insecte,Viande comestible,1,[]
+Larve croque-sel ***,Viande comestible,1,"['Mesure de sel', 'Chair de Larve Conservée ***']"
+Boulettes d'Insecte,Viande comestible,1,"['Mesure de sel', 'Graisse de Gelée', ""Chair d'Insecte Conservée""]"
 Bifstèque de Dragoviande,Viande comestible,1,"['Mesure de sel', 'Dose de jus goûtu', 'Oignon', 'Dragoviande Conservée']"
 Bifstèque de Dragoviande **,Viande comestible,1,"['Mesure de sel', 'Dose de jus goûtu', 'Oignon', 'Dragoviande Conservée **']"
 Bière du Alakarte,Bière,1,[]
@@ -889,7 +889,7 @@ potion d'oubli de métier : Sculpteur de Baguettes,Potion d'oubli de métier,1,"
 Potion d'oubli de métier : Forgeur de Pelles,Potion d'oubli de métier,1,"['Pelle de Boisaille', 'Potion de Vieillesse']"
 Potion d'oubli de métier : Tailleur,Potion d'oubli de métier,1,"['Potion de Vieillesse', 'Aiguilles et Fil']"
 Potion d'oubli de métier : Sculptemage de Baguettes,Potion d'oubli de métier,1,"['Potion de Vieillesse', 'Demi-Baguette']"
-Bâton de crabe **,Poisson comestible,1,[]
+Bâton de crabe **,Poisson comestible,1,"['Dose de jus goûtu', 'Crabe Sourimi vidé']"
 Bar grillé ***,Poisson comestible,1,"['Mesure de sel', 'Dose de jus goûtu', 'Citron', 'Crabe Sourimi vidé', 'Bar Rikain vidé', 'Feuille de Salace']"
 Beignet de Greu-vette **,Poisson comestible,1,"['Greu-vette vidée', 'Huile à frire']"
 Aile de Raie ***,Poisson comestible,1,"['Feuille de Menthe Sauvage', 'Dose de jus goûtu', 'Citron', 'Raie bleue vidée', 'Huile à frire', 'Oignon']"
@@ -897,7 +897,7 @@ Kralamoure grillé **,Poisson comestible,1,"['Dose de jus goûtu', 'Citron', 'Kr
 Truite flambée ****,Poisson comestible,1,"['Citron', 'Truite Ancestrale vidée']"
 Requin aux épices **,Poisson comestible,1,"['Mesure de sel', 'Dose de jus goûtu', 'Citron', 'Requin marteau-faucille vidé', 'Huile à frire', 'Oignon', 'Épices']"
 Requin aux épices ****,Poisson comestible,1,"['Mesure de sel', 'Dose de jus goûtu', 'Citron', 'Requin marché-libre vidé', 'Feuille de Salace', 'Oignon']"
-Nuggets **,Viande comestible,1,[]
+Nuggets **,Viande comestible,1,"['Huile à frire', ""Viande d'Oiseau Conservée **""]"
 Larve croque-sel,Viande comestible,1,"['Mesure de sel', 'Chair de Larve Conservée']"
 Cuisse de bouftou rôti **,Viande comestible,1,"['Dose de jus goûtu', 'Huile à frire', 'Cuisse de Bouftou Conservée **']"
 Jambon cuit **,Viande comestible,1,"['Feuille de Salace', 'Mesure de Poivre', 'Carré de Porc Conservé **']"
@@ -925,7 +925,7 @@ Caresseur en Plume de Tofu,Objet d'élevage,1,"['Plumes de Tofu', 'Planche en Fr
 Baffeur Classique,Objet d'élevage,1,[]
 Baffeur en Chêne,Objet d'élevage,1,"[""Racine d'Abraknyde"", 'Kole', 'Planche en Chêne']"
 Dragofesse en Cuir de Gliglitch,Objet d'élevage,1,"['Potion de Secousse', 'Cuir de Gliglitch']"
-Potion de Souvenir,Potion,1,[]
+Potion de Souvenir,Potion,1,"['Bave de Bouftou', 'Graine de Pandouille']"
 Abreuvoir en Bois Ancestral,Objet d'élevage,1,"['Fiole de Soin', 'Eau', 'Potion de Vieillesse', 'Potion de Mini Soin', 'Potion de Mini Soin Supérieure', 'Potion Eau de fée', 'Sang de Likrone', 'Planche en Bois Ancestral']"
 Abreuvoir en Bois de Kokoko,Objet d'élevage,1,"['Eau', 'Planche en bois de Kokoko']"
 Mangeoire en Bois Ancestral,Objet d'élevage,1,"['Blé', 'Orge', 'Houblon', 'Lin', 'Seigle', 'Avoine', 'Potion Ghetto Raide', 'Planche en Bois Ancestral']"
@@ -1115,7 +1115,7 @@ Cuisse de bouftou rôti ****,Viande comestible,1,"['Dose de jus goûtu', 'Huile 
 Wabbit gwillé ****,Viande comestible,1,"['Huile à frire', 'Épices', 'Mesure de Poivre', 'Cuisse de Wabbit Conservée ****']"
 Jambon cuit,Viande comestible,1,"['Feuille de Salace', 'Mesure de Poivre', 'Carré de Porc Conservé']"
 Jambon cuit ****,Viande comestible,1,"['Feuille de Salace', 'Mesure de Poivre', 'Carré de Porc Conservé ****']"
-Pain consistant magique,Pain,1,[]
+Pain consistant magique,Pain,1,"['Eau', 'Farine de Lin magique']"
 Potion d'oubli : Cawotte,Potion d'oubli de sort,1,[]
 Potion d'oubli : Foudroiement,Potion d'oubli de sort,1,[]
 Potion d'oubli : Brokle,Potion d'oubli de sort,1,[]
