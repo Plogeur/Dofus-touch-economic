@@ -16,9 +16,9 @@ Analyse graphique avec Power BI : En plus des visualisations créées dans le no
 ## Comment utiliser ce projet
 Cloner ce dépôt GitHub localement sur votre machine.
 
-bash
-Copy code
+```bash
 git clone https://github.com/Plogeur/Dofus-touch-economic.git
+```
 Installer les dépendances Python en exécutant la commande suivante dans votre terminal :
 
 Copy code
