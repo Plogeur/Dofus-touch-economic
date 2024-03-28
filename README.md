@@ -21,8 +21,9 @@ git clone https://github.com/Plogeur/Dofus-touch-economic.git
 ```
 Installer les dépendances Python en exécutant la commande suivante dans votre terminal :
 
-Copy code
+```bash
 pip install -r requirements.txt
+```
 Ouvrir le notebook Jupyter et exécuter les cellules pour exécuter le script Python et explorer les données.
 
 Utiliser Power BI pour ouvrir et explorer les visualisations supplémentaires fournies dans le fichier Power BI inclus dans le projet.
